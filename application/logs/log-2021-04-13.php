@@ -25997,3 +25997,7235 @@ ERROR - 2021-04-13 17:16:14 --> Severity: Warning --> Undefined array key "nama_
 DEBUG - 2021-04-13 17:16:14 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/commision.member/views/manage.php
 INFO - 2021-04-13 17:16:14 --> Final output sent to browser
 DEBUG - 2021-04-13 17:16:14 --> Total execution time: 3.2243
+INFO - 2021-04-13 17:21:08 --> Config Class Initialized
+INFO - 2021-04-13 17:21:08 --> Hooks Class Initialized
+DEBUG - 2021-04-13 17:21:08 --> UTF-8 Support Enabled
+INFO - 2021-04-13 17:21:08 --> Utf8 Class Initialized
+INFO - 2021-04-13 17:21:08 --> URI Class Initialized
+INFO - 2021-04-13 17:21:08 --> Router Class Initialized
+INFO - 2021-04-13 17:21:08 --> Output Class Initialized
+INFO - 2021-04-13 17:21:09 --> Security Class Initialized
+DEBUG - 2021-04-13 17:21:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 17:21:09 --> Input Class Initialized
+INFO - 2021-04-13 17:21:09 --> Language Class Initialized
+INFO - 2021-04-13 17:21:09 --> Language Class Initialized
+INFO - 2021-04-13 17:21:09 --> Config Class Initialized
+INFO - 2021-04-13 17:21:09 --> Loader Class Initialized
+DEBUG - 2021-04-13 17:21:09 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 17:21:09 --> Helper loaded: language_helper
+INFO - 2021-04-13 17:21:09 --> Helper loaded: file_helper
+INFO - 2021-04-13 17:21:09 --> Helper loaded: url_helper
+INFO - 2021-04-13 17:21:09 --> Helper loaded: form_helper
+INFO - 2021-04-13 17:21:09 --> Helper loaded: html_helper
+INFO - 2021-04-13 17:21:09 --> Helper loaded: typography_helper
+INFO - 2021-04-13 17:21:09 --> Helper loaded: date_helper
+INFO - 2021-04-13 17:21:09 --> Helper loaded: general_helper
+INFO - 2021-04-13 17:21:09 --> Helper loaded: app_helper
+INFO - 2021-04-13 17:21:09 --> Helper loaded: security_helper
+INFO - 2021-04-13 17:21:09 --> Helper loaded: files_helper
+INFO - 2021-04-13 17:21:09 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 17:21:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 17:21:10 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 17:21:10 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 17:21:10 --> Upload Class Initialized
+INFO - 2021-04-13 17:21:10 --> Form Validation Class Initialized
+INFO - 2021-04-13 17:21:10 --> Email Class Initialized
+INFO - 2021-04-13 17:21:10 --> Model Class Initialized
+INFO - 2021-04-13 17:21:10 --> Controller Class Initialized
+DEBUG - 2021-04-13 17:21:10 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 17:21:10 --> Model Class Initialized
+DEBUG - 2021-04-13 17:21:10 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 17:21:10 --> Final output sent to browser
+DEBUG - 2021-04-13 17:21:10 --> Total execution time: 2.4542
+INFO - 2021-04-13 17:25:09 --> Config Class Initialized
+INFO - 2021-04-13 17:25:09 --> Hooks Class Initialized
+DEBUG - 2021-04-13 17:25:09 --> UTF-8 Support Enabled
+INFO - 2021-04-13 17:25:09 --> Utf8 Class Initialized
+INFO - 2021-04-13 17:25:09 --> URI Class Initialized
+INFO - 2021-04-13 17:25:09 --> Router Class Initialized
+INFO - 2021-04-13 17:25:09 --> Output Class Initialized
+INFO - 2021-04-13 17:25:09 --> Security Class Initialized
+DEBUG - 2021-04-13 17:25:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 17:25:09 --> Input Class Initialized
+INFO - 2021-04-13 17:25:09 --> Language Class Initialized
+INFO - 2021-04-13 17:25:09 --> Language Class Initialized
+INFO - 2021-04-13 17:25:09 --> Config Class Initialized
+INFO - 2021-04-13 17:25:09 --> Loader Class Initialized
+DEBUG - 2021-04-13 17:25:09 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 17:25:09 --> Helper loaded: language_helper
+INFO - 2021-04-13 17:25:09 --> Helper loaded: file_helper
+INFO - 2021-04-13 17:25:09 --> Helper loaded: url_helper
+INFO - 2021-04-13 17:25:09 --> Helper loaded: form_helper
+INFO - 2021-04-13 17:25:09 --> Helper loaded: html_helper
+INFO - 2021-04-13 17:25:09 --> Helper loaded: typography_helper
+INFO - 2021-04-13 17:25:09 --> Helper loaded: date_helper
+INFO - 2021-04-13 17:25:09 --> Helper loaded: general_helper
+INFO - 2021-04-13 17:25:09 --> Helper loaded: app_helper
+INFO - 2021-04-13 17:25:09 --> Helper loaded: security_helper
+INFO - 2021-04-13 17:25:09 --> Helper loaded: files_helper
+INFO - 2021-04-13 17:25:09 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 17:25:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 17:25:09 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 17:25:09 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 17:25:09 --> Upload Class Initialized
+INFO - 2021-04-13 17:25:09 --> Form Validation Class Initialized
+INFO - 2021-04-13 17:25:09 --> Email Class Initialized
+INFO - 2021-04-13 17:25:09 --> Model Class Initialized
+INFO - 2021-04-13 17:25:09 --> Controller Class Initialized
+DEBUG - 2021-04-13 17:25:09 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 17:25:09 --> Model Class Initialized
+DEBUG - 2021-04-13 17:25:09 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 17:25:09 --> Final output sent to browser
+DEBUG - 2021-04-13 17:25:09 --> Total execution time: 0.1772
+INFO - 2021-04-13 17:25:17 --> Config Class Initialized
+INFO - 2021-04-13 17:25:17 --> Hooks Class Initialized
+DEBUG - 2021-04-13 17:25:17 --> UTF-8 Support Enabled
+INFO - 2021-04-13 17:25:17 --> Utf8 Class Initialized
+INFO - 2021-04-13 17:25:17 --> URI Class Initialized
+INFO - 2021-04-13 17:25:17 --> Router Class Initialized
+INFO - 2021-04-13 17:25:17 --> Output Class Initialized
+INFO - 2021-04-13 17:25:17 --> Security Class Initialized
+DEBUG - 2021-04-13 17:25:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 17:25:17 --> Input Class Initialized
+INFO - 2021-04-13 17:25:17 --> Language Class Initialized
+INFO - 2021-04-13 17:25:17 --> Language Class Initialized
+INFO - 2021-04-13 17:25:17 --> Config Class Initialized
+INFO - 2021-04-13 17:25:17 --> Loader Class Initialized
+DEBUG - 2021-04-13 17:25:17 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 17:25:17 --> Helper loaded: language_helper
+INFO - 2021-04-13 17:25:17 --> Helper loaded: file_helper
+INFO - 2021-04-13 17:25:17 --> Helper loaded: url_helper
+INFO - 2021-04-13 17:25:17 --> Helper loaded: form_helper
+INFO - 2021-04-13 17:25:17 --> Helper loaded: html_helper
+INFO - 2021-04-13 17:25:17 --> Helper loaded: typography_helper
+INFO - 2021-04-13 17:25:17 --> Helper loaded: date_helper
+INFO - 2021-04-13 17:25:17 --> Helper loaded: general_helper
+INFO - 2021-04-13 17:25:17 --> Helper loaded: app_helper
+INFO - 2021-04-13 17:25:17 --> Helper loaded: security_helper
+INFO - 2021-04-13 17:25:17 --> Helper loaded: files_helper
+INFO - 2021-04-13 17:25:17 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 17:25:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 17:25:17 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 17:25:17 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 17:25:17 --> Upload Class Initialized
+INFO - 2021-04-13 17:25:17 --> Form Validation Class Initialized
+INFO - 2021-04-13 17:25:17 --> Email Class Initialized
+INFO - 2021-04-13 17:25:17 --> Model Class Initialized
+INFO - 2021-04-13 17:25:17 --> Controller Class Initialized
+DEBUG - 2021-04-13 17:25:17 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 17:25:17 --> Model Class Initialized
+DEBUG - 2021-04-13 17:25:17 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 17:25:17 --> Final output sent to browser
+DEBUG - 2021-04-13 17:25:17 --> Total execution time: 0.1318
+INFO - 2021-04-13 17:25:22 --> Config Class Initialized
+INFO - 2021-04-13 17:25:22 --> Hooks Class Initialized
+DEBUG - 2021-04-13 17:25:22 --> UTF-8 Support Enabled
+INFO - 2021-04-13 17:25:22 --> Utf8 Class Initialized
+INFO - 2021-04-13 17:25:22 --> URI Class Initialized
+INFO - 2021-04-13 17:25:22 --> Router Class Initialized
+INFO - 2021-04-13 17:25:22 --> Output Class Initialized
+INFO - 2021-04-13 17:25:22 --> Security Class Initialized
+DEBUG - 2021-04-13 17:25:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 17:25:22 --> Input Class Initialized
+INFO - 2021-04-13 17:25:22 --> Language Class Initialized
+INFO - 2021-04-13 17:25:22 --> Language Class Initialized
+INFO - 2021-04-13 17:25:22 --> Config Class Initialized
+INFO - 2021-04-13 17:25:22 --> Loader Class Initialized
+DEBUG - 2021-04-13 17:25:22 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 17:25:22 --> Helper loaded: language_helper
+INFO - 2021-04-13 17:25:22 --> Helper loaded: file_helper
+INFO - 2021-04-13 17:25:22 --> Helper loaded: url_helper
+INFO - 2021-04-13 17:25:22 --> Helper loaded: form_helper
+INFO - 2021-04-13 17:25:22 --> Helper loaded: html_helper
+INFO - 2021-04-13 17:25:22 --> Helper loaded: typography_helper
+INFO - 2021-04-13 17:25:22 --> Helper loaded: date_helper
+INFO - 2021-04-13 17:25:22 --> Helper loaded: general_helper
+INFO - 2021-04-13 17:25:22 --> Helper loaded: app_helper
+INFO - 2021-04-13 17:25:22 --> Helper loaded: security_helper
+INFO - 2021-04-13 17:25:22 --> Helper loaded: files_helper
+INFO - 2021-04-13 17:25:22 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 17:25:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 17:25:22 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 17:25:22 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 17:25:22 --> Upload Class Initialized
+INFO - 2021-04-13 17:25:22 --> Form Validation Class Initialized
+INFO - 2021-04-13 17:25:22 --> Email Class Initialized
+INFO - 2021-04-13 17:25:22 --> Model Class Initialized
+INFO - 2021-04-13 17:25:22 --> Controller Class Initialized
+DEBUG - 2021-04-13 17:25:22 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 17:25:22 --> Model Class Initialized
+DEBUG - 2021-04-13 17:25:22 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 17:25:22 --> Final output sent to browser
+DEBUG - 2021-04-13 17:25:22 --> Total execution time: 0.1350
+INFO - 2021-04-13 17:26:44 --> Config Class Initialized
+INFO - 2021-04-13 17:26:44 --> Hooks Class Initialized
+DEBUG - 2021-04-13 17:26:44 --> UTF-8 Support Enabled
+INFO - 2021-04-13 17:26:44 --> Utf8 Class Initialized
+INFO - 2021-04-13 17:26:44 --> URI Class Initialized
+INFO - 2021-04-13 17:26:44 --> Router Class Initialized
+INFO - 2021-04-13 17:26:44 --> Output Class Initialized
+INFO - 2021-04-13 17:26:44 --> Security Class Initialized
+DEBUG - 2021-04-13 17:26:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 17:26:44 --> Input Class Initialized
+INFO - 2021-04-13 17:26:44 --> Language Class Initialized
+INFO - 2021-04-13 17:26:44 --> Language Class Initialized
+INFO - 2021-04-13 17:26:44 --> Config Class Initialized
+INFO - 2021-04-13 17:26:44 --> Loader Class Initialized
+DEBUG - 2021-04-13 17:26:44 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 17:26:44 --> Helper loaded: language_helper
+INFO - 2021-04-13 17:26:44 --> Helper loaded: file_helper
+INFO - 2021-04-13 17:26:44 --> Helper loaded: url_helper
+INFO - 2021-04-13 17:26:44 --> Helper loaded: form_helper
+INFO - 2021-04-13 17:26:44 --> Helper loaded: html_helper
+INFO - 2021-04-13 17:26:44 --> Helper loaded: typography_helper
+INFO - 2021-04-13 17:26:44 --> Helper loaded: date_helper
+INFO - 2021-04-13 17:26:44 --> Helper loaded: general_helper
+INFO - 2021-04-13 17:26:44 --> Helper loaded: app_helper
+INFO - 2021-04-13 17:26:44 --> Helper loaded: security_helper
+INFO - 2021-04-13 17:26:44 --> Helper loaded: files_helper
+INFO - 2021-04-13 17:26:44 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 17:26:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 17:26:44 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 17:26:44 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 17:26:44 --> Upload Class Initialized
+INFO - 2021-04-13 17:26:44 --> Form Validation Class Initialized
+INFO - 2021-04-13 17:26:45 --> Email Class Initialized
+INFO - 2021-04-13 17:26:45 --> Model Class Initialized
+INFO - 2021-04-13 17:26:45 --> Controller Class Initialized
+DEBUG - 2021-04-13 17:26:45 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 17:26:45 --> Model Class Initialized
+DEBUG - 2021-04-13 17:26:45 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 17:26:45 --> Final output sent to browser
+DEBUG - 2021-04-13 17:26:45 --> Total execution time: 0.1225
+INFO - 2021-04-13 17:27:03 --> Config Class Initialized
+INFO - 2021-04-13 17:27:03 --> Hooks Class Initialized
+DEBUG - 2021-04-13 17:27:03 --> UTF-8 Support Enabled
+INFO - 2021-04-13 17:27:03 --> Utf8 Class Initialized
+INFO - 2021-04-13 17:27:03 --> URI Class Initialized
+INFO - 2021-04-13 17:27:03 --> Router Class Initialized
+INFO - 2021-04-13 17:27:03 --> Output Class Initialized
+INFO - 2021-04-13 17:27:03 --> Security Class Initialized
+DEBUG - 2021-04-13 17:27:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 17:27:03 --> Input Class Initialized
+INFO - 2021-04-13 17:27:03 --> Language Class Initialized
+INFO - 2021-04-13 17:27:03 --> Language Class Initialized
+INFO - 2021-04-13 17:27:03 --> Config Class Initialized
+INFO - 2021-04-13 17:27:03 --> Loader Class Initialized
+DEBUG - 2021-04-13 17:27:03 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 17:27:03 --> Helper loaded: language_helper
+INFO - 2021-04-13 17:27:03 --> Helper loaded: file_helper
+INFO - 2021-04-13 17:27:03 --> Helper loaded: url_helper
+INFO - 2021-04-13 17:27:03 --> Helper loaded: form_helper
+INFO - 2021-04-13 17:27:03 --> Helper loaded: html_helper
+INFO - 2021-04-13 17:27:03 --> Helper loaded: typography_helper
+INFO - 2021-04-13 17:27:03 --> Helper loaded: date_helper
+INFO - 2021-04-13 17:27:03 --> Helper loaded: general_helper
+INFO - 2021-04-13 17:27:03 --> Helper loaded: app_helper
+INFO - 2021-04-13 17:27:03 --> Helper loaded: security_helper
+INFO - 2021-04-13 17:27:03 --> Helper loaded: files_helper
+INFO - 2021-04-13 17:27:03 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 17:27:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 17:27:03 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 17:27:03 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 17:27:03 --> Upload Class Initialized
+INFO - 2021-04-13 17:27:03 --> Form Validation Class Initialized
+INFO - 2021-04-13 17:27:03 --> Email Class Initialized
+INFO - 2021-04-13 17:27:03 --> Model Class Initialized
+INFO - 2021-04-13 17:27:03 --> Controller Class Initialized
+DEBUG - 2021-04-13 17:27:03 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 17:27:03 --> Model Class Initialized
+DEBUG - 2021-04-13 17:27:03 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 17:27:03 --> Final output sent to browser
+DEBUG - 2021-04-13 17:27:03 --> Total execution time: 0.2003
+INFO - 2021-04-13 18:02:03 --> Config Class Initialized
+INFO - 2021-04-13 18:02:03 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:02:03 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:02:03 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:02:03 --> URI Class Initialized
+INFO - 2021-04-13 18:02:03 --> Router Class Initialized
+INFO - 2021-04-13 18:02:03 --> Output Class Initialized
+INFO - 2021-04-13 18:02:03 --> Security Class Initialized
+DEBUG - 2021-04-13 18:02:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:02:03 --> Input Class Initialized
+INFO - 2021-04-13 18:02:03 --> Language Class Initialized
+INFO - 2021-04-13 18:02:03 --> Language Class Initialized
+INFO - 2021-04-13 18:02:03 --> Config Class Initialized
+INFO - 2021-04-13 18:02:03 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:02:03 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:02:03 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:02:03 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:02:03 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:02:03 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:02:03 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:02:03 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:02:03 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:02:03 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:02:03 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:02:03 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:02:03 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:02:03 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:02:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:02:03 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:02:03 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:02:03 --> Upload Class Initialized
+INFO - 2021-04-13 18:02:03 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:02:03 --> Email Class Initialized
+INFO - 2021-04-13 18:02:03 --> Model Class Initialized
+INFO - 2021-04-13 18:02:03 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:02:03 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:02:03 --> Model Class Initialized
+DEBUG - 2021-04-13 18:02:03 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:02:03 --> Final output sent to browser
+DEBUG - 2021-04-13 18:02:03 --> Total execution time: 0.1054
+INFO - 2021-04-13 18:02:03 --> Config Class Initialized
+INFO - 2021-04-13 18:02:03 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:02:03 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:02:03 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:02:03 --> URI Class Initialized
+INFO - 2021-04-13 18:02:03 --> Router Class Initialized
+INFO - 2021-04-13 18:02:03 --> Output Class Initialized
+INFO - 2021-04-13 18:02:03 --> Config Class Initialized
+INFO - 2021-04-13 18:02:03 --> Hooks Class Initialized
+INFO - 2021-04-13 18:02:03 --> Security Class Initialized
+DEBUG - 2021-04-13 18:02:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:02:03 --> Input Class Initialized
+DEBUG - 2021-04-13 18:02:03 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:02:03 --> Language Class Initialized
+INFO - 2021-04-13 18:02:03 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:02:03 --> URI Class Initialized
+INFO - 2021-04-13 18:02:03 --> Router Class Initialized
+ERROR - 2021-04-13 18:02:03 --> 404 Page Not Found: /index
+INFO - 2021-04-13 18:02:03 --> Output Class Initialized
+INFO - 2021-04-13 18:02:03 --> Security Class Initialized
+DEBUG - 2021-04-13 18:02:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:02:03 --> Input Class Initialized
+INFO - 2021-04-13 18:02:03 --> Language Class Initialized
+ERROR - 2021-04-13 18:02:03 --> 404 Page Not Found: /index
+INFO - 2021-04-13 18:02:23 --> Config Class Initialized
+INFO - 2021-04-13 18:02:23 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:02:23 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:02:23 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:02:23 --> URI Class Initialized
+INFO - 2021-04-13 18:02:23 --> Router Class Initialized
+INFO - 2021-04-13 18:02:23 --> Output Class Initialized
+INFO - 2021-04-13 18:02:23 --> Security Class Initialized
+DEBUG - 2021-04-13 18:02:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:02:23 --> Input Class Initialized
+INFO - 2021-04-13 18:02:23 --> Language Class Initialized
+INFO - 2021-04-13 18:02:23 --> Language Class Initialized
+INFO - 2021-04-13 18:02:23 --> Config Class Initialized
+INFO - 2021-04-13 18:02:23 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:02:23 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:02:23 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:02:23 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:02:23 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:02:23 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:02:23 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:02:23 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:02:23 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:02:23 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:02:23 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:02:23 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:02:23 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:02:23 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:02:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:02:23 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:02:23 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:02:23 --> Upload Class Initialized
+INFO - 2021-04-13 18:02:23 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:02:23 --> Email Class Initialized
+INFO - 2021-04-13 18:02:23 --> Model Class Initialized
+INFO - 2021-04-13 18:02:23 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:02:23 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/training.member/models/Training_model.php
+INFO - 2021-04-13 18:02:23 --> Model Class Initialized
+DEBUG - 2021-04-13 18:02:23 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/training.member/models/Modul_model.php
+INFO - 2021-04-13 18:02:23 --> Model Class Initialized
+ERROR - 2021-04-13 18:02:23 --> Severity: Warning --> Undefined variable $dataKategori C:\xampp\htdocs\member_madad-master\application\modules\training.member\controllers\Manage.php 44
+DEBUG - 2021-04-13 18:02:23 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/training.member/views/manage.php
+INFO - 2021-04-13 18:02:23 --> Final output sent to browser
+DEBUG - 2021-04-13 18:02:23 --> Total execution time: 0.2121
+INFO - 2021-04-13 18:02:25 --> Config Class Initialized
+INFO - 2021-04-13 18:02:25 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:02:25 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:02:25 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:02:25 --> URI Class Initialized
+INFO - 2021-04-13 18:02:25 --> Router Class Initialized
+INFO - 2021-04-13 18:02:25 --> Output Class Initialized
+INFO - 2021-04-13 18:02:25 --> Security Class Initialized
+DEBUG - 2021-04-13 18:02:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:02:25 --> Input Class Initialized
+INFO - 2021-04-13 18:02:25 --> Language Class Initialized
+INFO - 2021-04-13 18:02:25 --> Language Class Initialized
+INFO - 2021-04-13 18:02:25 --> Config Class Initialized
+INFO - 2021-04-13 18:02:25 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:02:25 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:02:25 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:02:25 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:02:25 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:02:25 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:02:25 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:02:25 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:02:25 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:02:25 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:02:25 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:02:25 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:02:25 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:02:25 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:02:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:02:25 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:02:25 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:02:25 --> Upload Class Initialized
+INFO - 2021-04-13 18:02:25 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:02:25 --> Email Class Initialized
+INFO - 2021-04-13 18:02:25 --> Model Class Initialized
+INFO - 2021-04-13 18:02:25 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:02:25 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/training.member/models/Training_model.php
+INFO - 2021-04-13 18:02:25 --> Model Class Initialized
+DEBUG - 2021-04-13 18:02:25 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/training.member/models/Modul_model.php
+INFO - 2021-04-13 18:02:25 --> Model Class Initialized
+DEBUG - 2021-04-13 18:02:25 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/training.member/views/modul.php
+INFO - 2021-04-13 18:02:25 --> Final output sent to browser
+DEBUG - 2021-04-13 18:02:25 --> Total execution time: 0.1188
+INFO - 2021-04-13 18:02:26 --> Config Class Initialized
+INFO - 2021-04-13 18:02:26 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:02:26 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:02:26 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:02:26 --> URI Class Initialized
+INFO - 2021-04-13 18:02:26 --> Router Class Initialized
+INFO - 2021-04-13 18:02:26 --> Output Class Initialized
+INFO - 2021-04-13 18:02:26 --> Security Class Initialized
+DEBUG - 2021-04-13 18:02:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:02:26 --> Input Class Initialized
+INFO - 2021-04-13 18:02:26 --> Language Class Initialized
+INFO - 2021-04-13 18:02:26 --> Language Class Initialized
+INFO - 2021-04-13 18:02:26 --> Config Class Initialized
+INFO - 2021-04-13 18:02:26 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:02:26 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:02:26 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:02:26 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:02:26 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:02:26 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:02:26 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:02:26 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:02:26 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:02:26 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:02:26 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:02:26 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:02:26 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:02:26 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:02:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:02:26 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:02:26 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:02:26 --> Upload Class Initialized
+INFO - 2021-04-13 18:02:26 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:02:26 --> Email Class Initialized
+INFO - 2021-04-13 18:02:26 --> Model Class Initialized
+INFO - 2021-04-13 18:02:26 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:02:26 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/training.member/models/Training_model.php
+INFO - 2021-04-13 18:02:26 --> Model Class Initialized
+DEBUG - 2021-04-13 18:02:26 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/training.member/models/Modul_model.php
+INFO - 2021-04-13 18:02:26 --> Model Class Initialized
+DEBUG - 2021-04-13 18:02:26 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/training.member/views/detail.php
+INFO - 2021-04-13 18:02:26 --> Final output sent to browser
+DEBUG - 2021-04-13 18:02:26 --> Total execution time: 0.1069
+INFO - 2021-04-13 18:02:28 --> Config Class Initialized
+INFO - 2021-04-13 18:02:28 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:02:28 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:02:28 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:02:28 --> URI Class Initialized
+DEBUG - 2021-04-13 18:02:28 --> No URI present. Default controller set.
+INFO - 2021-04-13 18:02:28 --> Router Class Initialized
+INFO - 2021-04-13 18:02:28 --> Output Class Initialized
+INFO - 2021-04-13 18:02:28 --> Security Class Initialized
+DEBUG - 2021-04-13 18:02:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:02:28 --> Input Class Initialized
+INFO - 2021-04-13 18:02:28 --> Language Class Initialized
+INFO - 2021-04-13 18:02:28 --> Language Class Initialized
+INFO - 2021-04-13 18:02:28 --> Config Class Initialized
+INFO - 2021-04-13 18:02:28 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:02:28 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:02:28 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:02:28 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:02:28 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:02:28 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:02:28 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:02:28 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:02:28 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:02:28 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:02:28 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:02:28 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:02:28 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:02:28 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:02:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:02:28 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:02:28 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:02:28 --> Upload Class Initialized
+INFO - 2021-04-13 18:02:28 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:02:28 --> Email Class Initialized
+INFO - 2021-04-13 18:02:28 --> Model Class Initialized
+INFO - 2021-04-13 18:02:28 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:02:28 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/main/views/main.php
+DEBUG - 2021-04-13 18:02:28 --> File loaded: C:\xampp\htdocs\member_madad-master\application\views\tpl_users.php
+INFO - 2021-04-13 18:02:28 --> Final output sent to browser
+DEBUG - 2021-04-13 18:02:28 --> Total execution time: 0.1576
+INFO - 2021-04-13 18:02:29 --> Config Class Initialized
+INFO - 2021-04-13 18:02:29 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:02:29 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:02:29 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:02:29 --> URI Class Initialized
+INFO - 2021-04-13 18:02:29 --> Router Class Initialized
+INFO - 2021-04-13 18:02:29 --> Output Class Initialized
+INFO - 2021-04-13 18:02:29 --> Security Class Initialized
+DEBUG - 2021-04-13 18:02:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:02:29 --> Input Class Initialized
+INFO - 2021-04-13 18:02:29 --> Language Class Initialized
+INFO - 2021-04-13 18:02:29 --> Language Class Initialized
+INFO - 2021-04-13 18:02:29 --> Config Class Initialized
+INFO - 2021-04-13 18:02:29 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:02:29 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:02:29 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:02:29 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:02:29 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:02:29 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:02:29 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:02:29 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:02:29 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:02:29 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:02:29 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:02:29 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:02:29 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:02:29 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:02:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:02:29 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:02:29 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:02:29 --> Upload Class Initialized
+INFO - 2021-04-13 18:02:29 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:02:29 --> Email Class Initialized
+INFO - 2021-04-13 18:02:29 --> Model Class Initialized
+INFO - 2021-04-13 18:02:29 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:02:29 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Cart_model.php
+INFO - 2021-04-13 18:02:29 --> Model Class Initialized
+DEBUG - 2021-04-13 18:02:29 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:02:29 --> Model Class Initialized
+ERROR - 2021-04-13 18:02:29 --> Severity: Warning --> Undefined variable $totalCart C:\xampp\htdocs\member_madad-master\application\modules\member\controllers\Member.php 39
+DEBUG - 2021-04-13 18:02:29 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/member/views/tpl_sidebar_member.php
+DEBUG - 2021-04-13 18:02:29 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/member/views/tpl_member.php
+INFO - 2021-04-13 18:02:29 --> Final output sent to browser
+DEBUG - 2021-04-13 18:02:29 --> Total execution time: 0.2558
+INFO - 2021-04-13 18:02:31 --> Config Class Initialized
+INFO - 2021-04-13 18:02:31 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:02:31 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:02:31 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:02:31 --> URI Class Initialized
+INFO - 2021-04-13 18:02:31 --> Router Class Initialized
+INFO - 2021-04-13 18:02:31 --> Output Class Initialized
+INFO - 2021-04-13 18:02:31 --> Security Class Initialized
+DEBUG - 2021-04-13 18:02:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:02:31 --> Input Class Initialized
+INFO - 2021-04-13 18:02:31 --> Language Class Initialized
+INFO - 2021-04-13 18:02:31 --> Language Class Initialized
+INFO - 2021-04-13 18:02:31 --> Config Class Initialized
+INFO - 2021-04-13 18:02:31 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:02:31 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:02:31 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:02:31 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:02:31 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:02:31 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:02:31 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:02:31 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:02:31 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:02:31 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:02:31 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:02:31 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:02:31 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:02:31 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:02:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:02:31 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:02:31 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:02:31 --> Upload Class Initialized
+INFO - 2021-04-13 18:02:31 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:02:31 --> Email Class Initialized
+INFO - 2021-04-13 18:02:31 --> Model Class Initialized
+INFO - 2021-04-13 18:02:31 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:02:31 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/models/Dashboard_model.php
+INFO - 2021-04-13 18:02:31 --> Model Class Initialized
+DEBUG - 2021-04-13 18:02:31 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:02:31 --> Model Class Initialized
+DEBUG - 2021-04-13 18:02:31 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:02:31 --> Model Class Initialized
+ERROR - 2021-04-13 18:02:31 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:02:31 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:02:31 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 49
+ERROR - 2021-04-13 18:02:31 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 55
+ERROR - 2021-04-13 18:02:31 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 61
+DEBUG - 2021-04-13 18:02:31 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/views/manage.php
+INFO - 2021-04-13 18:02:31 --> Final output sent to browser
+DEBUG - 2021-04-13 18:02:31 --> Total execution time: 0.3284
+INFO - 2021-04-13 18:02:32 --> Config Class Initialized
+INFO - 2021-04-13 18:02:32 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:02:32 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:02:32 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:02:32 --> URI Class Initialized
+INFO - 2021-04-13 18:02:32 --> Router Class Initialized
+INFO - 2021-04-13 18:02:32 --> Output Class Initialized
+INFO - 2021-04-13 18:02:32 --> Security Class Initialized
+DEBUG - 2021-04-13 18:02:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:02:32 --> Input Class Initialized
+INFO - 2021-04-13 18:02:32 --> Language Class Initialized
+ERROR - 2021-04-13 18:02:32 --> 404 Page Not Found: /index
+INFO - 2021-04-13 18:02:35 --> Config Class Initialized
+INFO - 2021-04-13 18:02:35 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:02:35 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:02:35 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:02:35 --> URI Class Initialized
+INFO - 2021-04-13 18:02:35 --> Router Class Initialized
+INFO - 2021-04-13 18:02:35 --> Output Class Initialized
+INFO - 2021-04-13 18:02:35 --> Security Class Initialized
+DEBUG - 2021-04-13 18:02:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:02:35 --> Input Class Initialized
+INFO - 2021-04-13 18:02:35 --> Language Class Initialized
+INFO - 2021-04-13 18:02:35 --> Language Class Initialized
+INFO - 2021-04-13 18:02:35 --> Config Class Initialized
+INFO - 2021-04-13 18:02:35 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:02:35 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:02:35 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:02:35 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:02:35 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:02:35 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:02:35 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:02:35 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:02:35 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:02:35 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:02:35 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:02:35 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:02:35 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:02:35 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:02:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:02:35 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:02:35 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:02:35 --> Upload Class Initialized
+INFO - 2021-04-13 18:02:35 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:02:35 --> Email Class Initialized
+INFO - 2021-04-13 18:02:35 --> Model Class Initialized
+INFO - 2021-04-13 18:02:35 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:02:35 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/training.member/models/Training_model.php
+INFO - 2021-04-13 18:02:35 --> Model Class Initialized
+DEBUG - 2021-04-13 18:02:35 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/training.member/models/Modul_model.php
+INFO - 2021-04-13 18:02:35 --> Model Class Initialized
+ERROR - 2021-04-13 18:02:35 --> Severity: Warning --> Undefined variable $dataKategori C:\xampp\htdocs\member_madad-master\application\modules\training.member\controllers\Manage.php 44
+DEBUG - 2021-04-13 18:02:35 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/training.member/views/manage.php
+INFO - 2021-04-13 18:02:35 --> Final output sent to browser
+DEBUG - 2021-04-13 18:02:35 --> Total execution time: 0.1250
+INFO - 2021-04-13 18:02:42 --> Config Class Initialized
+INFO - 2021-04-13 18:02:42 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:02:42 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:02:42 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:02:42 --> URI Class Initialized
+INFO - 2021-04-13 18:02:42 --> Router Class Initialized
+INFO - 2021-04-13 18:02:42 --> Output Class Initialized
+INFO - 2021-04-13 18:02:42 --> Security Class Initialized
+DEBUG - 2021-04-13 18:02:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:02:42 --> Input Class Initialized
+INFO - 2021-04-13 18:02:42 --> Language Class Initialized
+INFO - 2021-04-13 18:02:42 --> Language Class Initialized
+INFO - 2021-04-13 18:02:42 --> Config Class Initialized
+INFO - 2021-04-13 18:02:42 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:02:42 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:02:42 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:02:42 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:02:42 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:02:42 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:02:42 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:02:42 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:02:42 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:02:42 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:02:42 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:02:42 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:02:42 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:02:42 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:02:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:02:42 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:02:42 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:02:42 --> Upload Class Initialized
+INFO - 2021-04-13 18:02:42 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:02:42 --> Email Class Initialized
+INFO - 2021-04-13 18:02:42 --> Model Class Initialized
+INFO - 2021-04-13 18:02:42 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:02:42 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Cart_model.php
+INFO - 2021-04-13 18:02:42 --> Model Class Initialized
+DEBUG - 2021-04-13 18:02:42 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:02:42 --> Model Class Initialized
+ERROR - 2021-04-13 18:02:42 --> Severity: Warning --> Undefined variable $totalCart C:\xampp\htdocs\member_madad-master\application\modules\member\controllers\Member.php 39
+DEBUG - 2021-04-13 18:02:42 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/member/views/tpl_sidebar_member.php
+DEBUG - 2021-04-13 18:02:42 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/member/views/tpl_member.php
+INFO - 2021-04-13 18:02:42 --> Final output sent to browser
+DEBUG - 2021-04-13 18:02:42 --> Total execution time: 0.0829
+INFO - 2021-04-13 18:02:43 --> Config Class Initialized
+INFO - 2021-04-13 18:02:43 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:02:43 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:02:43 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:02:43 --> URI Class Initialized
+INFO - 2021-04-13 18:02:43 --> Router Class Initialized
+INFO - 2021-04-13 18:02:43 --> Output Class Initialized
+INFO - 2021-04-13 18:02:43 --> Security Class Initialized
+DEBUG - 2021-04-13 18:02:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:02:43 --> Input Class Initialized
+INFO - 2021-04-13 18:02:43 --> Language Class Initialized
+INFO - 2021-04-13 18:02:43 --> Language Class Initialized
+INFO - 2021-04-13 18:02:43 --> Config Class Initialized
+INFO - 2021-04-13 18:02:43 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:02:43 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:02:43 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:02:43 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:02:43 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:02:43 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:02:43 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:02:43 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:02:43 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:02:43 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:02:43 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:02:43 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:02:43 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:02:43 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:02:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:02:43 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:02:43 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:02:43 --> Upload Class Initialized
+INFO - 2021-04-13 18:02:43 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:02:43 --> Email Class Initialized
+INFO - 2021-04-13 18:02:43 --> Model Class Initialized
+INFO - 2021-04-13 18:02:43 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:02:43 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/models/Dashboard_model.php
+INFO - 2021-04-13 18:02:43 --> Model Class Initialized
+DEBUG - 2021-04-13 18:02:43 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:02:43 --> Model Class Initialized
+DEBUG - 2021-04-13 18:02:43 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:02:43 --> Model Class Initialized
+ERROR - 2021-04-13 18:02:43 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:02:43 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:02:43 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 49
+ERROR - 2021-04-13 18:02:43 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 55
+ERROR - 2021-04-13 18:02:43 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 61
+DEBUG - 2021-04-13 18:02:43 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/views/manage.php
+INFO - 2021-04-13 18:02:43 --> Final output sent to browser
+DEBUG - 2021-04-13 18:02:43 --> Total execution time: 0.1434
+INFO - 2021-04-13 18:02:44 --> Config Class Initialized
+INFO - 2021-04-13 18:02:44 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:02:44 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:02:44 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:02:44 --> URI Class Initialized
+INFO - 2021-04-13 18:02:44 --> Router Class Initialized
+INFO - 2021-04-13 18:02:44 --> Output Class Initialized
+INFO - 2021-04-13 18:02:44 --> Security Class Initialized
+DEBUG - 2021-04-13 18:02:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:02:44 --> Input Class Initialized
+INFO - 2021-04-13 18:02:44 --> Language Class Initialized
+ERROR - 2021-04-13 18:02:44 --> 404 Page Not Found: /index
+INFO - 2021-04-13 18:02:58 --> Config Class Initialized
+INFO - 2021-04-13 18:02:58 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:02:58 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:02:58 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:02:58 --> URI Class Initialized
+INFO - 2021-04-13 18:02:58 --> Router Class Initialized
+INFO - 2021-04-13 18:02:58 --> Output Class Initialized
+INFO - 2021-04-13 18:02:58 --> Security Class Initialized
+DEBUG - 2021-04-13 18:02:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:02:58 --> Input Class Initialized
+INFO - 2021-04-13 18:02:58 --> Language Class Initialized
+INFO - 2021-04-13 18:02:58 --> Language Class Initialized
+INFO - 2021-04-13 18:02:58 --> Config Class Initialized
+INFO - 2021-04-13 18:02:58 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:02:58 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:02:58 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:02:58 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:02:58 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:02:58 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:02:58 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:02:58 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:02:58 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:02:58 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:02:58 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:02:58 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:02:58 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:02:58 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:02:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:02:58 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:02:58 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:02:58 --> Upload Class Initialized
+INFO - 2021-04-13 18:02:58 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:02:58 --> Email Class Initialized
+INFO - 2021-04-13 18:02:58 --> Model Class Initialized
+INFO - 2021-04-13 18:02:58 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:02:58 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:02:58 --> Model Class Initialized
+DEBUG - 2021-04-13 18:02:58 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:02:58 --> Final output sent to browser
+DEBUG - 2021-04-13 18:02:58 --> Total execution time: 0.1040
+INFO - 2021-04-13 18:03:31 --> Config Class Initialized
+INFO - 2021-04-13 18:03:31 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:03:31 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:03:31 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:03:31 --> URI Class Initialized
+INFO - 2021-04-13 18:03:31 --> Router Class Initialized
+INFO - 2021-04-13 18:03:31 --> Output Class Initialized
+INFO - 2021-04-13 18:03:31 --> Security Class Initialized
+DEBUG - 2021-04-13 18:03:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:03:31 --> Input Class Initialized
+INFO - 2021-04-13 18:03:31 --> Language Class Initialized
+INFO - 2021-04-13 18:03:31 --> Language Class Initialized
+INFO - 2021-04-13 18:03:31 --> Config Class Initialized
+INFO - 2021-04-13 18:03:31 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:03:31 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:03:31 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:03:31 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:03:31 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:03:31 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:03:31 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:03:31 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:03:31 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:03:31 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:03:31 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:03:31 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:03:31 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:03:31 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:03:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:03:31 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:03:31 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:03:31 --> Upload Class Initialized
+INFO - 2021-04-13 18:03:31 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:03:31 --> Email Class Initialized
+INFO - 2021-04-13 18:03:31 --> Model Class Initialized
+INFO - 2021-04-13 18:03:31 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:03:31 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:03:31 --> Model Class Initialized
+DEBUG - 2021-04-13 18:03:31 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:03:31 --> Final output sent to browser
+DEBUG - 2021-04-13 18:03:31 --> Total execution time: 0.0951
+INFO - 2021-04-13 18:04:20 --> Config Class Initialized
+INFO - 2021-04-13 18:04:20 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:04:20 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:04:20 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:04:20 --> URI Class Initialized
+INFO - 2021-04-13 18:04:20 --> Router Class Initialized
+INFO - 2021-04-13 18:04:20 --> Output Class Initialized
+INFO - 2021-04-13 18:04:20 --> Security Class Initialized
+DEBUG - 2021-04-13 18:04:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:04:20 --> Input Class Initialized
+INFO - 2021-04-13 18:04:20 --> Language Class Initialized
+INFO - 2021-04-13 18:04:20 --> Language Class Initialized
+INFO - 2021-04-13 18:04:20 --> Config Class Initialized
+INFO - 2021-04-13 18:04:20 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:04:20 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:04:20 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:04:20 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:04:20 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:04:20 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:04:20 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:04:20 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:04:20 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:04:20 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:04:20 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:04:20 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:04:20 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:04:20 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:04:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:04:20 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:04:20 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:04:20 --> Upload Class Initialized
+INFO - 2021-04-13 18:04:20 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:04:20 --> Email Class Initialized
+INFO - 2021-04-13 18:04:20 --> Model Class Initialized
+INFO - 2021-04-13 18:04:20 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:04:20 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:04:20 --> Model Class Initialized
+DEBUG - 2021-04-13 18:04:20 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:04:20 --> Final output sent to browser
+DEBUG - 2021-04-13 18:04:20 --> Total execution time: 0.1122
+INFO - 2021-04-13 18:04:37 --> Config Class Initialized
+INFO - 2021-04-13 18:04:37 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:04:37 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:04:37 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:04:37 --> URI Class Initialized
+INFO - 2021-04-13 18:04:37 --> Router Class Initialized
+INFO - 2021-04-13 18:04:37 --> Output Class Initialized
+INFO - 2021-04-13 18:04:37 --> Security Class Initialized
+DEBUG - 2021-04-13 18:04:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:04:37 --> Input Class Initialized
+INFO - 2021-04-13 18:04:37 --> Language Class Initialized
+INFO - 2021-04-13 18:04:37 --> Language Class Initialized
+INFO - 2021-04-13 18:04:37 --> Config Class Initialized
+INFO - 2021-04-13 18:04:37 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:04:37 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:04:37 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:04:37 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:04:37 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:04:37 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:04:37 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:04:37 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:04:37 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:04:37 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:04:37 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:04:37 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:04:37 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:04:37 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:04:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:04:37 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:04:37 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:04:37 --> Upload Class Initialized
+INFO - 2021-04-13 18:04:37 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:04:37 --> Email Class Initialized
+INFO - 2021-04-13 18:04:37 --> Model Class Initialized
+INFO - 2021-04-13 18:04:37 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:04:37 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:04:37 --> Model Class Initialized
+DEBUG - 2021-04-13 18:04:37 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:04:37 --> Final output sent to browser
+DEBUG - 2021-04-13 18:04:37 --> Total execution time: 0.1770
+INFO - 2021-04-13 18:07:07 --> Config Class Initialized
+INFO - 2021-04-13 18:07:07 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:07:07 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:07:07 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:07:07 --> URI Class Initialized
+INFO - 2021-04-13 18:07:07 --> Router Class Initialized
+INFO - 2021-04-13 18:07:07 --> Output Class Initialized
+INFO - 2021-04-13 18:07:07 --> Security Class Initialized
+DEBUG - 2021-04-13 18:07:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:07:07 --> Input Class Initialized
+INFO - 2021-04-13 18:07:07 --> Language Class Initialized
+INFO - 2021-04-13 18:07:07 --> Language Class Initialized
+INFO - 2021-04-13 18:07:07 --> Config Class Initialized
+INFO - 2021-04-13 18:07:07 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:07:07 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:07:07 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:07:07 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:07:07 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:07:07 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:07:07 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:07:07 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:07:07 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:07:07 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:07:07 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:07:07 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:07:07 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:07:07 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:07:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:07:07 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:07:07 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:07:07 --> Upload Class Initialized
+INFO - 2021-04-13 18:07:07 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:07:07 --> Email Class Initialized
+INFO - 2021-04-13 18:07:07 --> Model Class Initialized
+INFO - 2021-04-13 18:07:07 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:07:07 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:07:07 --> Model Class Initialized
+DEBUG - 2021-04-13 18:07:07 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:07:07 --> Final output sent to browser
+DEBUG - 2021-04-13 18:07:07 --> Total execution time: 0.0862
+INFO - 2021-04-13 18:07:28 --> Config Class Initialized
+INFO - 2021-04-13 18:07:28 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:07:28 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:07:28 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:07:28 --> URI Class Initialized
+INFO - 2021-04-13 18:07:28 --> Router Class Initialized
+INFO - 2021-04-13 18:07:28 --> Output Class Initialized
+INFO - 2021-04-13 18:07:28 --> Security Class Initialized
+DEBUG - 2021-04-13 18:07:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:07:28 --> Input Class Initialized
+INFO - 2021-04-13 18:07:28 --> Language Class Initialized
+INFO - 2021-04-13 18:07:28 --> Language Class Initialized
+INFO - 2021-04-13 18:07:28 --> Config Class Initialized
+INFO - 2021-04-13 18:07:28 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:07:28 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:07:28 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:07:28 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:07:28 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:07:28 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:07:28 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:07:28 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:07:28 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:07:28 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:07:28 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:07:28 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:07:28 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:07:28 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:07:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:07:28 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:07:28 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:07:28 --> Upload Class Initialized
+INFO - 2021-04-13 18:07:29 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:07:29 --> Email Class Initialized
+INFO - 2021-04-13 18:07:29 --> Model Class Initialized
+INFO - 2021-04-13 18:07:29 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:07:29 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:07:29 --> Model Class Initialized
+DEBUG - 2021-04-13 18:07:29 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Users_model.php
+INFO - 2021-04-13 18:07:29 --> Model Class Initialized
+DEBUG - 2021-04-13 18:07:29 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:07:29 --> Model Class Initialized
+DEBUG - 2021-04-13 18:07:29 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/profile.member/models/Profile_model.php
+INFO - 2021-04-13 18:07:29 --> Model Class Initialized
+DEBUG - 2021-04-13 18:07:29 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/profile.member/views/manage.php
+INFO - 2021-04-13 18:07:29 --> Final output sent to browser
+DEBUG - 2021-04-13 18:07:29 --> Total execution time: 0.2800
+INFO - 2021-04-13 18:07:30 --> Config Class Initialized
+INFO - 2021-04-13 18:07:30 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:07:30 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:07:30 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:07:30 --> URI Class Initialized
+INFO - 2021-04-13 18:07:30 --> Router Class Initialized
+INFO - 2021-04-13 18:07:30 --> Output Class Initialized
+INFO - 2021-04-13 18:07:30 --> Security Class Initialized
+DEBUG - 2021-04-13 18:07:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:07:30 --> Input Class Initialized
+INFO - 2021-04-13 18:07:30 --> Language Class Initialized
+INFO - 2021-04-13 18:07:30 --> Language Class Initialized
+INFO - 2021-04-13 18:07:30 --> Config Class Initialized
+INFO - 2021-04-13 18:07:30 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:07:30 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:07:30 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:07:30 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:07:30 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:07:30 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:07:30 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:07:30 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:07:30 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:07:30 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:07:30 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:07:30 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:07:30 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:07:30 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:07:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:07:30 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:07:30 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:07:30 --> Upload Class Initialized
+INFO - 2021-04-13 18:07:30 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:07:30 --> Email Class Initialized
+INFO - 2021-04-13 18:07:30 --> Model Class Initialized
+INFO - 2021-04-13 18:07:30 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:07:30 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:07:30 --> Model Class Initialized
+DEBUG - 2021-04-13 18:07:30 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:07:30 --> Final output sent to browser
+DEBUG - 2021-04-13 18:07:30 --> Total execution time: 0.0919
+INFO - 2021-04-13 18:08:55 --> Config Class Initialized
+INFO - 2021-04-13 18:08:55 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:08:55 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:08:55 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:08:55 --> URI Class Initialized
+INFO - 2021-04-13 18:08:55 --> Router Class Initialized
+INFO - 2021-04-13 18:08:55 --> Output Class Initialized
+INFO - 2021-04-13 18:08:55 --> Security Class Initialized
+DEBUG - 2021-04-13 18:08:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:08:55 --> Input Class Initialized
+INFO - 2021-04-13 18:08:55 --> Language Class Initialized
+INFO - 2021-04-13 18:08:55 --> Language Class Initialized
+INFO - 2021-04-13 18:08:55 --> Config Class Initialized
+INFO - 2021-04-13 18:08:55 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:08:55 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:08:55 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:08:55 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:08:55 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:08:55 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:08:55 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:08:55 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:08:55 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:08:55 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:08:55 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:08:55 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:08:55 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:08:55 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:08:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:08:55 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:08:55 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:08:55 --> Upload Class Initialized
+INFO - 2021-04-13 18:08:55 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:08:55 --> Email Class Initialized
+INFO - 2021-04-13 18:08:55 --> Model Class Initialized
+INFO - 2021-04-13 18:08:55 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:08:55 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:08:55 --> Model Class Initialized
+DEBUG - 2021-04-13 18:08:55 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:08:55 --> Final output sent to browser
+DEBUG - 2021-04-13 18:08:55 --> Total execution time: 0.1759
+INFO - 2021-04-13 18:09:07 --> Config Class Initialized
+INFO - 2021-04-13 18:09:07 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:09:07 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:09:07 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:09:07 --> URI Class Initialized
+INFO - 2021-04-13 18:09:07 --> Router Class Initialized
+INFO - 2021-04-13 18:09:07 --> Output Class Initialized
+INFO - 2021-04-13 18:09:07 --> Security Class Initialized
+DEBUG - 2021-04-13 18:09:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:09:07 --> Input Class Initialized
+INFO - 2021-04-13 18:09:07 --> Language Class Initialized
+INFO - 2021-04-13 18:09:07 --> Language Class Initialized
+INFO - 2021-04-13 18:09:07 --> Config Class Initialized
+INFO - 2021-04-13 18:09:07 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:09:07 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:09:07 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:09:07 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:09:07 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:09:07 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:09:07 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:09:07 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:09:07 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:09:07 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:09:07 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:09:07 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:09:07 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:09:07 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:09:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:09:07 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:09:07 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:09:07 --> Upload Class Initialized
+INFO - 2021-04-13 18:09:07 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:09:07 --> Email Class Initialized
+INFO - 2021-04-13 18:09:07 --> Model Class Initialized
+INFO - 2021-04-13 18:09:07 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:09:07 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:09:07 --> Model Class Initialized
+DEBUG - 2021-04-13 18:09:07 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:09:07 --> Final output sent to browser
+DEBUG - 2021-04-13 18:09:07 --> Total execution time: 0.0989
+INFO - 2021-04-13 18:09:19 --> Config Class Initialized
+INFO - 2021-04-13 18:09:19 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:09:19 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:09:19 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:09:19 --> URI Class Initialized
+INFO - 2021-04-13 18:09:19 --> Router Class Initialized
+INFO - 2021-04-13 18:09:19 --> Output Class Initialized
+INFO - 2021-04-13 18:09:19 --> Security Class Initialized
+DEBUG - 2021-04-13 18:09:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:09:19 --> Input Class Initialized
+INFO - 2021-04-13 18:09:19 --> Language Class Initialized
+INFO - 2021-04-13 18:09:19 --> Language Class Initialized
+INFO - 2021-04-13 18:09:19 --> Config Class Initialized
+INFO - 2021-04-13 18:09:19 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:09:19 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:09:19 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:09:19 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:09:19 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:09:19 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:09:19 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:09:19 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:09:19 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:09:19 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:09:19 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:09:19 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:09:19 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:09:19 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:09:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:09:19 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:09:19 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:09:19 --> Upload Class Initialized
+INFO - 2021-04-13 18:09:19 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:09:19 --> Email Class Initialized
+INFO - 2021-04-13 18:09:19 --> Model Class Initialized
+INFO - 2021-04-13 18:09:19 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:09:19 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:09:19 --> Model Class Initialized
+DEBUG - 2021-04-13 18:09:19 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:09:19 --> Final output sent to browser
+DEBUG - 2021-04-13 18:09:19 --> Total execution time: 0.0955
+INFO - 2021-04-13 18:09:31 --> Config Class Initialized
+INFO - 2021-04-13 18:09:31 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:09:31 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:09:31 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:09:31 --> URI Class Initialized
+INFO - 2021-04-13 18:09:31 --> Router Class Initialized
+INFO - 2021-04-13 18:09:31 --> Output Class Initialized
+INFO - 2021-04-13 18:09:31 --> Security Class Initialized
+DEBUG - 2021-04-13 18:09:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:09:31 --> Input Class Initialized
+INFO - 2021-04-13 18:09:31 --> Language Class Initialized
+INFO - 2021-04-13 18:09:31 --> Language Class Initialized
+INFO - 2021-04-13 18:09:31 --> Config Class Initialized
+INFO - 2021-04-13 18:09:31 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:09:31 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:09:31 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:09:31 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:09:31 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:09:31 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:09:31 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:09:31 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:09:31 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:09:31 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:09:31 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:09:31 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:09:31 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:09:31 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:09:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:09:31 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:09:31 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:09:31 --> Upload Class Initialized
+INFO - 2021-04-13 18:09:31 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:09:31 --> Email Class Initialized
+INFO - 2021-04-13 18:09:31 --> Model Class Initialized
+INFO - 2021-04-13 18:09:31 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:09:31 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:09:31 --> Model Class Initialized
+DEBUG - 2021-04-13 18:09:31 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:09:31 --> Final output sent to browser
+DEBUG - 2021-04-13 18:09:31 --> Total execution time: 0.1407
+INFO - 2021-04-13 18:10:49 --> Config Class Initialized
+INFO - 2021-04-13 18:10:49 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:10:49 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:10:49 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:10:49 --> URI Class Initialized
+INFO - 2021-04-13 18:10:49 --> Router Class Initialized
+INFO - 2021-04-13 18:10:49 --> Output Class Initialized
+INFO - 2021-04-13 18:10:49 --> Security Class Initialized
+DEBUG - 2021-04-13 18:10:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:10:49 --> Input Class Initialized
+INFO - 2021-04-13 18:10:49 --> Language Class Initialized
+INFO - 2021-04-13 18:10:49 --> Language Class Initialized
+INFO - 2021-04-13 18:10:49 --> Config Class Initialized
+INFO - 2021-04-13 18:10:49 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:10:49 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:10:49 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:10:49 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:10:49 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:10:49 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:10:49 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:10:49 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:10:49 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:10:49 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:10:49 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:10:49 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:10:49 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:10:49 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:10:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:10:49 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:10:49 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:10:49 --> Upload Class Initialized
+INFO - 2021-04-13 18:10:49 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:10:49 --> Email Class Initialized
+INFO - 2021-04-13 18:10:49 --> Model Class Initialized
+INFO - 2021-04-13 18:10:49 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:10:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:10:49 --> Model Class Initialized
+DEBUG - 2021-04-13 18:10:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:10:49 --> Final output sent to browser
+DEBUG - 2021-04-13 18:10:49 --> Total execution time: 0.0952
+INFO - 2021-04-13 18:11:13 --> Config Class Initialized
+INFO - 2021-04-13 18:11:13 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:11:13 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:11:13 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:11:13 --> URI Class Initialized
+INFO - 2021-04-13 18:11:13 --> Router Class Initialized
+INFO - 2021-04-13 18:11:13 --> Output Class Initialized
+INFO - 2021-04-13 18:11:13 --> Security Class Initialized
+DEBUG - 2021-04-13 18:11:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:11:13 --> Input Class Initialized
+INFO - 2021-04-13 18:11:13 --> Language Class Initialized
+INFO - 2021-04-13 18:11:13 --> Language Class Initialized
+INFO - 2021-04-13 18:11:13 --> Config Class Initialized
+INFO - 2021-04-13 18:11:13 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:11:13 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:11:13 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:11:13 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:11:13 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:11:13 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:11:13 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:11:13 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:11:13 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:11:13 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:11:13 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:11:13 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:11:13 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:11:13 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:11:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:11:13 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:11:13 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:11:13 --> Upload Class Initialized
+INFO - 2021-04-13 18:11:13 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:11:13 --> Email Class Initialized
+INFO - 2021-04-13 18:11:13 --> Model Class Initialized
+INFO - 2021-04-13 18:11:13 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:11:13 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:11:13 --> Model Class Initialized
+DEBUG - 2021-04-13 18:11:13 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:11:13 --> Final output sent to browser
+DEBUG - 2021-04-13 18:11:13 --> Total execution time: 0.0882
+INFO - 2021-04-13 18:12:12 --> Config Class Initialized
+INFO - 2021-04-13 18:12:12 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:12:12 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:12:12 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:12:12 --> URI Class Initialized
+INFO - 2021-04-13 18:12:12 --> Router Class Initialized
+INFO - 2021-04-13 18:12:12 --> Output Class Initialized
+INFO - 2021-04-13 18:12:12 --> Security Class Initialized
+DEBUG - 2021-04-13 18:12:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:12:12 --> Input Class Initialized
+INFO - 2021-04-13 18:12:12 --> Language Class Initialized
+INFO - 2021-04-13 18:12:12 --> Language Class Initialized
+INFO - 2021-04-13 18:12:12 --> Config Class Initialized
+INFO - 2021-04-13 18:12:12 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:12:12 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:12:12 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:12:12 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:12:12 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:12:12 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:12:12 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:12:12 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:12:12 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:12:12 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:12:12 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:12:12 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:12:12 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:12:12 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:12:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:12:12 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:12:12 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:12:12 --> Upload Class Initialized
+INFO - 2021-04-13 18:12:12 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:12:12 --> Email Class Initialized
+INFO - 2021-04-13 18:12:12 --> Model Class Initialized
+INFO - 2021-04-13 18:12:12 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:12:12 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:12:12 --> Model Class Initialized
+DEBUG - 2021-04-13 18:12:12 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:12:12 --> Final output sent to browser
+DEBUG - 2021-04-13 18:12:12 --> Total execution time: 0.1051
+INFO - 2021-04-13 18:12:26 --> Config Class Initialized
+INFO - 2021-04-13 18:12:26 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:12:26 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:12:26 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:12:26 --> URI Class Initialized
+INFO - 2021-04-13 18:12:26 --> Router Class Initialized
+INFO - 2021-04-13 18:12:26 --> Output Class Initialized
+INFO - 2021-04-13 18:12:26 --> Security Class Initialized
+DEBUG - 2021-04-13 18:12:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:12:26 --> Input Class Initialized
+INFO - 2021-04-13 18:12:26 --> Language Class Initialized
+INFO - 2021-04-13 18:12:26 --> Language Class Initialized
+INFO - 2021-04-13 18:12:26 --> Config Class Initialized
+INFO - 2021-04-13 18:12:26 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:12:26 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:12:26 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:12:26 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:12:26 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:12:26 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:12:26 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:12:26 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:12:26 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:12:26 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:12:26 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:12:26 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:12:26 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:12:26 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:12:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:12:26 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:12:26 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:12:26 --> Upload Class Initialized
+INFO - 2021-04-13 18:12:26 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:12:26 --> Email Class Initialized
+INFO - 2021-04-13 18:12:26 --> Model Class Initialized
+INFO - 2021-04-13 18:12:26 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:12:26 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Cart_model.php
+INFO - 2021-04-13 18:12:26 --> Model Class Initialized
+DEBUG - 2021-04-13 18:12:26 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:12:26 --> Model Class Initialized
+ERROR - 2021-04-13 18:12:26 --> Severity: Warning --> Undefined variable $totalCart C:\xampp\htdocs\member_madad-master\application\modules\member\controllers\Member.php 39
+DEBUG - 2021-04-13 18:12:26 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/member/views/tpl_sidebar_member.php
+DEBUG - 2021-04-13 18:12:26 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/member/views/tpl_member.php
+INFO - 2021-04-13 18:12:26 --> Final output sent to browser
+DEBUG - 2021-04-13 18:12:26 --> Total execution time: 0.1008
+INFO - 2021-04-13 18:12:28 --> Config Class Initialized
+INFO - 2021-04-13 18:12:28 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:12:28 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:12:28 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:12:28 --> URI Class Initialized
+INFO - 2021-04-13 18:12:28 --> Router Class Initialized
+INFO - 2021-04-13 18:12:28 --> Output Class Initialized
+INFO - 2021-04-13 18:12:28 --> Security Class Initialized
+DEBUG - 2021-04-13 18:12:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:12:28 --> Input Class Initialized
+INFO - 2021-04-13 18:12:28 --> Language Class Initialized
+INFO - 2021-04-13 18:12:28 --> Language Class Initialized
+INFO - 2021-04-13 18:12:28 --> Config Class Initialized
+INFO - 2021-04-13 18:12:28 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:12:28 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:12:28 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:12:28 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:12:28 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:12:28 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:12:28 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:12:28 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:12:28 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:12:28 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:12:28 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:12:28 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:12:28 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:12:28 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:12:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:12:28 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:12:28 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:12:28 --> Upload Class Initialized
+INFO - 2021-04-13 18:12:28 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:12:28 --> Email Class Initialized
+INFO - 2021-04-13 18:12:28 --> Model Class Initialized
+INFO - 2021-04-13 18:12:28 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:12:28 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/models/Dashboard_model.php
+INFO - 2021-04-13 18:12:28 --> Model Class Initialized
+DEBUG - 2021-04-13 18:12:28 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:12:28 --> Model Class Initialized
+DEBUG - 2021-04-13 18:12:28 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:12:28 --> Model Class Initialized
+ERROR - 2021-04-13 18:12:28 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:12:28 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:12:28 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 49
+ERROR - 2021-04-13 18:12:28 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 55
+ERROR - 2021-04-13 18:12:28 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 61
+DEBUG - 2021-04-13 18:12:28 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/views/manage.php
+INFO - 2021-04-13 18:12:28 --> Final output sent to browser
+DEBUG - 2021-04-13 18:12:28 --> Total execution time: 0.1709
+INFO - 2021-04-13 18:12:29 --> Config Class Initialized
+INFO - 2021-04-13 18:12:29 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:12:29 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:12:29 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:12:29 --> URI Class Initialized
+INFO - 2021-04-13 18:12:29 --> Router Class Initialized
+INFO - 2021-04-13 18:12:29 --> Output Class Initialized
+INFO - 2021-04-13 18:12:29 --> Security Class Initialized
+DEBUG - 2021-04-13 18:12:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:12:29 --> Input Class Initialized
+INFO - 2021-04-13 18:12:29 --> Language Class Initialized
+ERROR - 2021-04-13 18:12:29 --> 404 Page Not Found: /index
+INFO - 2021-04-13 18:12:33 --> Config Class Initialized
+INFO - 2021-04-13 18:12:33 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:12:33 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:12:33 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:12:33 --> URI Class Initialized
+INFO - 2021-04-13 18:12:33 --> Router Class Initialized
+INFO - 2021-04-13 18:12:33 --> Output Class Initialized
+INFO - 2021-04-13 18:12:33 --> Security Class Initialized
+DEBUG - 2021-04-13 18:12:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:12:33 --> Input Class Initialized
+INFO - 2021-04-13 18:12:33 --> Language Class Initialized
+INFO - 2021-04-13 18:12:33 --> Language Class Initialized
+INFO - 2021-04-13 18:12:33 --> Config Class Initialized
+INFO - 2021-04-13 18:12:33 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:12:33 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:12:33 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:12:33 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:12:33 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:12:33 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:12:33 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:12:33 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:12:33 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:12:33 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:12:33 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:12:33 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:12:33 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:12:33 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:12:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:12:33 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:12:33 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:12:33 --> Upload Class Initialized
+INFO - 2021-04-13 18:12:33 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:12:33 --> Email Class Initialized
+INFO - 2021-04-13 18:12:33 --> Model Class Initialized
+INFO - 2021-04-13 18:12:33 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:12:33 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:12:33 --> Model Class Initialized
+DEBUG - 2021-04-13 18:12:33 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:12:33 --> Final output sent to browser
+DEBUG - 2021-04-13 18:12:33 --> Total execution time: 0.1144
+INFO - 2021-04-13 18:13:13 --> Config Class Initialized
+INFO - 2021-04-13 18:13:13 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:13:13 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:13:13 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:13:13 --> URI Class Initialized
+INFO - 2021-04-13 18:13:13 --> Router Class Initialized
+INFO - 2021-04-13 18:13:13 --> Output Class Initialized
+INFO - 2021-04-13 18:13:13 --> Security Class Initialized
+DEBUG - 2021-04-13 18:13:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:13:13 --> Input Class Initialized
+INFO - 2021-04-13 18:13:13 --> Language Class Initialized
+INFO - 2021-04-13 18:13:13 --> Language Class Initialized
+INFO - 2021-04-13 18:13:13 --> Config Class Initialized
+INFO - 2021-04-13 18:13:13 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:13:13 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:13:13 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:13:13 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:13:13 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:13:13 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:13:13 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:13:13 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:13:13 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:13:13 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:13:13 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:13:13 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:13:13 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:13:13 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:13:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:13:13 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:13:13 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:13:13 --> Upload Class Initialized
+INFO - 2021-04-13 18:13:13 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:13:13 --> Email Class Initialized
+INFO - 2021-04-13 18:13:13 --> Model Class Initialized
+INFO - 2021-04-13 18:13:13 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:13:13 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:13:13 --> Model Class Initialized
+DEBUG - 2021-04-13 18:13:13 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:13:13 --> Final output sent to browser
+DEBUG - 2021-04-13 18:13:13 --> Total execution time: 0.1213
+INFO - 2021-04-13 18:13:22 --> Config Class Initialized
+INFO - 2021-04-13 18:13:22 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:13:22 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:13:22 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:13:22 --> URI Class Initialized
+INFO - 2021-04-13 18:13:22 --> Router Class Initialized
+INFO - 2021-04-13 18:13:22 --> Output Class Initialized
+INFO - 2021-04-13 18:13:22 --> Security Class Initialized
+DEBUG - 2021-04-13 18:13:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:13:22 --> Input Class Initialized
+INFO - 2021-04-13 18:13:22 --> Language Class Initialized
+INFO - 2021-04-13 18:13:22 --> Language Class Initialized
+INFO - 2021-04-13 18:13:22 --> Config Class Initialized
+INFO - 2021-04-13 18:13:22 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:13:22 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:13:22 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:13:22 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:13:22 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:13:22 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:13:22 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:13:22 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:13:22 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:13:22 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:13:22 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:13:22 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:13:22 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:13:22 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:13:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:13:22 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:13:22 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:13:22 --> Upload Class Initialized
+INFO - 2021-04-13 18:13:22 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:13:22 --> Email Class Initialized
+INFO - 2021-04-13 18:13:22 --> Model Class Initialized
+INFO - 2021-04-13 18:13:22 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:13:22 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:13:22 --> Model Class Initialized
+DEBUG - 2021-04-13 18:13:22 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:13:22 --> Final output sent to browser
+DEBUG - 2021-04-13 18:13:22 --> Total execution time: 0.0900
+INFO - 2021-04-13 18:15:33 --> Config Class Initialized
+INFO - 2021-04-13 18:15:33 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:15:33 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:15:33 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:15:33 --> URI Class Initialized
+INFO - 2021-04-13 18:15:33 --> Router Class Initialized
+INFO - 2021-04-13 18:15:33 --> Output Class Initialized
+INFO - 2021-04-13 18:15:33 --> Security Class Initialized
+DEBUG - 2021-04-13 18:15:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:15:33 --> Input Class Initialized
+INFO - 2021-04-13 18:15:33 --> Language Class Initialized
+INFO - 2021-04-13 18:15:33 --> Language Class Initialized
+INFO - 2021-04-13 18:15:33 --> Config Class Initialized
+INFO - 2021-04-13 18:15:33 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:15:33 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:15:33 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:15:33 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:15:33 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:15:33 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:15:33 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:15:33 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:15:33 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:15:33 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:15:33 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:15:33 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:15:33 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:15:33 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:15:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:15:33 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:15:33 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:15:33 --> Upload Class Initialized
+INFO - 2021-04-13 18:15:33 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:15:33 --> Email Class Initialized
+INFO - 2021-04-13 18:15:33 --> Model Class Initialized
+INFO - 2021-04-13 18:15:33 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:15:33 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:15:33 --> Model Class Initialized
+DEBUG - 2021-04-13 18:15:33 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:15:33 --> Final output sent to browser
+DEBUG - 2021-04-13 18:15:33 --> Total execution time: 0.1347
+INFO - 2021-04-13 18:15:45 --> Config Class Initialized
+INFO - 2021-04-13 18:15:45 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:15:45 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:15:45 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:15:45 --> URI Class Initialized
+INFO - 2021-04-13 18:15:45 --> Router Class Initialized
+INFO - 2021-04-13 18:15:45 --> Output Class Initialized
+INFO - 2021-04-13 18:15:45 --> Security Class Initialized
+DEBUG - 2021-04-13 18:15:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:15:45 --> Input Class Initialized
+INFO - 2021-04-13 18:15:45 --> Language Class Initialized
+INFO - 2021-04-13 18:15:45 --> Language Class Initialized
+INFO - 2021-04-13 18:15:45 --> Config Class Initialized
+INFO - 2021-04-13 18:15:45 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:15:45 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:15:45 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:15:45 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:15:45 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:15:45 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:15:45 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:15:45 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:15:45 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:15:45 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:15:45 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:15:45 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:15:45 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:15:45 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:15:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:15:45 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:15:45 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:15:45 --> Upload Class Initialized
+INFO - 2021-04-13 18:15:45 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:15:45 --> Email Class Initialized
+INFO - 2021-04-13 18:15:45 --> Model Class Initialized
+INFO - 2021-04-13 18:15:45 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:15:45 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:15:45 --> Model Class Initialized
+DEBUG - 2021-04-13 18:15:45 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:15:45 --> Final output sent to browser
+DEBUG - 2021-04-13 18:15:45 --> Total execution time: 0.1064
+INFO - 2021-04-13 18:16:00 --> Config Class Initialized
+INFO - 2021-04-13 18:16:00 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:16:00 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:16:00 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:16:00 --> URI Class Initialized
+INFO - 2021-04-13 18:16:00 --> Router Class Initialized
+INFO - 2021-04-13 18:16:00 --> Output Class Initialized
+INFO - 2021-04-13 18:16:00 --> Security Class Initialized
+DEBUG - 2021-04-13 18:16:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:16:00 --> Input Class Initialized
+INFO - 2021-04-13 18:16:00 --> Language Class Initialized
+INFO - 2021-04-13 18:16:00 --> Language Class Initialized
+INFO - 2021-04-13 18:16:00 --> Config Class Initialized
+INFO - 2021-04-13 18:16:00 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:16:00 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:16:00 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:16:00 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:16:00 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:16:00 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:16:00 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:16:00 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:16:00 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:16:00 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:16:00 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:16:00 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:16:00 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:16:00 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:16:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:16:00 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:16:00 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:16:00 --> Upload Class Initialized
+INFO - 2021-04-13 18:16:00 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:16:00 --> Email Class Initialized
+INFO - 2021-04-13 18:16:00 --> Model Class Initialized
+INFO - 2021-04-13 18:16:00 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:16:00 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:16:00 --> Model Class Initialized
+DEBUG - 2021-04-13 18:16:00 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:16:00 --> Final output sent to browser
+DEBUG - 2021-04-13 18:16:00 --> Total execution time: 0.1360
+INFO - 2021-04-13 18:17:06 --> Config Class Initialized
+INFO - 2021-04-13 18:17:06 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:17:06 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:17:06 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:17:06 --> URI Class Initialized
+INFO - 2021-04-13 18:17:06 --> Router Class Initialized
+INFO - 2021-04-13 18:17:06 --> Output Class Initialized
+INFO - 2021-04-13 18:17:06 --> Security Class Initialized
+DEBUG - 2021-04-13 18:17:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:17:06 --> Input Class Initialized
+INFO - 2021-04-13 18:17:06 --> Language Class Initialized
+INFO - 2021-04-13 18:17:06 --> Language Class Initialized
+INFO - 2021-04-13 18:17:06 --> Config Class Initialized
+INFO - 2021-04-13 18:17:06 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:17:06 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:17:06 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:17:06 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:17:06 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:17:06 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:17:06 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:17:06 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:17:06 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:17:06 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:17:06 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:17:06 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:17:06 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:17:06 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:17:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:17:06 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:17:06 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:17:06 --> Upload Class Initialized
+INFO - 2021-04-13 18:17:06 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:17:06 --> Email Class Initialized
+INFO - 2021-04-13 18:17:06 --> Model Class Initialized
+INFO - 2021-04-13 18:17:06 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:17:06 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:17:06 --> Model Class Initialized
+DEBUG - 2021-04-13 18:17:06 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:17:06 --> Final output sent to browser
+DEBUG - 2021-04-13 18:17:06 --> Total execution time: 0.0864
+INFO - 2021-04-13 18:17:24 --> Config Class Initialized
+INFO - 2021-04-13 18:17:24 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:17:24 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:17:24 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:17:24 --> URI Class Initialized
+INFO - 2021-04-13 18:17:24 --> Router Class Initialized
+INFO - 2021-04-13 18:17:24 --> Output Class Initialized
+INFO - 2021-04-13 18:17:24 --> Security Class Initialized
+DEBUG - 2021-04-13 18:17:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:17:24 --> Input Class Initialized
+INFO - 2021-04-13 18:17:24 --> Language Class Initialized
+INFO - 2021-04-13 18:17:24 --> Language Class Initialized
+INFO - 2021-04-13 18:17:24 --> Config Class Initialized
+INFO - 2021-04-13 18:17:24 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:17:24 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:17:24 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:17:24 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:17:24 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:17:24 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:17:24 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:17:24 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:17:24 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:17:24 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:17:24 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:17:24 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:17:24 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:17:24 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:17:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:17:24 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:17:24 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:17:24 --> Upload Class Initialized
+INFO - 2021-04-13 18:17:24 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:17:24 --> Email Class Initialized
+INFO - 2021-04-13 18:17:24 --> Model Class Initialized
+INFO - 2021-04-13 18:17:24 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:17:24 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:17:24 --> Model Class Initialized
+DEBUG - 2021-04-13 18:17:24 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:17:24 --> Final output sent to browser
+DEBUG - 2021-04-13 18:17:24 --> Total execution time: 0.1549
+INFO - 2021-04-13 18:19:27 --> Config Class Initialized
+INFO - 2021-04-13 18:19:27 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:19:27 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:19:27 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:19:27 --> URI Class Initialized
+INFO - 2021-04-13 18:19:27 --> Router Class Initialized
+INFO - 2021-04-13 18:19:27 --> Output Class Initialized
+INFO - 2021-04-13 18:19:27 --> Security Class Initialized
+DEBUG - 2021-04-13 18:19:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:19:27 --> Input Class Initialized
+INFO - 2021-04-13 18:19:27 --> Language Class Initialized
+INFO - 2021-04-13 18:19:27 --> Language Class Initialized
+INFO - 2021-04-13 18:19:27 --> Config Class Initialized
+INFO - 2021-04-13 18:19:27 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:19:27 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:19:27 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:19:27 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:19:27 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:19:27 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:19:27 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:19:27 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:19:27 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:19:27 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:19:27 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:19:27 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:19:27 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:19:27 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:19:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:19:27 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:19:27 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:19:27 --> Upload Class Initialized
+INFO - 2021-04-13 18:19:27 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:19:27 --> Email Class Initialized
+INFO - 2021-04-13 18:19:27 --> Model Class Initialized
+INFO - 2021-04-13 18:19:27 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:19:27 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:19:27 --> Model Class Initialized
+DEBUG - 2021-04-13 18:19:28 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:19:28 --> Final output sent to browser
+DEBUG - 2021-04-13 18:19:28 --> Total execution time: 0.1172
+INFO - 2021-04-13 18:19:42 --> Config Class Initialized
+INFO - 2021-04-13 18:19:42 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:19:42 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:19:42 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:19:42 --> URI Class Initialized
+INFO - 2021-04-13 18:19:42 --> Router Class Initialized
+INFO - 2021-04-13 18:19:42 --> Output Class Initialized
+INFO - 2021-04-13 18:19:42 --> Security Class Initialized
+DEBUG - 2021-04-13 18:19:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:19:42 --> Input Class Initialized
+INFO - 2021-04-13 18:19:42 --> Language Class Initialized
+INFO - 2021-04-13 18:19:42 --> Language Class Initialized
+INFO - 2021-04-13 18:19:42 --> Config Class Initialized
+INFO - 2021-04-13 18:19:42 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:19:42 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:19:42 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:19:42 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:19:42 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:19:42 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:19:42 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:19:42 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:19:42 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:19:42 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:19:42 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:19:42 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:19:42 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:19:42 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:19:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:19:42 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:19:42 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:19:42 --> Upload Class Initialized
+INFO - 2021-04-13 18:19:42 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:19:42 --> Email Class Initialized
+INFO - 2021-04-13 18:19:42 --> Model Class Initialized
+INFO - 2021-04-13 18:19:42 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:19:42 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:19:42 --> Model Class Initialized
+DEBUG - 2021-04-13 18:19:42 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:19:42 --> Final output sent to browser
+DEBUG - 2021-04-13 18:19:42 --> Total execution time: 0.0919
+INFO - 2021-04-13 18:19:53 --> Config Class Initialized
+INFO - 2021-04-13 18:19:53 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:19:53 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:19:53 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:19:53 --> URI Class Initialized
+INFO - 2021-04-13 18:19:53 --> Router Class Initialized
+INFO - 2021-04-13 18:19:53 --> Output Class Initialized
+INFO - 2021-04-13 18:19:53 --> Security Class Initialized
+DEBUG - 2021-04-13 18:19:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:19:53 --> Input Class Initialized
+INFO - 2021-04-13 18:19:53 --> Language Class Initialized
+INFO - 2021-04-13 18:19:53 --> Language Class Initialized
+INFO - 2021-04-13 18:19:53 --> Config Class Initialized
+INFO - 2021-04-13 18:19:53 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:19:53 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:19:53 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:19:53 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:19:53 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:19:53 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:19:53 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:19:53 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:19:53 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:19:53 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:19:53 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:19:53 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:19:53 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:19:53 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:19:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:19:53 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:19:53 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:19:53 --> Upload Class Initialized
+INFO - 2021-04-13 18:19:53 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:19:53 --> Email Class Initialized
+INFO - 2021-04-13 18:19:53 --> Model Class Initialized
+INFO - 2021-04-13 18:19:53 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:19:53 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:19:53 --> Model Class Initialized
+DEBUG - 2021-04-13 18:19:53 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:19:53 --> Final output sent to browser
+DEBUG - 2021-04-13 18:19:53 --> Total execution time: 0.1080
+INFO - 2021-04-13 18:20:32 --> Config Class Initialized
+INFO - 2021-04-13 18:20:32 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:20:32 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:20:32 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:20:32 --> URI Class Initialized
+INFO - 2021-04-13 18:20:32 --> Router Class Initialized
+INFO - 2021-04-13 18:20:32 --> Output Class Initialized
+INFO - 2021-04-13 18:20:32 --> Security Class Initialized
+DEBUG - 2021-04-13 18:20:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:20:32 --> Input Class Initialized
+INFO - 2021-04-13 18:20:32 --> Language Class Initialized
+INFO - 2021-04-13 18:20:32 --> Language Class Initialized
+INFO - 2021-04-13 18:20:32 --> Config Class Initialized
+INFO - 2021-04-13 18:20:32 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:20:32 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:20:32 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:20:32 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:20:32 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:20:32 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:20:32 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:20:32 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:20:32 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:20:32 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:20:32 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:20:32 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:20:32 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:20:32 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:20:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:20:32 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:20:32 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:20:32 --> Upload Class Initialized
+INFO - 2021-04-13 18:20:32 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:20:32 --> Email Class Initialized
+INFO - 2021-04-13 18:20:32 --> Model Class Initialized
+INFO - 2021-04-13 18:20:32 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:20:32 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:20:32 --> Model Class Initialized
+DEBUG - 2021-04-13 18:20:32 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:20:32 --> Final output sent to browser
+DEBUG - 2021-04-13 18:20:32 --> Total execution time: 0.1313
+INFO - 2021-04-13 18:20:40 --> Config Class Initialized
+INFO - 2021-04-13 18:20:40 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:20:40 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:20:40 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:20:40 --> URI Class Initialized
+INFO - 2021-04-13 18:20:40 --> Router Class Initialized
+INFO - 2021-04-13 18:20:40 --> Output Class Initialized
+INFO - 2021-04-13 18:20:40 --> Security Class Initialized
+DEBUG - 2021-04-13 18:20:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:20:40 --> Input Class Initialized
+INFO - 2021-04-13 18:20:40 --> Language Class Initialized
+INFO - 2021-04-13 18:20:40 --> Language Class Initialized
+INFO - 2021-04-13 18:20:40 --> Config Class Initialized
+INFO - 2021-04-13 18:20:40 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:20:40 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:20:40 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:20:40 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:20:40 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:20:40 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:20:40 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:20:40 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:20:40 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:20:40 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:20:40 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:20:40 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:20:40 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:20:40 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:20:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:20:40 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:20:40 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:20:40 --> Upload Class Initialized
+INFO - 2021-04-13 18:20:40 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:20:40 --> Email Class Initialized
+INFO - 2021-04-13 18:20:40 --> Model Class Initialized
+INFO - 2021-04-13 18:20:40 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:20:40 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:20:40 --> Model Class Initialized
+DEBUG - 2021-04-13 18:20:40 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:20:40 --> Final output sent to browser
+DEBUG - 2021-04-13 18:20:40 --> Total execution time: 0.0886
+INFO - 2021-04-13 18:21:55 --> Config Class Initialized
+INFO - 2021-04-13 18:21:55 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:21:55 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:21:55 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:21:55 --> URI Class Initialized
+INFO - 2021-04-13 18:21:55 --> Router Class Initialized
+INFO - 2021-04-13 18:21:55 --> Output Class Initialized
+INFO - 2021-04-13 18:21:55 --> Security Class Initialized
+DEBUG - 2021-04-13 18:21:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:21:55 --> Input Class Initialized
+INFO - 2021-04-13 18:21:55 --> Language Class Initialized
+INFO - 2021-04-13 18:21:55 --> Language Class Initialized
+INFO - 2021-04-13 18:21:55 --> Config Class Initialized
+INFO - 2021-04-13 18:21:55 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:21:55 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:21:55 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:21:55 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:21:55 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:21:55 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:21:55 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:21:55 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:21:55 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:21:55 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:21:55 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:21:55 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:21:55 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:21:55 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:21:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:21:55 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:21:55 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:21:55 --> Upload Class Initialized
+INFO - 2021-04-13 18:21:55 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:21:55 --> Email Class Initialized
+INFO - 2021-04-13 18:21:55 --> Model Class Initialized
+INFO - 2021-04-13 18:21:55 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:21:55 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:21:55 --> Model Class Initialized
+DEBUG - 2021-04-13 18:21:55 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:21:55 --> Final output sent to browser
+DEBUG - 2021-04-13 18:21:55 --> Total execution time: 0.1294
+INFO - 2021-04-13 18:22:10 --> Config Class Initialized
+INFO - 2021-04-13 18:22:10 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:22:10 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:22:10 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:22:10 --> URI Class Initialized
+INFO - 2021-04-13 18:22:10 --> Router Class Initialized
+INFO - 2021-04-13 18:22:10 --> Output Class Initialized
+INFO - 2021-04-13 18:22:10 --> Security Class Initialized
+DEBUG - 2021-04-13 18:22:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:22:10 --> Input Class Initialized
+INFO - 2021-04-13 18:22:10 --> Language Class Initialized
+INFO - 2021-04-13 18:22:10 --> Language Class Initialized
+INFO - 2021-04-13 18:22:10 --> Config Class Initialized
+INFO - 2021-04-13 18:22:10 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:22:10 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:22:10 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:22:10 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:22:10 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:22:10 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:22:10 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:22:10 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:22:10 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:22:10 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:22:10 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:22:10 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:22:10 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:22:10 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:22:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:22:10 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:22:10 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:22:10 --> Upload Class Initialized
+INFO - 2021-04-13 18:22:10 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:22:10 --> Email Class Initialized
+INFO - 2021-04-13 18:22:10 --> Model Class Initialized
+INFO - 2021-04-13 18:22:10 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:22:10 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:22:10 --> Model Class Initialized
+DEBUG - 2021-04-13 18:22:10 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:22:10 --> Final output sent to browser
+DEBUG - 2021-04-13 18:22:10 --> Total execution time: 0.0901
+INFO - 2021-04-13 18:22:37 --> Config Class Initialized
+INFO - 2021-04-13 18:22:37 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:22:37 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:22:37 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:22:37 --> URI Class Initialized
+INFO - 2021-04-13 18:22:37 --> Router Class Initialized
+INFO - 2021-04-13 18:22:37 --> Output Class Initialized
+INFO - 2021-04-13 18:22:37 --> Security Class Initialized
+DEBUG - 2021-04-13 18:22:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:22:37 --> Input Class Initialized
+INFO - 2021-04-13 18:22:37 --> Language Class Initialized
+INFO - 2021-04-13 18:22:37 --> Language Class Initialized
+INFO - 2021-04-13 18:22:37 --> Config Class Initialized
+INFO - 2021-04-13 18:22:37 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:22:37 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:22:37 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:22:37 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:22:37 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:22:37 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:22:37 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:22:37 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:22:37 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:22:37 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:22:37 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:22:37 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:22:37 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:22:37 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:22:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:22:37 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:22:37 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:22:37 --> Upload Class Initialized
+INFO - 2021-04-13 18:22:37 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:22:37 --> Email Class Initialized
+INFO - 2021-04-13 18:22:37 --> Model Class Initialized
+INFO - 2021-04-13 18:22:37 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:22:37 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:22:37 --> Model Class Initialized
+DEBUG - 2021-04-13 18:22:37 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:22:37 --> Final output sent to browser
+DEBUG - 2021-04-13 18:22:37 --> Total execution time: 0.1158
+INFO - 2021-04-13 18:22:58 --> Config Class Initialized
+INFO - 2021-04-13 18:22:58 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:22:58 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:22:58 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:22:58 --> URI Class Initialized
+INFO - 2021-04-13 18:22:58 --> Router Class Initialized
+INFO - 2021-04-13 18:22:58 --> Output Class Initialized
+INFO - 2021-04-13 18:22:58 --> Security Class Initialized
+DEBUG - 2021-04-13 18:22:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:22:58 --> Input Class Initialized
+INFO - 2021-04-13 18:22:58 --> Language Class Initialized
+INFO - 2021-04-13 18:22:58 --> Language Class Initialized
+INFO - 2021-04-13 18:22:58 --> Config Class Initialized
+INFO - 2021-04-13 18:22:58 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:22:58 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:22:58 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:22:58 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:22:58 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:22:58 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:22:58 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:22:58 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:22:58 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:22:58 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:22:58 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:22:58 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:22:58 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:22:58 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:22:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:22:58 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:22:58 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:22:58 --> Upload Class Initialized
+INFO - 2021-04-13 18:22:58 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:22:58 --> Email Class Initialized
+INFO - 2021-04-13 18:22:58 --> Model Class Initialized
+INFO - 2021-04-13 18:22:58 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:22:58 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:22:58 --> Model Class Initialized
+DEBUG - 2021-04-13 18:22:58 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:22:58 --> Final output sent to browser
+DEBUG - 2021-04-13 18:22:58 --> Total execution time: 0.1167
+INFO - 2021-04-13 18:23:14 --> Config Class Initialized
+INFO - 2021-04-13 18:23:14 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:23:14 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:23:14 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:23:14 --> URI Class Initialized
+INFO - 2021-04-13 18:23:14 --> Router Class Initialized
+INFO - 2021-04-13 18:23:14 --> Output Class Initialized
+INFO - 2021-04-13 18:23:14 --> Security Class Initialized
+DEBUG - 2021-04-13 18:23:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:23:14 --> Input Class Initialized
+INFO - 2021-04-13 18:23:14 --> Language Class Initialized
+INFO - 2021-04-13 18:23:14 --> Language Class Initialized
+INFO - 2021-04-13 18:23:14 --> Config Class Initialized
+INFO - 2021-04-13 18:23:14 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:23:14 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:23:14 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:23:14 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:23:14 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:23:14 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:23:14 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:23:14 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:23:14 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:23:14 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:23:14 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:23:14 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:23:14 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:23:14 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:23:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:23:14 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:23:14 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:23:14 --> Upload Class Initialized
+INFO - 2021-04-13 18:23:14 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:23:14 --> Email Class Initialized
+INFO - 2021-04-13 18:23:14 --> Model Class Initialized
+INFO - 2021-04-13 18:23:14 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:23:14 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:23:14 --> Model Class Initialized
+DEBUG - 2021-04-13 18:23:14 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:23:14 --> Final output sent to browser
+DEBUG - 2021-04-13 18:23:14 --> Total execution time: 0.0978
+INFO - 2021-04-13 18:23:41 --> Config Class Initialized
+INFO - 2021-04-13 18:23:41 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:23:41 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:23:41 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:23:41 --> URI Class Initialized
+INFO - 2021-04-13 18:23:41 --> Router Class Initialized
+INFO - 2021-04-13 18:23:41 --> Output Class Initialized
+INFO - 2021-04-13 18:23:41 --> Security Class Initialized
+DEBUG - 2021-04-13 18:23:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:23:41 --> Input Class Initialized
+INFO - 2021-04-13 18:23:41 --> Language Class Initialized
+INFO - 2021-04-13 18:23:41 --> Language Class Initialized
+INFO - 2021-04-13 18:23:41 --> Config Class Initialized
+INFO - 2021-04-13 18:23:41 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:23:41 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:23:41 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:23:41 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:23:41 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:23:41 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:23:41 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:23:41 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:23:41 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:23:41 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:23:41 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:23:41 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:23:41 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:23:41 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:23:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:23:41 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:23:41 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:23:41 --> Upload Class Initialized
+INFO - 2021-04-13 18:23:41 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:23:41 --> Email Class Initialized
+INFO - 2021-04-13 18:23:41 --> Model Class Initialized
+INFO - 2021-04-13 18:23:41 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:23:41 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:23:41 --> Model Class Initialized
+DEBUG - 2021-04-13 18:23:41 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:23:41 --> Final output sent to browser
+DEBUG - 2021-04-13 18:23:41 --> Total execution time: 0.1007
+INFO - 2021-04-13 18:23:51 --> Config Class Initialized
+INFO - 2021-04-13 18:23:51 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:23:51 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:23:51 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:23:51 --> URI Class Initialized
+INFO - 2021-04-13 18:23:51 --> Router Class Initialized
+INFO - 2021-04-13 18:23:51 --> Output Class Initialized
+INFO - 2021-04-13 18:23:51 --> Security Class Initialized
+DEBUG - 2021-04-13 18:23:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:23:51 --> Input Class Initialized
+INFO - 2021-04-13 18:23:51 --> Language Class Initialized
+INFO - 2021-04-13 18:23:51 --> Language Class Initialized
+INFO - 2021-04-13 18:23:51 --> Config Class Initialized
+INFO - 2021-04-13 18:23:51 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:23:51 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:23:51 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:23:51 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:23:51 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:23:51 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:23:51 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:23:51 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:23:51 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:23:51 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:23:51 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:23:51 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:23:51 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:23:51 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:23:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:23:51 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:23:51 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:23:51 --> Upload Class Initialized
+INFO - 2021-04-13 18:23:51 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:23:51 --> Email Class Initialized
+INFO - 2021-04-13 18:23:51 --> Model Class Initialized
+INFO - 2021-04-13 18:23:51 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:23:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:23:51 --> Model Class Initialized
+DEBUG - 2021-04-13 18:23:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/views/manage.php
+INFO - 2021-04-13 18:23:51 --> Final output sent to browser
+DEBUG - 2021-04-13 18:23:51 --> Total execution time: 0.1214
+INFO - 2021-04-13 18:24:11 --> Config Class Initialized
+INFO - 2021-04-13 18:24:11 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:24:11 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:24:11 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:24:11 --> URI Class Initialized
+INFO - 2021-04-13 18:24:11 --> Router Class Initialized
+INFO - 2021-04-13 18:24:11 --> Output Class Initialized
+INFO - 2021-04-13 18:24:11 --> Security Class Initialized
+DEBUG - 2021-04-13 18:24:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:24:11 --> Input Class Initialized
+INFO - 2021-04-13 18:24:11 --> Language Class Initialized
+INFO - 2021-04-13 18:24:11 --> Language Class Initialized
+INFO - 2021-04-13 18:24:11 --> Config Class Initialized
+INFO - 2021-04-13 18:24:11 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:24:11 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:24:11 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:24:11 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:24:11 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:24:11 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:24:11 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:24:11 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:24:11 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:24:11 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:24:11 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:24:11 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:24:11 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:24:11 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:24:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:24:11 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:24:11 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:24:11 --> Upload Class Initialized
+INFO - 2021-04-13 18:24:11 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:24:11 --> Email Class Initialized
+INFO - 2021-04-13 18:24:11 --> Model Class Initialized
+INFO - 2021-04-13 18:24:11 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:24:11 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:24:11 --> Model Class Initialized
+DEBUG - 2021-04-13 18:24:11 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:24:11 --> Final output sent to browser
+DEBUG - 2021-04-13 18:24:11 --> Total execution time: 0.1344
+INFO - 2021-04-13 18:24:20 --> Config Class Initialized
+INFO - 2021-04-13 18:24:20 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:24:20 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:24:20 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:24:20 --> URI Class Initialized
+INFO - 2021-04-13 18:24:20 --> Router Class Initialized
+INFO - 2021-04-13 18:24:20 --> Output Class Initialized
+INFO - 2021-04-13 18:24:20 --> Security Class Initialized
+DEBUG - 2021-04-13 18:24:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:24:20 --> Input Class Initialized
+INFO - 2021-04-13 18:24:20 --> Language Class Initialized
+INFO - 2021-04-13 18:24:20 --> Language Class Initialized
+INFO - 2021-04-13 18:24:20 --> Config Class Initialized
+INFO - 2021-04-13 18:24:20 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:24:20 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:24:20 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:24:20 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:24:20 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:24:20 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:24:20 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:24:20 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:24:20 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:24:20 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:24:20 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:24:20 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:24:20 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:24:20 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:24:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:24:20 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:24:20 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:24:20 --> Upload Class Initialized
+INFO - 2021-04-13 18:24:20 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:24:20 --> Email Class Initialized
+INFO - 2021-04-13 18:24:20 --> Model Class Initialized
+INFO - 2021-04-13 18:24:20 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:24:20 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:24:20 --> Model Class Initialized
+DEBUG - 2021-04-13 18:24:20 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:24:20 --> Final output sent to browser
+DEBUG - 2021-04-13 18:24:20 --> Total execution time: 0.1416
+INFO - 2021-04-13 18:24:33 --> Config Class Initialized
+INFO - 2021-04-13 18:24:33 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:24:33 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:24:33 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:24:33 --> URI Class Initialized
+INFO - 2021-04-13 18:24:33 --> Router Class Initialized
+INFO - 2021-04-13 18:24:33 --> Output Class Initialized
+INFO - 2021-04-13 18:24:33 --> Security Class Initialized
+DEBUG - 2021-04-13 18:24:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:24:33 --> Input Class Initialized
+INFO - 2021-04-13 18:24:33 --> Language Class Initialized
+INFO - 2021-04-13 18:24:33 --> Language Class Initialized
+INFO - 2021-04-13 18:24:33 --> Config Class Initialized
+INFO - 2021-04-13 18:24:33 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:24:33 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:24:33 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:24:33 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:24:33 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:24:33 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:24:33 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:24:33 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:24:33 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:24:33 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:24:33 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:24:33 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:24:33 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:24:33 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:24:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:24:33 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:24:33 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:24:33 --> Upload Class Initialized
+INFO - 2021-04-13 18:24:33 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:24:33 --> Email Class Initialized
+INFO - 2021-04-13 18:24:33 --> Model Class Initialized
+INFO - 2021-04-13 18:24:33 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:24:33 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:24:33 --> Model Class Initialized
+DEBUG - 2021-04-13 18:24:33 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:24:33 --> Final output sent to browser
+DEBUG - 2021-04-13 18:24:33 --> Total execution time: 0.1198
+INFO - 2021-04-13 18:25:02 --> Config Class Initialized
+INFO - 2021-04-13 18:25:02 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:25:02 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:25:02 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:25:02 --> URI Class Initialized
+INFO - 2021-04-13 18:25:02 --> Router Class Initialized
+INFO - 2021-04-13 18:25:02 --> Output Class Initialized
+INFO - 2021-04-13 18:25:02 --> Security Class Initialized
+DEBUG - 2021-04-13 18:25:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:25:02 --> Input Class Initialized
+INFO - 2021-04-13 18:25:02 --> Language Class Initialized
+INFO - 2021-04-13 18:25:02 --> Language Class Initialized
+INFO - 2021-04-13 18:25:02 --> Config Class Initialized
+INFO - 2021-04-13 18:25:02 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:25:02 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:25:02 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:25:02 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:25:02 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:25:02 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:25:02 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:25:02 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:25:02 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:25:02 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:25:02 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:25:02 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:25:02 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:25:02 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:25:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:25:02 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:25:02 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:25:02 --> Upload Class Initialized
+INFO - 2021-04-13 18:25:02 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:25:02 --> Email Class Initialized
+INFO - 2021-04-13 18:25:02 --> Model Class Initialized
+INFO - 2021-04-13 18:25:02 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:25:02 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:25:02 --> Model Class Initialized
+DEBUG - 2021-04-13 18:25:02 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:25:02 --> Final output sent to browser
+DEBUG - 2021-04-13 18:25:02 --> Total execution time: 0.1193
+INFO - 2021-04-13 18:25:14 --> Config Class Initialized
+INFO - 2021-04-13 18:25:14 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:25:14 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:25:14 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:25:14 --> URI Class Initialized
+INFO - 2021-04-13 18:25:14 --> Router Class Initialized
+INFO - 2021-04-13 18:25:14 --> Output Class Initialized
+INFO - 2021-04-13 18:25:14 --> Security Class Initialized
+DEBUG - 2021-04-13 18:25:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:25:14 --> Input Class Initialized
+INFO - 2021-04-13 18:25:14 --> Language Class Initialized
+INFO - 2021-04-13 18:25:14 --> Language Class Initialized
+INFO - 2021-04-13 18:25:14 --> Config Class Initialized
+INFO - 2021-04-13 18:25:14 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:25:14 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:25:14 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:25:14 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:25:14 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:25:14 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:25:14 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:25:14 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:25:14 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:25:14 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:25:14 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:25:14 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:25:14 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:25:14 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:25:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:25:14 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:25:14 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:25:14 --> Upload Class Initialized
+INFO - 2021-04-13 18:25:14 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:25:14 --> Email Class Initialized
+INFO - 2021-04-13 18:25:14 --> Model Class Initialized
+INFO - 2021-04-13 18:25:14 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:25:14 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:25:14 --> Model Class Initialized
+DEBUG - 2021-04-13 18:25:14 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:25:14 --> Final output sent to browser
+DEBUG - 2021-04-13 18:25:14 --> Total execution time: 0.1093
+INFO - 2021-04-13 18:25:39 --> Config Class Initialized
+INFO - 2021-04-13 18:25:39 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:25:39 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:25:39 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:25:39 --> URI Class Initialized
+INFO - 2021-04-13 18:25:39 --> Router Class Initialized
+INFO - 2021-04-13 18:25:39 --> Output Class Initialized
+INFO - 2021-04-13 18:25:39 --> Security Class Initialized
+DEBUG - 2021-04-13 18:25:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:25:39 --> Input Class Initialized
+INFO - 2021-04-13 18:25:39 --> Language Class Initialized
+INFO - 2021-04-13 18:25:39 --> Language Class Initialized
+INFO - 2021-04-13 18:25:39 --> Config Class Initialized
+INFO - 2021-04-13 18:25:39 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:25:39 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:25:39 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:25:39 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:25:39 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:25:39 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:25:39 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:25:39 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:25:39 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:25:39 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:25:39 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:25:39 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:25:39 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:25:39 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:25:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:25:39 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:25:39 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:25:39 --> Upload Class Initialized
+INFO - 2021-04-13 18:25:39 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:25:39 --> Email Class Initialized
+INFO - 2021-04-13 18:25:39 --> Model Class Initialized
+INFO - 2021-04-13 18:25:39 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:25:39 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:25:39 --> Model Class Initialized
+DEBUG - 2021-04-13 18:25:39 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:25:39 --> Final output sent to browser
+DEBUG - 2021-04-13 18:25:39 --> Total execution time: 0.1428
+INFO - 2021-04-13 18:26:09 --> Config Class Initialized
+INFO - 2021-04-13 18:26:09 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:26:09 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:26:09 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:26:09 --> URI Class Initialized
+INFO - 2021-04-13 18:26:09 --> Router Class Initialized
+INFO - 2021-04-13 18:26:09 --> Output Class Initialized
+INFO - 2021-04-13 18:26:09 --> Security Class Initialized
+DEBUG - 2021-04-13 18:26:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:26:09 --> Input Class Initialized
+INFO - 2021-04-13 18:26:09 --> Language Class Initialized
+INFO - 2021-04-13 18:26:09 --> Language Class Initialized
+INFO - 2021-04-13 18:26:09 --> Config Class Initialized
+INFO - 2021-04-13 18:26:09 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:26:09 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:26:09 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:26:09 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:26:09 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:26:09 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:26:09 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:26:09 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:26:09 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:26:09 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:26:09 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:26:09 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:26:09 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:26:09 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:26:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:26:09 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:26:09 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:26:09 --> Upload Class Initialized
+INFO - 2021-04-13 18:26:09 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:26:09 --> Email Class Initialized
+INFO - 2021-04-13 18:26:09 --> Model Class Initialized
+INFO - 2021-04-13 18:26:09 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:26:09 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:26:09 --> Model Class Initialized
+DEBUG - 2021-04-13 18:26:09 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:26:09 --> Final output sent to browser
+DEBUG - 2021-04-13 18:26:09 --> Total execution time: 0.1227
+INFO - 2021-04-13 18:26:38 --> Config Class Initialized
+INFO - 2021-04-13 18:26:38 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:26:38 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:26:38 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:26:38 --> URI Class Initialized
+INFO - 2021-04-13 18:26:38 --> Router Class Initialized
+INFO - 2021-04-13 18:26:38 --> Output Class Initialized
+INFO - 2021-04-13 18:26:38 --> Security Class Initialized
+DEBUG - 2021-04-13 18:26:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:26:38 --> Input Class Initialized
+INFO - 2021-04-13 18:26:38 --> Language Class Initialized
+INFO - 2021-04-13 18:26:38 --> Language Class Initialized
+INFO - 2021-04-13 18:26:38 --> Config Class Initialized
+INFO - 2021-04-13 18:26:38 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:26:38 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:26:38 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:26:38 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:26:38 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:26:38 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:26:38 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:26:38 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:26:38 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:26:38 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:26:38 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:26:38 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:26:38 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:26:38 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:26:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:26:38 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:26:38 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:26:38 --> Upload Class Initialized
+INFO - 2021-04-13 18:26:38 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:26:38 --> Email Class Initialized
+INFO - 2021-04-13 18:26:38 --> Model Class Initialized
+INFO - 2021-04-13 18:26:38 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:26:38 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:26:38 --> Model Class Initialized
+DEBUG - 2021-04-13 18:26:38 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:26:38 --> Final output sent to browser
+DEBUG - 2021-04-13 18:26:38 --> Total execution time: 0.1056
+INFO - 2021-04-13 18:30:11 --> Config Class Initialized
+INFO - 2021-04-13 18:30:11 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:30:11 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:30:11 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:30:11 --> URI Class Initialized
+INFO - 2021-04-13 18:30:11 --> Router Class Initialized
+INFO - 2021-04-13 18:30:11 --> Output Class Initialized
+INFO - 2021-04-13 18:30:11 --> Security Class Initialized
+DEBUG - 2021-04-13 18:30:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:30:11 --> Input Class Initialized
+INFO - 2021-04-13 18:30:11 --> Language Class Initialized
+INFO - 2021-04-13 18:30:11 --> Language Class Initialized
+INFO - 2021-04-13 18:30:11 --> Config Class Initialized
+INFO - 2021-04-13 18:30:11 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:30:11 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:30:11 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:30:11 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:30:11 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:30:11 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:30:11 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:30:11 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:30:11 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:30:11 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:30:11 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:30:11 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:30:11 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:30:11 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:30:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:30:11 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:30:11 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:30:11 --> Upload Class Initialized
+INFO - 2021-04-13 18:30:11 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:30:11 --> Email Class Initialized
+INFO - 2021-04-13 18:30:11 --> Model Class Initialized
+INFO - 2021-04-13 18:30:11 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:30:11 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:30:11 --> Model Class Initialized
+DEBUG - 2021-04-13 18:30:11 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:30:11 --> Final output sent to browser
+DEBUG - 2021-04-13 18:30:11 --> Total execution time: 0.1032
+INFO - 2021-04-13 18:30:13 --> Config Class Initialized
+INFO - 2021-04-13 18:30:13 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:30:13 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:30:13 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:30:13 --> URI Class Initialized
+INFO - 2021-04-13 18:30:13 --> Router Class Initialized
+INFO - 2021-04-13 18:30:13 --> Output Class Initialized
+INFO - 2021-04-13 18:30:13 --> Security Class Initialized
+DEBUG - 2021-04-13 18:30:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:30:13 --> Input Class Initialized
+INFO - 2021-04-13 18:30:13 --> Language Class Initialized
+INFO - 2021-04-13 18:30:13 --> Language Class Initialized
+INFO - 2021-04-13 18:30:13 --> Config Class Initialized
+INFO - 2021-04-13 18:30:13 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:30:13 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:30:13 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:30:13 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:30:13 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:30:13 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:30:13 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:30:13 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:30:13 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:30:13 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:30:13 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:30:13 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:30:13 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:30:13 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:30:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:30:13 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:30:13 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:30:13 --> Upload Class Initialized
+INFO - 2021-04-13 18:30:13 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:30:13 --> Email Class Initialized
+INFO - 2021-04-13 18:30:13 --> Model Class Initialized
+INFO - 2021-04-13 18:30:13 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:30:13 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:30:13 --> Model Class Initialized
+DEBUG - 2021-04-13 18:30:13 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/view_detail.php
+DEBUG - 2021-04-13 18:30:13 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/view_detail.php
+INFO - 2021-04-13 18:30:13 --> Final output sent to browser
+DEBUG - 2021-04-13 18:30:13 --> Total execution time: 0.1273
+INFO - 2021-04-13 18:30:29 --> Config Class Initialized
+INFO - 2021-04-13 18:30:29 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:30:29 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:30:29 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:30:29 --> URI Class Initialized
+INFO - 2021-04-13 18:30:29 --> Router Class Initialized
+INFO - 2021-04-13 18:30:29 --> Output Class Initialized
+INFO - 2021-04-13 18:30:29 --> Security Class Initialized
+DEBUG - 2021-04-13 18:30:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:30:29 --> Input Class Initialized
+INFO - 2021-04-13 18:30:29 --> Language Class Initialized
+INFO - 2021-04-13 18:30:29 --> Language Class Initialized
+INFO - 2021-04-13 18:30:29 --> Config Class Initialized
+INFO - 2021-04-13 18:30:29 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:30:29 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:30:29 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:30:29 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:30:29 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:30:29 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:30:29 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:30:29 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:30:29 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:30:29 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:30:29 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:30:29 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:30:29 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:30:29 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:30:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:30:29 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:30:29 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:30:29 --> Upload Class Initialized
+INFO - 2021-04-13 18:30:29 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:30:29 --> Email Class Initialized
+INFO - 2021-04-13 18:30:29 --> Model Class Initialized
+INFO - 2021-04-13 18:30:29 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:30:29 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/membership.member/models/Membership_model.php
+INFO - 2021-04-13 18:30:29 --> Model Class Initialized
+DEBUG - 2021-04-13 18:30:29 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:30:29 --> Model Class Initialized
+DEBUG - 2021-04-13 18:30:29 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:30:29 --> Model Class Initialized
+ERROR - 2021-04-13 18:30:29 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 42
+ERROR - 2021-04-13 18:30:29 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 42
+ERROR - 2021-04-13 18:30:29 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 55
+ERROR - 2021-04-13 18:30:29 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 61
+ERROR - 2021-04-13 18:30:29 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 67
+ERROR - 2021-04-13 18:30:29 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 49
+ERROR - 2021-04-13 18:30:29 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 73
+DEBUG - 2021-04-13 18:30:29 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/membership.member/views/manage.php
+INFO - 2021-04-13 18:30:29 --> Final output sent to browser
+DEBUG - 2021-04-13 18:30:29 --> Total execution time: 0.1674
+INFO - 2021-04-13 18:30:34 --> Config Class Initialized
+INFO - 2021-04-13 18:30:34 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:30:34 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:30:34 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:30:34 --> URI Class Initialized
+INFO - 2021-04-13 18:30:34 --> Router Class Initialized
+INFO - 2021-04-13 18:30:34 --> Output Class Initialized
+INFO - 2021-04-13 18:30:34 --> Security Class Initialized
+DEBUG - 2021-04-13 18:30:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:30:34 --> Input Class Initialized
+INFO - 2021-04-13 18:30:34 --> Language Class Initialized
+INFO - 2021-04-13 18:30:34 --> Language Class Initialized
+INFO - 2021-04-13 18:30:34 --> Config Class Initialized
+INFO - 2021-04-13 18:30:34 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:30:34 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:30:34 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:30:34 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:30:34 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:30:34 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:30:34 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:30:34 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:30:34 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:30:34 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:30:34 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:30:34 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:30:34 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:30:34 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:30:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:30:34 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:30:34 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:30:34 --> Upload Class Initialized
+INFO - 2021-04-13 18:30:34 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:30:34 --> Email Class Initialized
+INFO - 2021-04-13 18:30:34 --> Model Class Initialized
+INFO - 2021-04-13 18:30:34 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:30:34 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:30:34 --> Model Class Initialized
+DEBUG - 2021-04-13 18:30:34 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/views/manage.php
+INFO - 2021-04-13 18:30:34 --> Final output sent to browser
+DEBUG - 2021-04-13 18:30:34 --> Total execution time: 0.1013
+INFO - 2021-04-13 18:30:37 --> Config Class Initialized
+INFO - 2021-04-13 18:30:37 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:30:37 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:30:37 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:30:37 --> URI Class Initialized
+INFO - 2021-04-13 18:30:37 --> Router Class Initialized
+INFO - 2021-04-13 18:30:37 --> Output Class Initialized
+INFO - 2021-04-13 18:30:37 --> Security Class Initialized
+DEBUG - 2021-04-13 18:30:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:30:37 --> Input Class Initialized
+INFO - 2021-04-13 18:30:37 --> Language Class Initialized
+INFO - 2021-04-13 18:30:37 --> Language Class Initialized
+INFO - 2021-04-13 18:30:37 --> Config Class Initialized
+INFO - 2021-04-13 18:30:37 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:30:37 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:30:37 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:30:37 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:30:37 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:30:37 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:30:37 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:30:37 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:30:37 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:30:37 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:30:37 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:30:37 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:30:37 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:30:37 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:30:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:30:37 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:30:37 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:30:37 --> Upload Class Initialized
+INFO - 2021-04-13 18:30:37 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:30:37 --> Email Class Initialized
+INFO - 2021-04-13 18:30:37 --> Model Class Initialized
+INFO - 2021-04-13 18:30:37 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:30:37 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:30:37 --> Model Class Initialized
+DEBUG - 2021-04-13 18:30:37 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/manage.php
+INFO - 2021-04-13 18:30:37 --> Final output sent to browser
+DEBUG - 2021-04-13 18:30:37 --> Total execution time: 0.0802
+INFO - 2021-04-13 18:30:39 --> Config Class Initialized
+INFO - 2021-04-13 18:30:39 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:30:39 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:30:39 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:30:39 --> URI Class Initialized
+INFO - 2021-04-13 18:30:39 --> Router Class Initialized
+INFO - 2021-04-13 18:30:39 --> Output Class Initialized
+INFO - 2021-04-13 18:30:39 --> Security Class Initialized
+DEBUG - 2021-04-13 18:30:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:30:39 --> Input Class Initialized
+INFO - 2021-04-13 18:30:39 --> Language Class Initialized
+INFO - 2021-04-13 18:30:39 --> Language Class Initialized
+INFO - 2021-04-13 18:30:39 --> Config Class Initialized
+INFO - 2021-04-13 18:30:39 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:30:39 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:30:39 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:30:39 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:30:39 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:30:39 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:30:39 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:30:39 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:30:39 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:30:39 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:30:39 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:30:39 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:30:39 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:30:39 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:30:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:30:39 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:30:39 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:30:39 --> Upload Class Initialized
+INFO - 2021-04-13 18:30:39 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:30:39 --> Email Class Initialized
+INFO - 2021-04-13 18:30:39 --> Model Class Initialized
+INFO - 2021-04-13 18:30:39 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:30:39 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/models/Announcement_model.php
+INFO - 2021-04-13 18:30:39 --> Model Class Initialized
+DEBUG - 2021-04-13 18:30:39 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/view_detail.php
+DEBUG - 2021-04-13 18:30:39 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/announcement.member/views/view_detail.php
+INFO - 2021-04-13 18:30:39 --> Final output sent to browser
+DEBUG - 2021-04-13 18:30:39 --> Total execution time: 0.0831
+INFO - 2021-04-13 18:30:41 --> Config Class Initialized
+INFO - 2021-04-13 18:30:41 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:30:41 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:30:41 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:30:41 --> URI Class Initialized
+INFO - 2021-04-13 18:30:41 --> Router Class Initialized
+INFO - 2021-04-13 18:30:41 --> Output Class Initialized
+INFO - 2021-04-13 18:30:41 --> Security Class Initialized
+DEBUG - 2021-04-13 18:30:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:30:41 --> Input Class Initialized
+INFO - 2021-04-13 18:30:41 --> Language Class Initialized
+INFO - 2021-04-13 18:30:41 --> Language Class Initialized
+INFO - 2021-04-13 18:30:41 --> Config Class Initialized
+INFO - 2021-04-13 18:30:41 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:30:41 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:30:41 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:30:41 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:30:41 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:30:41 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:30:41 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:30:41 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:30:41 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:30:41 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:30:41 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:30:41 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:30:41 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:30:41 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:30:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:30:41 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:30:41 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:30:41 --> Upload Class Initialized
+INFO - 2021-04-13 18:30:41 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:30:41 --> Email Class Initialized
+INFO - 2021-04-13 18:30:41 --> Model Class Initialized
+INFO - 2021-04-13 18:30:41 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:30:41 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:30:41 --> Model Class Initialized
+DEBUG - 2021-04-13 18:30:41 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:30:41 --> Model Class Initialized
+ERROR - 2021-04-13 18:30:41 --> Severity: Warning --> Undefined variable $paging C:\xampp\htdocs\member_madad-master\application\modules\leads.member\views\manage.php 24
+DEBUG - 2021-04-13 18:30:41 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/manage.php
+INFO - 2021-04-13 18:30:41 --> Final output sent to browser
+DEBUG - 2021-04-13 18:30:41 --> Total execution time: 0.4445
+INFO - 2021-04-13 18:30:41 --> Config Class Initialized
+INFO - 2021-04-13 18:30:41 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:30:41 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:30:41 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:30:41 --> URI Class Initialized
+INFO - 2021-04-13 18:30:41 --> Router Class Initialized
+INFO - 2021-04-13 18:30:41 --> Config Class Initialized
+INFO - 2021-04-13 18:30:41 --> Hooks Class Initialized
+INFO - 2021-04-13 18:30:42 --> Output Class Initialized
+INFO - 2021-04-13 18:30:42 --> Security Class Initialized
+DEBUG - 2021-04-13 18:30:42 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:30:42 --> Utf8 Class Initialized
+DEBUG - 2021-04-13 18:30:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:30:42 --> Input Class Initialized
+INFO - 2021-04-13 18:30:42 --> URI Class Initialized
+INFO - 2021-04-13 18:30:42 --> Language Class Initialized
+INFO - 2021-04-13 18:30:42 --> Router Class Initialized
+INFO - 2021-04-13 18:30:42 --> Output Class Initialized
+INFO - 2021-04-13 18:30:42 --> Security Class Initialized
+DEBUG - 2021-04-13 18:30:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:30:42 --> Input Class Initialized
+INFO - 2021-04-13 18:30:42 --> Language Class Initialized
+INFO - 2021-04-13 18:30:42 --> Language Class Initialized
+INFO - 2021-04-13 18:30:42 --> Config Class Initialized
+INFO - 2021-04-13 18:30:42 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:30:42 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:30:42 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:30:42 --> Language Class Initialized
+INFO - 2021-04-13 18:30:42 --> Config Class Initialized
+INFO - 2021-04-13 18:30:42 --> Loader Class Initialized
+INFO - 2021-04-13 18:30:42 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: typography_helper
+DEBUG - 2021-04-13 18:30:42 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:30:42 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:30:42 --> Database Driver Class Initialized
+INFO - 2021-04-13 18:30:42 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:30:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:30:42 --> Session: Class initialized using 'files' driver.
+DEBUG - 2021-04-13 18:30:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+ERROR - 2021-04-13 18:30:42 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:30:42 --> Upload Class Initialized
+INFO - 2021-04-13 18:30:42 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:30:42 --> Email Class Initialized
+INFO - 2021-04-13 18:30:42 --> Model Class Initialized
+INFO - 2021-04-13 18:30:42 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:30:42 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:30:42 --> Model Class Initialized
+DEBUG - 2021-04-13 18:30:42 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:30:42 --> Model Class Initialized
+ERROR - 2021-04-13 18:30:42 --> Severity: Warning --> Undefined variable $filterNama C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 47
+ERROR - 2021-04-13 18:30:42 --> Severity: Warning --> Undefined variable $levelMember C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 48
+ERROR - 2021-04-13 18:30:42 --> Severity: Warning --> Undefined variable $jumlahData C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 50
+DEBUG - 2021-04-13 18:30:42 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/filter.php
+DEBUG - 2021-04-13 18:30:42 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/filter.php
+INFO - 2021-04-13 18:30:42 --> Final output sent to browser
+DEBUG - 2021-04-13 18:30:42 --> Total execution time: 0.1034
+INFO - 2021-04-13 18:30:42 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:30:42 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:30:42 --> Upload Class Initialized
+INFO - 2021-04-13 18:30:42 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:30:42 --> Email Class Initialized
+INFO - 2021-04-13 18:30:42 --> Model Class Initialized
+INFO - 2021-04-13 18:30:42 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:30:42 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:30:42 --> Model Class Initialized
+DEBUG - 2021-04-13 18:30:42 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:30:42 --> Model Class Initialized
+ERROR - 2021-04-13 18:30:42 --> Severity: Warning --> Undefined variable $dataPaggingContent C:\xampp\htdocs\member_madad-master\application\core\MY_Controller.php 109
+DEBUG - 2021-04-13 18:30:42 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/paging.php
+DEBUG - 2021-04-13 18:30:42 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/paging.php
+INFO - 2021-04-13 18:30:42 --> Final output sent to browser
+DEBUG - 2021-04-13 18:30:42 --> Total execution time: 0.1277
+INFO - 2021-04-13 18:30:42 --> Config Class Initialized
+INFO - 2021-04-13 18:30:42 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:30:42 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:30:42 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:30:42 --> URI Class Initialized
+INFO - 2021-04-13 18:30:42 --> Router Class Initialized
+INFO - 2021-04-13 18:30:42 --> Output Class Initialized
+INFO - 2021-04-13 18:30:42 --> Security Class Initialized
+DEBUG - 2021-04-13 18:30:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:30:42 --> Input Class Initialized
+INFO - 2021-04-13 18:30:42 --> Language Class Initialized
+INFO - 2021-04-13 18:30:42 --> Language Class Initialized
+INFO - 2021-04-13 18:30:42 --> Config Class Initialized
+INFO - 2021-04-13 18:30:42 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:30:42 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:30:42 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:30:42 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:30:42 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:30:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:30:42 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:30:42 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:30:42 --> Upload Class Initialized
+INFO - 2021-04-13 18:30:42 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:30:42 --> Email Class Initialized
+INFO - 2021-04-13 18:30:42 --> Model Class Initialized
+INFO - 2021-04-13 18:30:42 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:30:42 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:30:42 --> Model Class Initialized
+DEBUG - 2021-04-13 18:30:42 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:30:42 --> Model Class Initialized
+DEBUG - 2021-04-13 18:30:42 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/daftar.php
+DEBUG - 2021-04-13 18:30:42 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/daftar.php
+INFO - 2021-04-13 18:30:42 --> Final output sent to browser
+DEBUG - 2021-04-13 18:30:42 --> Total execution time: 0.3215
+INFO - 2021-04-13 18:33:16 --> Config Class Initialized
+INFO - 2021-04-13 18:33:16 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:33:16 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:33:16 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:33:16 --> URI Class Initialized
+INFO - 2021-04-13 18:33:16 --> Router Class Initialized
+INFO - 2021-04-13 18:33:16 --> Output Class Initialized
+INFO - 2021-04-13 18:33:16 --> Security Class Initialized
+DEBUG - 2021-04-13 18:33:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:33:16 --> Input Class Initialized
+INFO - 2021-04-13 18:33:16 --> Language Class Initialized
+INFO - 2021-04-13 18:33:17 --> Language Class Initialized
+INFO - 2021-04-13 18:33:17 --> Config Class Initialized
+INFO - 2021-04-13 18:33:17 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:33:17 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:33:17 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:33:17 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:33:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:33:17 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:33:17 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:33:17 --> Upload Class Initialized
+INFO - 2021-04-13 18:33:17 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:33:17 --> Email Class Initialized
+INFO - 2021-04-13 18:33:17 --> Model Class Initialized
+INFO - 2021-04-13 18:33:17 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:33:17 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:33:17 --> Model Class Initialized
+DEBUG - 2021-04-13 18:33:17 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:33:17 --> Model Class Initialized
+ERROR - 2021-04-13 18:33:17 --> Severity: Warning --> Undefined variable $paging C:\xampp\htdocs\member_madad-master\application\modules\leads.member\views\manage.php 24
+DEBUG - 2021-04-13 18:33:17 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/manage.php
+INFO - 2021-04-13 18:33:17 --> Final output sent to browser
+DEBUG - 2021-04-13 18:33:17 --> Total execution time: 0.3632
+INFO - 2021-04-13 18:33:17 --> Config Class Initialized
+INFO - 2021-04-13 18:33:17 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:33:17 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:33:17 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:33:17 --> URI Class Initialized
+INFO - 2021-04-13 18:33:17 --> Router Class Initialized
+INFO - 2021-04-13 18:33:17 --> Output Class Initialized
+INFO - 2021-04-13 18:33:17 --> Security Class Initialized
+DEBUG - 2021-04-13 18:33:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:33:17 --> Input Class Initialized
+INFO - 2021-04-13 18:33:17 --> Language Class Initialized
+INFO - 2021-04-13 18:33:17 --> Config Class Initialized
+INFO - 2021-04-13 18:33:17 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:33:17 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:33:17 --> Language Class Initialized
+INFO - 2021-04-13 18:33:17 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:33:17 --> Config Class Initialized
+INFO - 2021-04-13 18:33:17 --> Loader Class Initialized
+INFO - 2021-04-13 18:33:17 --> URI Class Initialized
+DEBUG - 2021-04-13 18:33:17 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:33:17 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:33:17 --> Router Class Initialized
+INFO - 2021-04-13 18:33:17 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:33:17 --> Output Class Initialized
+INFO - 2021-04-13 18:33:17 --> Security Class Initialized
+INFO - 2021-04-13 18:33:17 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: html_helper
+DEBUG - 2021-04-13 18:33:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:33:17 --> Input Class Initialized
+INFO - 2021-04-13 18:33:17 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:33:17 --> Language Class Initialized
+INFO - 2021-04-13 18:33:17 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:33:17 --> Language Class Initialized
+INFO - 2021-04-13 18:33:17 --> Config Class Initialized
+INFO - 2021-04-13 18:33:17 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:33:17 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:33:17 --> Database Driver Class Initialized
+INFO - 2021-04-13 18:33:17 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: url_helper
+DEBUG - 2021-04-13 18:33:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:33:17 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:33:17 --> Session: Class initialized using 'files' driver.
+INFO - 2021-04-13 18:33:17 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: typography_helper
+ERROR - 2021-04-13 18:33:17 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:33:17 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:33:17 --> Upload Class Initialized
+INFO - 2021-04-13 18:33:17 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:33:17 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:33:17 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:33:17 --> Email Class Initialized
+INFO - 2021-04-13 18:33:17 --> Model Class Initialized
+INFO - 2021-04-13 18:33:17 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:33:17 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:33:17 --> Model Class Initialized
+DEBUG - 2021-04-13 18:33:17 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:33:17 --> Model Class Initialized
+ERROR - 2021-04-13 18:33:17 --> Severity: Warning --> Undefined variable $filterNama C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 47
+ERROR - 2021-04-13 18:33:17 --> Severity: Warning --> Undefined variable $levelMember C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 48
+ERROR - 2021-04-13 18:33:17 --> Severity: Warning --> Undefined variable $jumlahData C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 50
+DEBUG - 2021-04-13 18:33:17 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/filter.php
+DEBUG - 2021-04-13 18:33:17 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/filter.php
+INFO - 2021-04-13 18:33:17 --> Final output sent to browser
+DEBUG - 2021-04-13 18:33:17 --> Total execution time: 0.1025
+INFO - 2021-04-13 18:33:17 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:33:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:33:17 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:33:17 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:33:17 --> Upload Class Initialized
+INFO - 2021-04-13 18:33:17 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:33:17 --> Email Class Initialized
+INFO - 2021-04-13 18:33:17 --> Model Class Initialized
+INFO - 2021-04-13 18:33:17 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:33:17 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:33:17 --> Model Class Initialized
+DEBUG - 2021-04-13 18:33:17 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:33:17 --> Model Class Initialized
+ERROR - 2021-04-13 18:33:17 --> Severity: Warning --> Undefined variable $dataPaggingContent C:\xampp\htdocs\member_madad-master\application\core\MY_Controller.php 109
+DEBUG - 2021-04-13 18:33:17 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/paging.php
+DEBUG - 2021-04-13 18:33:17 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/paging.php
+INFO - 2021-04-13 18:33:17 --> Final output sent to browser
+DEBUG - 2021-04-13 18:33:17 --> Total execution time: 0.1176
+INFO - 2021-04-13 18:33:17 --> Config Class Initialized
+INFO - 2021-04-13 18:33:17 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:33:17 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:33:17 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:33:17 --> URI Class Initialized
+INFO - 2021-04-13 18:33:17 --> Router Class Initialized
+INFO - 2021-04-13 18:33:17 --> Output Class Initialized
+INFO - 2021-04-13 18:33:17 --> Security Class Initialized
+DEBUG - 2021-04-13 18:33:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:33:17 --> Input Class Initialized
+INFO - 2021-04-13 18:33:17 --> Language Class Initialized
+INFO - 2021-04-13 18:33:17 --> Language Class Initialized
+INFO - 2021-04-13 18:33:17 --> Config Class Initialized
+INFO - 2021-04-13 18:33:17 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:33:17 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:33:17 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:33:17 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:33:17 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:33:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:33:17 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:33:17 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:33:17 --> Upload Class Initialized
+INFO - 2021-04-13 18:33:17 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:33:17 --> Email Class Initialized
+INFO - 2021-04-13 18:33:17 --> Model Class Initialized
+INFO - 2021-04-13 18:33:17 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:33:17 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:33:17 --> Model Class Initialized
+DEBUG - 2021-04-13 18:33:17 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:33:17 --> Model Class Initialized
+DEBUG - 2021-04-13 18:33:17 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/daftar.php
+DEBUG - 2021-04-13 18:33:17 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/daftar.php
+INFO - 2021-04-13 18:33:17 --> Final output sent to browser
+DEBUG - 2021-04-13 18:33:17 --> Total execution time: 0.3517
+INFO - 2021-04-13 18:37:26 --> Config Class Initialized
+INFO - 2021-04-13 18:37:26 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:37:26 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:37:26 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:37:26 --> URI Class Initialized
+INFO - 2021-04-13 18:37:26 --> Router Class Initialized
+INFO - 2021-04-13 18:37:26 --> Output Class Initialized
+INFO - 2021-04-13 18:37:26 --> Security Class Initialized
+DEBUG - 2021-04-13 18:37:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:37:26 --> Input Class Initialized
+INFO - 2021-04-13 18:37:26 --> Language Class Initialized
+INFO - 2021-04-13 18:37:26 --> Language Class Initialized
+INFO - 2021-04-13 18:37:26 --> Config Class Initialized
+INFO - 2021-04-13 18:37:26 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:37:26 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:37:26 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:37:26 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:37:26 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:37:26 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:37:26 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:37:26 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:37:26 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:37:26 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:37:26 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:37:26 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:37:26 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:37:26 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:37:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:37:26 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:37:26 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:37:26 --> Upload Class Initialized
+INFO - 2021-04-13 18:37:26 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:37:26 --> Email Class Initialized
+INFO - 2021-04-13 18:37:26 --> Model Class Initialized
+INFO - 2021-04-13 18:37:26 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:37:26 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Cart_model.php
+INFO - 2021-04-13 18:37:26 --> Model Class Initialized
+DEBUG - 2021-04-13 18:37:26 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:37:26 --> Model Class Initialized
+ERROR - 2021-04-13 18:37:26 --> Severity: Warning --> Undefined variable $totalCart C:\xampp\htdocs\member_madad-master\application\modules\member\controllers\Member.php 39
+DEBUG - 2021-04-13 18:37:26 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/member/views/tpl_sidebar_member.php
+DEBUG - 2021-04-13 18:37:26 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/member/views/tpl_member.php
+INFO - 2021-04-13 18:37:26 --> Final output sent to browser
+DEBUG - 2021-04-13 18:37:26 --> Total execution time: 0.1045
+INFO - 2021-04-13 18:37:28 --> Config Class Initialized
+INFO - 2021-04-13 18:37:28 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:37:28 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:37:28 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:37:28 --> URI Class Initialized
+INFO - 2021-04-13 18:37:28 --> Router Class Initialized
+INFO - 2021-04-13 18:37:28 --> Output Class Initialized
+INFO - 2021-04-13 18:37:28 --> Security Class Initialized
+DEBUG - 2021-04-13 18:37:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:37:28 --> Input Class Initialized
+INFO - 2021-04-13 18:37:28 --> Language Class Initialized
+INFO - 2021-04-13 18:37:28 --> Language Class Initialized
+INFO - 2021-04-13 18:37:28 --> Config Class Initialized
+INFO - 2021-04-13 18:37:28 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:37:28 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:37:28 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:37:28 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:37:28 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:37:28 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:37:28 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:37:28 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:37:28 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:37:28 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:37:28 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:37:28 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:37:28 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:37:28 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:37:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:37:28 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:37:28 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:37:28 --> Upload Class Initialized
+INFO - 2021-04-13 18:37:28 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:37:28 --> Email Class Initialized
+INFO - 2021-04-13 18:37:28 --> Model Class Initialized
+INFO - 2021-04-13 18:37:28 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:37:28 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/models/Dashboard_model.php
+INFO - 2021-04-13 18:37:28 --> Model Class Initialized
+DEBUG - 2021-04-13 18:37:28 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:37:28 --> Model Class Initialized
+DEBUG - 2021-04-13 18:37:28 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:37:28 --> Model Class Initialized
+ERROR - 2021-04-13 18:37:28 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:37:28 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:37:28 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 49
+ERROR - 2021-04-13 18:37:28 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 55
+ERROR - 2021-04-13 18:37:28 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 61
+DEBUG - 2021-04-13 18:37:28 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/views/manage.php
+INFO - 2021-04-13 18:37:28 --> Final output sent to browser
+DEBUG - 2021-04-13 18:37:28 --> Total execution time: 0.1268
+INFO - 2021-04-13 18:37:29 --> Config Class Initialized
+INFO - 2021-04-13 18:37:29 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:37:29 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:37:29 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:37:29 --> URI Class Initialized
+INFO - 2021-04-13 18:37:29 --> Router Class Initialized
+INFO - 2021-04-13 18:37:29 --> Output Class Initialized
+INFO - 2021-04-13 18:37:29 --> Security Class Initialized
+DEBUG - 2021-04-13 18:37:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:37:29 --> Input Class Initialized
+INFO - 2021-04-13 18:37:29 --> Language Class Initialized
+INFO - 2021-04-13 18:37:29 --> Language Class Initialized
+INFO - 2021-04-13 18:37:29 --> Config Class Initialized
+INFO - 2021-04-13 18:37:29 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:37:29 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:37:29 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:37:29 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:37:29 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:37:29 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:37:29 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:37:29 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:37:29 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:37:29 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:37:29 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:37:29 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:37:29 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:37:29 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:37:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:37:29 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:37:29 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:37:29 --> Upload Class Initialized
+INFO - 2021-04-13 18:37:29 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:37:29 --> Email Class Initialized
+INFO - 2021-04-13 18:37:29 --> Model Class Initialized
+INFO - 2021-04-13 18:37:29 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:37:29 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/models/Dashboard_model.php
+INFO - 2021-04-13 18:37:29 --> Model Class Initialized
+DEBUG - 2021-04-13 18:37:29 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:37:29 --> Model Class Initialized
+DEBUG - 2021-04-13 18:37:29 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:37:29 --> Model Class Initialized
+ERROR - 2021-04-13 18:37:29 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:37:29 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:37:29 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 49
+ERROR - 2021-04-13 18:37:29 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 55
+ERROR - 2021-04-13 18:37:29 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 61
+DEBUG - 2021-04-13 18:37:29 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/views/manage.php
+INFO - 2021-04-13 18:37:29 --> Final output sent to browser
+DEBUG - 2021-04-13 18:37:29 --> Total execution time: 0.1774
+INFO - 2021-04-13 18:37:30 --> Config Class Initialized
+INFO - 2021-04-13 18:37:30 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:37:30 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:37:30 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:37:30 --> URI Class Initialized
+INFO - 2021-04-13 18:37:30 --> Router Class Initialized
+INFO - 2021-04-13 18:37:30 --> Output Class Initialized
+INFO - 2021-04-13 18:37:30 --> Security Class Initialized
+DEBUG - 2021-04-13 18:37:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:37:30 --> Input Class Initialized
+INFO - 2021-04-13 18:37:30 --> Language Class Initialized
+INFO - 2021-04-13 18:37:30 --> Language Class Initialized
+INFO - 2021-04-13 18:37:30 --> Config Class Initialized
+INFO - 2021-04-13 18:37:30 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:37:30 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:37:30 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:37:30 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:37:30 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:37:30 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:37:30 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:37:30 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:37:30 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:37:30 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:37:30 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:37:30 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:37:30 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:37:30 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:37:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:37:30 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:37:30 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:37:30 --> Upload Class Initialized
+INFO - 2021-04-13 18:37:30 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:37:30 --> Email Class Initialized
+INFO - 2021-04-13 18:37:30 --> Model Class Initialized
+INFO - 2021-04-13 18:37:30 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:37:30 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/models/Dashboard_model.php
+INFO - 2021-04-13 18:37:30 --> Model Class Initialized
+DEBUG - 2021-04-13 18:37:30 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:37:30 --> Model Class Initialized
+DEBUG - 2021-04-13 18:37:30 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:37:30 --> Model Class Initialized
+ERROR - 2021-04-13 18:37:30 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:37:30 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:37:30 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 49
+ERROR - 2021-04-13 18:37:30 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 55
+ERROR - 2021-04-13 18:37:30 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 61
+DEBUG - 2021-04-13 18:37:30 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/views/manage.php
+INFO - 2021-04-13 18:37:30 --> Final output sent to browser
+DEBUG - 2021-04-13 18:37:30 --> Total execution time: 0.2315
+INFO - 2021-04-13 18:37:32 --> Config Class Initialized
+INFO - 2021-04-13 18:37:32 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:37:32 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:37:32 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:37:32 --> URI Class Initialized
+INFO - 2021-04-13 18:37:32 --> Router Class Initialized
+INFO - 2021-04-13 18:37:32 --> Output Class Initialized
+INFO - 2021-04-13 18:37:32 --> Security Class Initialized
+DEBUG - 2021-04-13 18:37:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:37:32 --> Input Class Initialized
+INFO - 2021-04-13 18:37:32 --> Language Class Initialized
+INFO - 2021-04-13 18:37:32 --> Language Class Initialized
+INFO - 2021-04-13 18:37:32 --> Config Class Initialized
+INFO - 2021-04-13 18:37:32 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:37:32 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:37:32 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:37:32 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:37:32 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:37:32 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:37:32 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:37:32 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:37:32 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:37:32 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:37:32 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:37:32 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:37:32 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:37:32 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:37:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:37:32 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:37:32 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:37:32 --> Upload Class Initialized
+INFO - 2021-04-13 18:37:32 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:37:32 --> Email Class Initialized
+INFO - 2021-04-13 18:37:32 --> Model Class Initialized
+INFO - 2021-04-13 18:37:32 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:37:32 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/membership.member/models/Membership_model.php
+INFO - 2021-04-13 18:37:32 --> Model Class Initialized
+DEBUG - 2021-04-13 18:37:32 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:37:32 --> Model Class Initialized
+DEBUG - 2021-04-13 18:37:32 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:37:32 --> Model Class Initialized
+ERROR - 2021-04-13 18:37:32 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 42
+ERROR - 2021-04-13 18:37:32 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 42
+ERROR - 2021-04-13 18:37:32 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 55
+ERROR - 2021-04-13 18:37:32 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 61
+ERROR - 2021-04-13 18:37:32 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 67
+ERROR - 2021-04-13 18:37:32 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 49
+ERROR - 2021-04-13 18:37:32 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 73
+DEBUG - 2021-04-13 18:37:32 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/membership.member/views/manage.php
+INFO - 2021-04-13 18:37:32 --> Final output sent to browser
+DEBUG - 2021-04-13 18:37:32 --> Total execution time: 0.1786
+INFO - 2021-04-13 18:37:33 --> Config Class Initialized
+INFO - 2021-04-13 18:37:33 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:37:33 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:37:33 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:37:33 --> URI Class Initialized
+INFO - 2021-04-13 18:37:33 --> Router Class Initialized
+INFO - 2021-04-13 18:37:33 --> Output Class Initialized
+INFO - 2021-04-13 18:37:33 --> Security Class Initialized
+DEBUG - 2021-04-13 18:37:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:37:33 --> Input Class Initialized
+INFO - 2021-04-13 18:37:33 --> Language Class Initialized
+INFO - 2021-04-13 18:37:33 --> Language Class Initialized
+INFO - 2021-04-13 18:37:33 --> Config Class Initialized
+INFO - 2021-04-13 18:37:33 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:37:33 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:37:33 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:37:33 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:37:33 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:37:33 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:37:33 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:37:33 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:37:33 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:37:33 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:37:33 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:37:33 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:37:33 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:37:33 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:37:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:37:33 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:37:33 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:37:33 --> Upload Class Initialized
+INFO - 2021-04-13 18:37:33 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:37:33 --> Email Class Initialized
+INFO - 2021-04-13 18:37:33 --> Model Class Initialized
+INFO - 2021-04-13 18:37:33 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:37:33 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/models/Dashboard_model.php
+INFO - 2021-04-13 18:37:33 --> Model Class Initialized
+DEBUG - 2021-04-13 18:37:33 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:37:33 --> Model Class Initialized
+DEBUG - 2021-04-13 18:37:33 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:37:33 --> Model Class Initialized
+ERROR - 2021-04-13 18:37:33 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:37:33 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:37:33 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 49
+ERROR - 2021-04-13 18:37:33 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 55
+ERROR - 2021-04-13 18:37:33 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 61
+DEBUG - 2021-04-13 18:37:33 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/views/manage.php
+INFO - 2021-04-13 18:37:33 --> Final output sent to browser
+DEBUG - 2021-04-13 18:37:33 --> Total execution time: 0.1147
+INFO - 2021-04-13 18:37:49 --> Config Class Initialized
+INFO - 2021-04-13 18:37:49 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:37:49 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:37:49 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:37:49 --> URI Class Initialized
+INFO - 2021-04-13 18:37:49 --> Router Class Initialized
+INFO - 2021-04-13 18:37:49 --> Output Class Initialized
+INFO - 2021-04-13 18:37:49 --> Security Class Initialized
+DEBUG - 2021-04-13 18:37:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:37:49 --> Input Class Initialized
+INFO - 2021-04-13 18:37:49 --> Language Class Initialized
+INFO - 2021-04-13 18:37:49 --> Language Class Initialized
+INFO - 2021-04-13 18:37:49 --> Config Class Initialized
+INFO - 2021-04-13 18:37:49 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:37:49 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:37:49 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:37:49 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:37:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:37:49 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:37:49 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:37:49 --> Upload Class Initialized
+INFO - 2021-04-13 18:37:49 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:37:49 --> Email Class Initialized
+INFO - 2021-04-13 18:37:49 --> Model Class Initialized
+INFO - 2021-04-13 18:37:49 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:37:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:37:49 --> Model Class Initialized
+DEBUG - 2021-04-13 18:37:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:37:49 --> Model Class Initialized
+ERROR - 2021-04-13 18:37:49 --> Severity: Warning --> Undefined variable $paging C:\xampp\htdocs\member_madad-master\application\modules\leads.member\views\manage.php 24
+DEBUG - 2021-04-13 18:37:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/manage.php
+INFO - 2021-04-13 18:37:49 --> Final output sent to browser
+DEBUG - 2021-04-13 18:37:49 --> Total execution time: 0.3951
+INFO - 2021-04-13 18:37:49 --> Config Class Initialized
+INFO - 2021-04-13 18:37:49 --> Hooks Class Initialized
+INFO - 2021-04-13 18:37:49 --> Config Class Initialized
+INFO - 2021-04-13 18:37:49 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:37:49 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:37:49 --> Utf8 Class Initialized
+DEBUG - 2021-04-13 18:37:49 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:37:49 --> URI Class Initialized
+INFO - 2021-04-13 18:37:49 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:37:49 --> URI Class Initialized
+INFO - 2021-04-13 18:37:49 --> Router Class Initialized
+INFO - 2021-04-13 18:37:49 --> Output Class Initialized
+INFO - 2021-04-13 18:37:49 --> Security Class Initialized
+DEBUG - 2021-04-13 18:37:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:37:49 --> Input Class Initialized
+INFO - 2021-04-13 18:37:49 --> Language Class Initialized
+INFO - 2021-04-13 18:37:49 --> Router Class Initialized
+INFO - 2021-04-13 18:37:49 --> Language Class Initialized
+INFO - 2021-04-13 18:37:49 --> Config Class Initialized
+INFO - 2021-04-13 18:37:49 --> Output Class Initialized
+INFO - 2021-04-13 18:37:49 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:37:49 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:37:49 --> Security Class Initialized
+INFO - 2021-04-13 18:37:49 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: file_helper
+DEBUG - 2021-04-13 18:37:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:37:49 --> Input Class Initialized
+INFO - 2021-04-13 18:37:49 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:37:49 --> Language Class Initialized
+INFO - 2021-04-13 18:37:49 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:37:49 --> Language Class Initialized
+INFO - 2021-04-13 18:37:49 --> Config Class Initialized
+INFO - 2021-04-13 18:37:49 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:37:49 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:37:49 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:37:49 --> Database Driver Class Initialized
+INFO - 2021-04-13 18:37:49 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: typography_helper
+DEBUG - 2021-04-13 18:37:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:37:49 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:37:49 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:37:49 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:37:49 --> Upload Class Initialized
+INFO - 2021-04-13 18:37:49 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:37:49 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:37:49 --> Email Class Initialized
+INFO - 2021-04-13 18:37:49 --> Database Driver Class Initialized
+INFO - 2021-04-13 18:37:49 --> Model Class Initialized
+INFO - 2021-04-13 18:37:49 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:37:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:37:49 --> Model Class Initialized
+DEBUG - 2021-04-13 18:37:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:37:49 --> Model Class Initialized
+DEBUG - 2021-04-13 18:37:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+ERROR - 2021-04-13 18:37:49 --> Severity: Warning --> Undefined variable $filterNama C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 47
+ERROR - 2021-04-13 18:37:49 --> Severity: Warning --> Undefined variable $levelMember C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 48
+ERROR - 2021-04-13 18:37:49 --> Severity: Warning --> Undefined variable $jumlahData C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 50
+DEBUG - 2021-04-13 18:37:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/filter.php
+DEBUG - 2021-04-13 18:37:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/filter.php
+INFO - 2021-04-13 18:37:49 --> Final output sent to browser
+DEBUG - 2021-04-13 18:37:49 --> Total execution time: 0.1089
+INFO - 2021-04-13 18:37:49 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:37:49 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:37:49 --> Upload Class Initialized
+INFO - 2021-04-13 18:37:49 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:37:49 --> Email Class Initialized
+INFO - 2021-04-13 18:37:49 --> Model Class Initialized
+INFO - 2021-04-13 18:37:49 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:37:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:37:49 --> Model Class Initialized
+DEBUG - 2021-04-13 18:37:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:37:49 --> Model Class Initialized
+ERROR - 2021-04-13 18:37:49 --> Severity: Warning --> Undefined variable $dataPaggingContent C:\xampp\htdocs\member_madad-master\application\core\MY_Controller.php 109
+DEBUG - 2021-04-13 18:37:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/paging.php
+DEBUG - 2021-04-13 18:37:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/paging.php
+INFO - 2021-04-13 18:37:49 --> Final output sent to browser
+DEBUG - 2021-04-13 18:37:49 --> Total execution time: 0.1456
+INFO - 2021-04-13 18:37:49 --> Config Class Initialized
+INFO - 2021-04-13 18:37:49 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:37:49 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:37:49 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:37:49 --> URI Class Initialized
+INFO - 2021-04-13 18:37:49 --> Router Class Initialized
+INFO - 2021-04-13 18:37:49 --> Output Class Initialized
+INFO - 2021-04-13 18:37:49 --> Security Class Initialized
+DEBUG - 2021-04-13 18:37:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:37:49 --> Input Class Initialized
+INFO - 2021-04-13 18:37:49 --> Language Class Initialized
+INFO - 2021-04-13 18:37:49 --> Language Class Initialized
+INFO - 2021-04-13 18:37:49 --> Config Class Initialized
+INFO - 2021-04-13 18:37:49 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:37:49 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:37:49 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:37:49 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:37:49 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:37:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:37:49 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:37:49 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:37:49 --> Upload Class Initialized
+INFO - 2021-04-13 18:37:49 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:37:49 --> Email Class Initialized
+INFO - 2021-04-13 18:37:50 --> Model Class Initialized
+INFO - 2021-04-13 18:37:50 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:37:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:37:50 --> Model Class Initialized
+DEBUG - 2021-04-13 18:37:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:37:50 --> Model Class Initialized
+DEBUG - 2021-04-13 18:37:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/daftar.php
+DEBUG - 2021-04-13 18:37:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/daftar.php
+INFO - 2021-04-13 18:37:50 --> Final output sent to browser
+DEBUG - 2021-04-13 18:37:50 --> Total execution time: 0.3358
+INFO - 2021-04-13 18:37:50 --> Config Class Initialized
+INFO - 2021-04-13 18:37:50 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:37:50 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:37:50 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:37:50 --> URI Class Initialized
+INFO - 2021-04-13 18:37:50 --> Router Class Initialized
+INFO - 2021-04-13 18:37:50 --> Output Class Initialized
+INFO - 2021-04-13 18:37:50 --> Security Class Initialized
+DEBUG - 2021-04-13 18:37:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:37:50 --> Input Class Initialized
+INFO - 2021-04-13 18:37:50 --> Language Class Initialized
+INFO - 2021-04-13 18:37:50 --> Language Class Initialized
+INFO - 2021-04-13 18:37:50 --> Config Class Initialized
+INFO - 2021-04-13 18:37:50 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:37:50 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:37:50 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:37:50 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:37:50 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:37:50 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:37:50 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:37:50 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:37:50 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:37:50 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:37:50 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:37:50 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:37:50 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:37:50 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:37:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:37:50 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:37:50 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:37:50 --> Upload Class Initialized
+INFO - 2021-04-13 18:37:50 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:37:50 --> Email Class Initialized
+INFO - 2021-04-13 18:37:50 --> Model Class Initialized
+INFO - 2021-04-13 18:37:50 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:37:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/models/Team_model.php
+INFO - 2021-04-13 18:37:50 --> Model Class Initialized
+DEBUG - 2021-04-13 18:37:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:37:50 --> Model Class Initialized
+ERROR - 2021-04-13 18:37:50 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined variable $paging C:\xampp\htdocs\member_madad-master\application\modules\team.member\views\manage.php 21
+DEBUG - 2021-04-13 18:37:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/manage.php
+INFO - 2021-04-13 18:37:51 --> Final output sent to browser
+DEBUG - 2021-04-13 18:37:51 --> Total execution time: 0.3565
+INFO - 2021-04-13 18:37:51 --> Config Class Initialized
+INFO - 2021-04-13 18:37:51 --> Hooks Class Initialized
+INFO - 2021-04-13 18:37:51 --> Config Class Initialized
+INFO - 2021-04-13 18:37:51 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:37:51 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:37:51 --> Utf8 Class Initialized
+DEBUG - 2021-04-13 18:37:51 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:37:51 --> URI Class Initialized
+INFO - 2021-04-13 18:37:51 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:37:51 --> URI Class Initialized
+INFO - 2021-04-13 18:37:51 --> Router Class Initialized
+INFO - 2021-04-13 18:37:51 --> Router Class Initialized
+INFO - 2021-04-13 18:37:51 --> Output Class Initialized
+INFO - 2021-04-13 18:37:51 --> Security Class Initialized
+INFO - 2021-04-13 18:37:51 --> Output Class Initialized
+DEBUG - 2021-04-13 18:37:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:37:51 --> Input Class Initialized
+INFO - 2021-04-13 18:37:51 --> Security Class Initialized
+INFO - 2021-04-13 18:37:51 --> Language Class Initialized
+DEBUG - 2021-04-13 18:37:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:37:51 --> Input Class Initialized
+INFO - 2021-04-13 18:37:51 --> Language Class Initialized
+INFO - 2021-04-13 18:37:51 --> Language Class Initialized
+INFO - 2021-04-13 18:37:51 --> Config Class Initialized
+INFO - 2021-04-13 18:37:51 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:37:51 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:37:51 --> Language Class Initialized
+INFO - 2021-04-13 18:37:51 --> Config Class Initialized
+INFO - 2021-04-13 18:37:51 --> Loader Class Initialized
+INFO - 2021-04-13 18:37:51 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: file_helper
+DEBUG - 2021-04-13 18:37:51 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:37:51 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:37:51 --> Database Driver Class Initialized
+INFO - 2021-04-13 18:37:51 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: app_helper
+DEBUG - 2021-04-13 18:37:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:37:51 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:37:51 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:37:51 --> Upload Class Initialized
+INFO - 2021-04-13 18:37:51 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:37:51 --> Database Driver Class Initialized
+INFO - 2021-04-13 18:37:51 --> Email Class Initialized
+INFO - 2021-04-13 18:37:51 --> Model Class Initialized
+INFO - 2021-04-13 18:37:51 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:37:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2021-04-13 18:37:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/models/Team_model.php
+INFO - 2021-04-13 18:37:51 --> Model Class Initialized
+DEBUG - 2021-04-13 18:37:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:37:51 --> Model Class Initialized
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined variable $dataPaggingContent C:\xampp\htdocs\member_madad-master\application\core\MY_Controller.php 109
+DEBUG - 2021-04-13 18:37:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/paging.php
+DEBUG - 2021-04-13 18:37:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/paging.php
+INFO - 2021-04-13 18:37:51 --> Final output sent to browser
+DEBUG - 2021-04-13 18:37:51 --> Total execution time: 0.1062
+INFO - 2021-04-13 18:37:51 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:37:51 --> Upload Class Initialized
+INFO - 2021-04-13 18:37:51 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:37:51 --> Email Class Initialized
+INFO - 2021-04-13 18:37:51 --> Model Class Initialized
+INFO - 2021-04-13 18:37:51 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:37:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/models/Team_model.php
+INFO - 2021-04-13 18:37:51 --> Model Class Initialized
+DEBUG - 2021-04-13 18:37:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:37:51 --> Model Class Initialized
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined variable $filterNama C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 47
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined variable $levelMember C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 48
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Undefined variable $jumlahData C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 50
+DEBUG - 2021-04-13 18:37:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/filter.php
+DEBUG - 2021-04-13 18:37:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/filter.php
+INFO - 2021-04-13 18:37:51 --> Config Class Initialized
+INFO - 2021-04-13 18:37:51 --> Hooks Class Initialized
+INFO - 2021-04-13 18:37:51 --> Final output sent to browser
+DEBUG - 2021-04-13 18:37:51 --> Total execution time: 0.1336
+DEBUG - 2021-04-13 18:37:51 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:37:51 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:37:51 --> URI Class Initialized
+INFO - 2021-04-13 18:37:51 --> Router Class Initialized
+INFO - 2021-04-13 18:37:51 --> Output Class Initialized
+INFO - 2021-04-13 18:37:51 --> Security Class Initialized
+DEBUG - 2021-04-13 18:37:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:37:51 --> Input Class Initialized
+INFO - 2021-04-13 18:37:51 --> Language Class Initialized
+INFO - 2021-04-13 18:37:51 --> Language Class Initialized
+INFO - 2021-04-13 18:37:51 --> Config Class Initialized
+INFO - 2021-04-13 18:37:51 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:37:51 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:37:51 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:37:51 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:37:51 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:37:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:37:51 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:37:51 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:37:51 --> Upload Class Initialized
+INFO - 2021-04-13 18:37:51 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:37:51 --> Email Class Initialized
+INFO - 2021-04-13 18:37:51 --> Model Class Initialized
+INFO - 2021-04-13 18:37:51 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:37:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/models/Team_model.php
+INFO - 2021-04-13 18:37:51 --> Model Class Initialized
+DEBUG - 2021-04-13 18:37:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:37:51 --> Model Class Initialized
+DEBUG - 2021-04-13 18:37:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/daftar.php
+DEBUG - 2021-04-13 18:37:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/daftar.php
+INFO - 2021-04-13 18:37:51 --> Final output sent to browser
+DEBUG - 2021-04-13 18:37:51 --> Total execution time: 0.2522
+INFO - 2021-04-13 18:42:32 --> Config Class Initialized
+INFO - 2021-04-13 18:42:32 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:42:32 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:42:32 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:42:32 --> URI Class Initialized
+INFO - 2021-04-13 18:42:32 --> Router Class Initialized
+INFO - 2021-04-13 18:42:32 --> Output Class Initialized
+INFO - 2021-04-13 18:42:32 --> Security Class Initialized
+DEBUG - 2021-04-13 18:42:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:42:32 --> Input Class Initialized
+INFO - 2021-04-13 18:42:32 --> Language Class Initialized
+INFO - 2021-04-13 18:42:32 --> Language Class Initialized
+INFO - 2021-04-13 18:42:32 --> Config Class Initialized
+INFO - 2021-04-13 18:42:32 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:42:32 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:42:32 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:42:32 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:42:32 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:42:32 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:42:32 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:42:32 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:42:32 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:42:32 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:42:32 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:42:32 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:42:32 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:42:32 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:42:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:42:32 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:42:32 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:42:32 --> Upload Class Initialized
+INFO - 2021-04-13 18:42:32 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:42:32 --> Email Class Initialized
+INFO - 2021-04-13 18:42:32 --> Model Class Initialized
+INFO - 2021-04-13 18:42:32 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:42:32 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/models/Dashboard_model.php
+INFO - 2021-04-13 18:42:32 --> Model Class Initialized
+DEBUG - 2021-04-13 18:42:32 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:42:33 --> Model Class Initialized
+DEBUG - 2021-04-13 18:42:33 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:42:33 --> Model Class Initialized
+ERROR - 2021-04-13 18:42:33 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:42:33 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:42:33 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 49
+ERROR - 2021-04-13 18:42:33 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 55
+ERROR - 2021-04-13 18:42:33 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 61
+DEBUG - 2021-04-13 18:42:33 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/views/manage.php
+INFO - 2021-04-13 18:42:33 --> Final output sent to browser
+DEBUG - 2021-04-13 18:42:33 --> Total execution time: 0.1480
+INFO - 2021-04-13 18:42:58 --> Config Class Initialized
+INFO - 2021-04-13 18:42:58 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:42:58 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:42:58 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:42:58 --> URI Class Initialized
+INFO - 2021-04-13 18:42:58 --> Router Class Initialized
+INFO - 2021-04-13 18:42:58 --> Output Class Initialized
+INFO - 2021-04-13 18:42:58 --> Security Class Initialized
+DEBUG - 2021-04-13 18:42:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:42:58 --> Input Class Initialized
+INFO - 2021-04-13 18:42:58 --> Language Class Initialized
+INFO - 2021-04-13 18:42:58 --> Language Class Initialized
+INFO - 2021-04-13 18:42:58 --> Config Class Initialized
+INFO - 2021-04-13 18:42:58 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:42:58 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:42:59 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:42:59 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:42:59 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:42:59 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:42:59 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:42:59 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:42:59 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:42:59 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:42:59 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:42:59 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:42:59 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:42:59 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:42:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:42:59 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:42:59 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:42:59 --> Upload Class Initialized
+INFO - 2021-04-13 18:42:59 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:42:59 --> Email Class Initialized
+INFO - 2021-04-13 18:42:59 --> Model Class Initialized
+INFO - 2021-04-13 18:42:59 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:42:59 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Cart_model.php
+INFO - 2021-04-13 18:42:59 --> Model Class Initialized
+DEBUG - 2021-04-13 18:42:59 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:42:59 --> Model Class Initialized
+ERROR - 2021-04-13 18:42:59 --> Severity: Warning --> Undefined variable $totalCart C:\xampp\htdocs\member_madad-master\application\modules\member\controllers\Member.php 39
+DEBUG - 2021-04-13 18:42:59 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/member/views/tpl_sidebar_member.php
+DEBUG - 2021-04-13 18:42:59 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/member/views/tpl_member.php
+INFO - 2021-04-13 18:42:59 --> Final output sent to browser
+DEBUG - 2021-04-13 18:42:59 --> Total execution time: 0.1436
+INFO - 2021-04-13 18:42:59 --> Config Class Initialized
+INFO - 2021-04-13 18:42:59 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:42:59 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:42:59 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:42:59 --> URI Class Initialized
+INFO - 2021-04-13 18:42:59 --> Router Class Initialized
+INFO - 2021-04-13 18:42:59 --> Output Class Initialized
+INFO - 2021-04-13 18:42:59 --> Security Class Initialized
+DEBUG - 2021-04-13 18:42:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:42:59 --> Input Class Initialized
+INFO - 2021-04-13 18:42:59 --> Language Class Initialized
+INFO - 2021-04-13 18:43:00 --> Language Class Initialized
+INFO - 2021-04-13 18:43:00 --> Config Class Initialized
+INFO - 2021-04-13 18:43:00 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:43:00 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:43:00 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:43:00 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:43:00 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:43:00 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:43:00 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:43:00 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:43:00 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:43:00 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:43:00 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:43:00 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:43:00 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:43:00 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:43:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:43:00 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:43:00 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:43:00 --> Upload Class Initialized
+INFO - 2021-04-13 18:43:00 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:43:00 --> Email Class Initialized
+INFO - 2021-04-13 18:43:00 --> Model Class Initialized
+INFO - 2021-04-13 18:43:00 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:43:00 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/models/Dashboard_model.php
+INFO - 2021-04-13 18:43:00 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:00 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:43:00 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:00 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:43:00 --> Model Class Initialized
+ERROR - 2021-04-13 18:43:00 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:43:00 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:43:00 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 49
+ERROR - 2021-04-13 18:43:00 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 55
+ERROR - 2021-04-13 18:43:00 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 61
+DEBUG - 2021-04-13 18:43:00 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/views/manage.php
+INFO - 2021-04-13 18:43:00 --> Final output sent to browser
+DEBUG - 2021-04-13 18:43:00 --> Total execution time: 0.2533
+INFO - 2021-04-13 18:43:01 --> Config Class Initialized
+INFO - 2021-04-13 18:43:01 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:43:01 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:43:01 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:43:01 --> URI Class Initialized
+INFO - 2021-04-13 18:43:01 --> Router Class Initialized
+INFO - 2021-04-13 18:43:01 --> Output Class Initialized
+INFO - 2021-04-13 18:43:01 --> Security Class Initialized
+DEBUG - 2021-04-13 18:43:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:43:01 --> Input Class Initialized
+INFO - 2021-04-13 18:43:01 --> Language Class Initialized
+INFO - 2021-04-13 18:43:01 --> Language Class Initialized
+INFO - 2021-04-13 18:43:01 --> Config Class Initialized
+INFO - 2021-04-13 18:43:01 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:43:01 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:43:01 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:43:01 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:43:01 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:43:01 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:43:01 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:43:01 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:43:01 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:43:01 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:43:01 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:43:01 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:43:01 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:43:01 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:43:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:43:01 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:43:01 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:43:01 --> Upload Class Initialized
+INFO - 2021-04-13 18:43:01 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:43:01 --> Email Class Initialized
+INFO - 2021-04-13 18:43:01 --> Model Class Initialized
+INFO - 2021-04-13 18:43:01 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:43:01 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/models/Dashboard_model.php
+INFO - 2021-04-13 18:43:01 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:01 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:43:01 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:01 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:43:01 --> Model Class Initialized
+ERROR - 2021-04-13 18:43:01 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:43:01 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:43:01 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 49
+ERROR - 2021-04-13 18:43:01 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 55
+ERROR - 2021-04-13 18:43:01 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 61
+DEBUG - 2021-04-13 18:43:01 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/views/manage.php
+INFO - 2021-04-13 18:43:01 --> Final output sent to browser
+DEBUG - 2021-04-13 18:43:01 --> Total execution time: 0.1277
+INFO - 2021-04-13 18:43:01 --> Config Class Initialized
+INFO - 2021-04-13 18:43:01 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:43:01 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:43:01 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:43:01 --> URI Class Initialized
+INFO - 2021-04-13 18:43:01 --> Router Class Initialized
+INFO - 2021-04-13 18:43:01 --> Output Class Initialized
+INFO - 2021-04-13 18:43:01 --> Security Class Initialized
+DEBUG - 2021-04-13 18:43:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:43:01 --> Input Class Initialized
+INFO - 2021-04-13 18:43:01 --> Language Class Initialized
+INFO - 2021-04-13 18:43:01 --> Language Class Initialized
+INFO - 2021-04-13 18:43:01 --> Config Class Initialized
+INFO - 2021-04-13 18:43:01 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:43:01 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:43:01 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:43:01 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:43:01 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:43:01 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:43:01 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:43:01 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:43:01 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:43:01 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:43:01 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:43:01 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:43:01 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:43:01 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:43:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:43:01 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:43:01 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:43:01 --> Upload Class Initialized
+INFO - 2021-04-13 18:43:01 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:43:01 --> Email Class Initialized
+INFO - 2021-04-13 18:43:01 --> Model Class Initialized
+INFO - 2021-04-13 18:43:01 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:43:01 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/models/Dashboard_model.php
+INFO - 2021-04-13 18:43:01 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:01 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:43:01 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:01 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:43:01 --> Model Class Initialized
+ERROR - 2021-04-13 18:43:01 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:43:01 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:43:01 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 49
+ERROR - 2021-04-13 18:43:01 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 55
+ERROR - 2021-04-13 18:43:01 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 61
+DEBUG - 2021-04-13 18:43:01 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/views/manage.php
+INFO - 2021-04-13 18:43:01 --> Final output sent to browser
+DEBUG - 2021-04-13 18:43:01 --> Total execution time: 0.0931
+INFO - 2021-04-13 18:43:02 --> Config Class Initialized
+INFO - 2021-04-13 18:43:02 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:43:02 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:43:02 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:43:02 --> URI Class Initialized
+INFO - 2021-04-13 18:43:02 --> Router Class Initialized
+INFO - 2021-04-13 18:43:02 --> Output Class Initialized
+INFO - 2021-04-13 18:43:02 --> Security Class Initialized
+DEBUG - 2021-04-13 18:43:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:43:02 --> Input Class Initialized
+INFO - 2021-04-13 18:43:02 --> Language Class Initialized
+INFO - 2021-04-13 18:43:02 --> Language Class Initialized
+INFO - 2021-04-13 18:43:02 --> Config Class Initialized
+INFO - 2021-04-13 18:43:02 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:43:02 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:43:02 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:43:02 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:43:02 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:43:02 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:43:02 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:43:02 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:43:02 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:43:02 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:43:02 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:43:02 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:43:02 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:43:02 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:43:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:43:02 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:43:02 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:43:02 --> Upload Class Initialized
+INFO - 2021-04-13 18:43:02 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:43:02 --> Email Class Initialized
+INFO - 2021-04-13 18:43:02 --> Model Class Initialized
+INFO - 2021-04-13 18:43:02 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:43:02 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/membership.member/models/Membership_model.php
+INFO - 2021-04-13 18:43:02 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:02 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:43:02 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:02 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:43:02 --> Model Class Initialized
+ERROR - 2021-04-13 18:43:02 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 42
+ERROR - 2021-04-13 18:43:02 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 42
+ERROR - 2021-04-13 18:43:02 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 55
+ERROR - 2021-04-13 18:43:02 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 61
+ERROR - 2021-04-13 18:43:02 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 67
+ERROR - 2021-04-13 18:43:02 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 49
+ERROR - 2021-04-13 18:43:02 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 73
+DEBUG - 2021-04-13 18:43:02 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/membership.member/views/manage.php
+INFO - 2021-04-13 18:43:02 --> Final output sent to browser
+DEBUG - 2021-04-13 18:43:02 --> Total execution time: 0.1204
+INFO - 2021-04-13 18:43:03 --> Config Class Initialized
+INFO - 2021-04-13 18:43:03 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:43:03 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:43:03 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:43:03 --> URI Class Initialized
+INFO - 2021-04-13 18:43:03 --> Router Class Initialized
+INFO - 2021-04-13 18:43:03 --> Output Class Initialized
+INFO - 2021-04-13 18:43:03 --> Security Class Initialized
+DEBUG - 2021-04-13 18:43:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:43:03 --> Input Class Initialized
+INFO - 2021-04-13 18:43:03 --> Language Class Initialized
+INFO - 2021-04-13 18:43:03 --> Language Class Initialized
+INFO - 2021-04-13 18:43:03 --> Config Class Initialized
+INFO - 2021-04-13 18:43:03 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:43:03 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:43:03 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:43:03 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:43:03 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:43:03 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:43:03 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:43:03 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:43:03 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:43:03 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:43:03 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:43:03 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:43:03 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:43:03 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:43:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:43:03 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:43:03 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:43:03 --> Upload Class Initialized
+INFO - 2021-04-13 18:43:03 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:43:03 --> Email Class Initialized
+INFO - 2021-04-13 18:43:03 --> Model Class Initialized
+INFO - 2021-04-13 18:43:03 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:43:03 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:43:03 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:03 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:43:03 --> Model Class Initialized
+ERROR - 2021-04-13 18:43:04 --> Severity: Warning --> Undefined variable $paging C:\xampp\htdocs\member_madad-master\application\modules\leads.member\views\manage.php 24
+DEBUG - 2021-04-13 18:43:04 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/manage.php
+INFO - 2021-04-13 18:43:04 --> Final output sent to browser
+DEBUG - 2021-04-13 18:43:04 --> Total execution time: 0.5508
+INFO - 2021-04-13 18:43:04 --> Config Class Initialized
+INFO - 2021-04-13 18:43:04 --> Config Class Initialized
+INFO - 2021-04-13 18:43:04 --> Hooks Class Initialized
+INFO - 2021-04-13 18:43:04 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:43:04 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:43:04 --> Utf8 Class Initialized
+DEBUG - 2021-04-13 18:43:04 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:43:04 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:43:04 --> URI Class Initialized
+INFO - 2021-04-13 18:43:04 --> URI Class Initialized
+INFO - 2021-04-13 18:43:04 --> Router Class Initialized
+INFO - 2021-04-13 18:43:04 --> Router Class Initialized
+INFO - 2021-04-13 18:43:04 --> Output Class Initialized
+INFO - 2021-04-13 18:43:04 --> Security Class Initialized
+INFO - 2021-04-13 18:43:04 --> Output Class Initialized
+DEBUG - 2021-04-13 18:43:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:43:04 --> Input Class Initialized
+INFO - 2021-04-13 18:43:04 --> Language Class Initialized
+INFO - 2021-04-13 18:43:04 --> Security Class Initialized
+DEBUG - 2021-04-13 18:43:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:43:04 --> Input Class Initialized
+INFO - 2021-04-13 18:43:04 --> Language Class Initialized
+INFO - 2021-04-13 18:43:04 --> Language Class Initialized
+INFO - 2021-04-13 18:43:04 --> Config Class Initialized
+INFO - 2021-04-13 18:43:04 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:43:04 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:43:04 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:43:04 --> Language Class Initialized
+INFO - 2021-04-13 18:43:04 --> Config Class Initialized
+INFO - 2021-04-13 18:43:04 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:43:04 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:43:04 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:43:04 --> Database Driver Class Initialized
+INFO - 2021-04-13 18:43:04 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: files_helper
+DEBUG - 2021-04-13 18:43:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:43:04 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:43:04 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:43:04 --> Upload Class Initialized
+INFO - 2021-04-13 18:43:04 --> Database Driver Class Initialized
+INFO - 2021-04-13 18:43:04 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:43:04 --> Email Class Initialized
+INFO - 2021-04-13 18:43:04 --> Model Class Initialized
+INFO - 2021-04-13 18:43:04 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:43:04 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:43:04 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:04 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:43:04 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+ERROR - 2021-04-13 18:43:04 --> Severity: Warning --> Undefined variable $dataPaggingContent C:\xampp\htdocs\member_madad-master\application\core\MY_Controller.php 109
+DEBUG - 2021-04-13 18:43:04 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/paging.php
+DEBUG - 2021-04-13 18:43:04 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/paging.php
+INFO - 2021-04-13 18:43:04 --> Final output sent to browser
+DEBUG - 2021-04-13 18:43:04 --> Total execution time: 0.1177
+INFO - 2021-04-13 18:43:04 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:43:04 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:43:04 --> Upload Class Initialized
+INFO - 2021-04-13 18:43:04 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:43:04 --> Email Class Initialized
+INFO - 2021-04-13 18:43:04 --> Model Class Initialized
+INFO - 2021-04-13 18:43:04 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:43:04 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:43:04 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:04 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:43:04 --> Model Class Initialized
+ERROR - 2021-04-13 18:43:04 --> Severity: Warning --> Undefined variable $filterNama C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 47
+ERROR - 2021-04-13 18:43:04 --> Severity: Warning --> Undefined variable $levelMember C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 48
+ERROR - 2021-04-13 18:43:04 --> Severity: Warning --> Undefined variable $jumlahData C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 50
+DEBUG - 2021-04-13 18:43:04 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/filter.php
+DEBUG - 2021-04-13 18:43:04 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/filter.php
+INFO - 2021-04-13 18:43:04 --> Final output sent to browser
+DEBUG - 2021-04-13 18:43:04 --> Total execution time: 0.1459
+INFO - 2021-04-13 18:43:04 --> Config Class Initialized
+INFO - 2021-04-13 18:43:04 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:43:04 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:43:04 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:43:04 --> URI Class Initialized
+INFO - 2021-04-13 18:43:04 --> Router Class Initialized
+INFO - 2021-04-13 18:43:04 --> Output Class Initialized
+INFO - 2021-04-13 18:43:04 --> Security Class Initialized
+DEBUG - 2021-04-13 18:43:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:43:04 --> Input Class Initialized
+INFO - 2021-04-13 18:43:04 --> Language Class Initialized
+INFO - 2021-04-13 18:43:04 --> Language Class Initialized
+INFO - 2021-04-13 18:43:04 --> Config Class Initialized
+INFO - 2021-04-13 18:43:04 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:43:04 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:43:04 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:43:04 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:43:04 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:43:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:43:04 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:43:04 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:43:04 --> Upload Class Initialized
+INFO - 2021-04-13 18:43:04 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:43:04 --> Email Class Initialized
+INFO - 2021-04-13 18:43:04 --> Model Class Initialized
+INFO - 2021-04-13 18:43:04 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:43:04 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:43:04 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:04 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:43:04 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:04 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/daftar.php
+DEBUG - 2021-04-13 18:43:04 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/daftar.php
+INFO - 2021-04-13 18:43:04 --> Final output sent to browser
+DEBUG - 2021-04-13 18:43:04 --> Total execution time: 0.4564
+INFO - 2021-04-13 18:43:37 --> Config Class Initialized
+INFO - 2021-04-13 18:43:37 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:43:37 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:43:37 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:43:37 --> URI Class Initialized
+INFO - 2021-04-13 18:43:37 --> Router Class Initialized
+INFO - 2021-04-13 18:43:37 --> Output Class Initialized
+INFO - 2021-04-13 18:43:37 --> Security Class Initialized
+DEBUG - 2021-04-13 18:43:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:43:37 --> Input Class Initialized
+INFO - 2021-04-13 18:43:37 --> Language Class Initialized
+INFO - 2021-04-13 18:43:37 --> Language Class Initialized
+INFO - 2021-04-13 18:43:37 --> Config Class Initialized
+INFO - 2021-04-13 18:43:37 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:43:37 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:43:37 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:43:37 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:43:37 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:43:37 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:43:37 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:43:37 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:43:37 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:43:37 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:43:37 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:43:37 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:43:37 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:43:38 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:43:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:43:38 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:43:38 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:43:38 --> Upload Class Initialized
+INFO - 2021-04-13 18:43:38 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:43:38 --> Email Class Initialized
+INFO - 2021-04-13 18:43:38 --> Model Class Initialized
+INFO - 2021-04-13 18:43:38 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:43:38 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/membership.member/models/Membership_model.php
+INFO - 2021-04-13 18:43:38 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:38 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:43:38 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:38 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:43:38 --> Model Class Initialized
+ERROR - 2021-04-13 18:43:38 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 42
+ERROR - 2021-04-13 18:43:38 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 42
+ERROR - 2021-04-13 18:43:38 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 55
+ERROR - 2021-04-13 18:43:38 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 61
+ERROR - 2021-04-13 18:43:38 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 67
+ERROR - 2021-04-13 18:43:38 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 49
+ERROR - 2021-04-13 18:43:38 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 73
+DEBUG - 2021-04-13 18:43:38 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/membership.member/views/manage.php
+INFO - 2021-04-13 18:43:38 --> Final output sent to browser
+DEBUG - 2021-04-13 18:43:38 --> Total execution time: 0.2095
+INFO - 2021-04-13 18:43:38 --> Config Class Initialized
+INFO - 2021-04-13 18:43:38 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:43:38 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:43:38 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:43:38 --> URI Class Initialized
+INFO - 2021-04-13 18:43:38 --> Router Class Initialized
+INFO - 2021-04-13 18:43:38 --> Output Class Initialized
+INFO - 2021-04-13 18:43:38 --> Security Class Initialized
+DEBUG - 2021-04-13 18:43:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:43:38 --> Input Class Initialized
+INFO - 2021-04-13 18:43:38 --> Language Class Initialized
+INFO - 2021-04-13 18:43:38 --> Language Class Initialized
+INFO - 2021-04-13 18:43:38 --> Config Class Initialized
+INFO - 2021-04-13 18:43:38 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:43:38 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:43:38 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:43:38 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:43:38 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:43:38 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:43:38 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:43:38 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:43:38 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:43:38 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:43:38 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:43:38 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:43:38 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:43:38 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:43:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:43:38 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:43:38 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:43:38 --> Upload Class Initialized
+INFO - 2021-04-13 18:43:38 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:43:38 --> Email Class Initialized
+INFO - 2021-04-13 18:43:38 --> Model Class Initialized
+INFO - 2021-04-13 18:43:38 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:43:38 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:43:38 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:38 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:43:38 --> Model Class Initialized
+ERROR - 2021-04-13 18:43:39 --> Severity: Warning --> Undefined variable $paging C:\xampp\htdocs\member_madad-master\application\modules\leads.member\views\manage.php 24
+DEBUG - 2021-04-13 18:43:39 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/manage.php
+INFO - 2021-04-13 18:43:39 --> Final output sent to browser
+DEBUG - 2021-04-13 18:43:39 --> Total execution time: 0.6267
+INFO - 2021-04-13 18:43:39 --> Config Class Initialized
+INFO - 2021-04-13 18:43:39 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:43:39 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:43:39 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:43:39 --> URI Class Initialized
+INFO - 2021-04-13 18:43:39 --> Config Class Initialized
+INFO - 2021-04-13 18:43:39 --> Hooks Class Initialized
+INFO - 2021-04-13 18:43:39 --> Router Class Initialized
+DEBUG - 2021-04-13 18:43:39 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:43:39 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:43:39 --> Output Class Initialized
+INFO - 2021-04-13 18:43:39 --> URI Class Initialized
+INFO - 2021-04-13 18:43:39 --> Security Class Initialized
+DEBUG - 2021-04-13 18:43:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:43:39 --> Input Class Initialized
+INFO - 2021-04-13 18:43:39 --> Language Class Initialized
+INFO - 2021-04-13 18:43:39 --> Router Class Initialized
+INFO - 2021-04-13 18:43:39 --> Output Class Initialized
+INFO - 2021-04-13 18:43:39 --> Security Class Initialized
+DEBUG - 2021-04-13 18:43:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:43:39 --> Input Class Initialized
+INFO - 2021-04-13 18:43:39 --> Language Class Initialized
+INFO - 2021-04-13 18:43:39 --> Language Class Initialized
+INFO - 2021-04-13 18:43:39 --> Config Class Initialized
+INFO - 2021-04-13 18:43:39 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:43:39 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:43:39 --> Language Class Initialized
+INFO - 2021-04-13 18:43:39 --> Config Class Initialized
+INFO - 2021-04-13 18:43:39 --> Loader Class Initialized
+INFO - 2021-04-13 18:43:39 --> Helper loaded: language_helper
+DEBUG - 2021-04-13 18:43:39 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:43:39 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:43:39 --> Database Driver Class Initialized
+INFO - 2021-04-13 18:43:39 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:43:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:43:39 --> Session: Class initialized using 'files' driver.
+DEBUG - 2021-04-13 18:43:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+ERROR - 2021-04-13 18:43:39 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:43:39 --> Upload Class Initialized
+INFO - 2021-04-13 18:43:39 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:43:39 --> Email Class Initialized
+INFO - 2021-04-13 18:43:39 --> Model Class Initialized
+INFO - 2021-04-13 18:43:39 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:43:39 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:43:39 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:39 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:43:39 --> Model Class Initialized
+ERROR - 2021-04-13 18:43:39 --> Severity: Warning --> Undefined variable $filterNama C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 47
+ERROR - 2021-04-13 18:43:39 --> Severity: Warning --> Undefined variable $levelMember C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 48
+ERROR - 2021-04-13 18:43:39 --> Severity: Warning --> Undefined variable $jumlahData C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 50
+DEBUG - 2021-04-13 18:43:39 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/filter.php
+DEBUG - 2021-04-13 18:43:39 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/filter.php
+INFO - 2021-04-13 18:43:39 --> Final output sent to browser
+DEBUG - 2021-04-13 18:43:39 --> Total execution time: 0.1429
+INFO - 2021-04-13 18:43:39 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:43:39 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:43:39 --> Upload Class Initialized
+INFO - 2021-04-13 18:43:39 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:43:39 --> Email Class Initialized
+INFO - 2021-04-13 18:43:39 --> Model Class Initialized
+INFO - 2021-04-13 18:43:39 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:43:39 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:43:39 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:39 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:43:39 --> Model Class Initialized
+ERROR - 2021-04-13 18:43:39 --> Severity: Warning --> Undefined variable $dataPaggingContent C:\xampp\htdocs\member_madad-master\application\core\MY_Controller.php 109
+DEBUG - 2021-04-13 18:43:39 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/paging.php
+DEBUG - 2021-04-13 18:43:39 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/paging.php
+INFO - 2021-04-13 18:43:39 --> Final output sent to browser
+DEBUG - 2021-04-13 18:43:39 --> Total execution time: 0.1790
+INFO - 2021-04-13 18:43:39 --> Config Class Initialized
+INFO - 2021-04-13 18:43:39 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:43:39 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:43:39 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:43:39 --> URI Class Initialized
+INFO - 2021-04-13 18:43:39 --> Router Class Initialized
+INFO - 2021-04-13 18:43:39 --> Output Class Initialized
+INFO - 2021-04-13 18:43:39 --> Security Class Initialized
+DEBUG - 2021-04-13 18:43:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:43:39 --> Input Class Initialized
+INFO - 2021-04-13 18:43:39 --> Language Class Initialized
+INFO - 2021-04-13 18:43:39 --> Language Class Initialized
+INFO - 2021-04-13 18:43:39 --> Config Class Initialized
+INFO - 2021-04-13 18:43:39 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:43:39 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:43:39 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:43:39 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:43:39 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:43:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:43:39 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:43:39 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:43:39 --> Upload Class Initialized
+INFO - 2021-04-13 18:43:39 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:43:39 --> Email Class Initialized
+INFO - 2021-04-13 18:43:39 --> Model Class Initialized
+INFO - 2021-04-13 18:43:39 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:43:39 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:43:39 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:39 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:43:39 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:40 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/daftar.php
+DEBUG - 2021-04-13 18:43:40 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/daftar.php
+INFO - 2021-04-13 18:43:40 --> Final output sent to browser
+DEBUG - 2021-04-13 18:43:40 --> Total execution time: 0.4959
+INFO - 2021-04-13 18:43:45 --> Config Class Initialized
+INFO - 2021-04-13 18:43:45 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:43:45 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:43:45 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:43:45 --> URI Class Initialized
+INFO - 2021-04-13 18:43:45 --> Router Class Initialized
+INFO - 2021-04-13 18:43:45 --> Output Class Initialized
+INFO - 2021-04-13 18:43:45 --> Security Class Initialized
+DEBUG - 2021-04-13 18:43:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:43:45 --> Input Class Initialized
+INFO - 2021-04-13 18:43:45 --> Language Class Initialized
+INFO - 2021-04-13 18:43:45 --> Language Class Initialized
+INFO - 2021-04-13 18:43:45 --> Config Class Initialized
+INFO - 2021-04-13 18:43:45 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:43:45 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:43:45 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:43:45 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:43:45 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:43:45 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:43:45 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:43:45 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:43:45 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:43:45 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:43:45 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:43:45 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:43:45 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:43:45 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:43:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:43:45 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:43:45 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:43:45 --> Upload Class Initialized
+INFO - 2021-04-13 18:43:45 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:43:46 --> Email Class Initialized
+INFO - 2021-04-13 18:43:46 --> Model Class Initialized
+INFO - 2021-04-13 18:43:46 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:43:46 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Cart_model.php
+INFO - 2021-04-13 18:43:46 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:46 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:43:46 --> Model Class Initialized
+ERROR - 2021-04-13 18:43:46 --> Severity: Warning --> Undefined variable $totalCart C:\xampp\htdocs\member_madad-master\application\modules\member\controllers\Member.php 39
+DEBUG - 2021-04-13 18:43:46 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/member/views/tpl_sidebar_member.php
+DEBUG - 2021-04-13 18:43:46 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/member/views/tpl_member.php
+INFO - 2021-04-13 18:43:46 --> Final output sent to browser
+DEBUG - 2021-04-13 18:43:46 --> Total execution time: 0.0978
+INFO - 2021-04-13 18:43:47 --> Config Class Initialized
+INFO - 2021-04-13 18:43:47 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:43:47 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:43:47 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:43:47 --> URI Class Initialized
+INFO - 2021-04-13 18:43:47 --> Router Class Initialized
+INFO - 2021-04-13 18:43:47 --> Output Class Initialized
+INFO - 2021-04-13 18:43:47 --> Security Class Initialized
+DEBUG - 2021-04-13 18:43:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:43:47 --> Input Class Initialized
+INFO - 2021-04-13 18:43:47 --> Language Class Initialized
+INFO - 2021-04-13 18:43:47 --> Language Class Initialized
+INFO - 2021-04-13 18:43:47 --> Config Class Initialized
+INFO - 2021-04-13 18:43:47 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:43:47 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:43:47 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:43:47 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:43:47 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:43:47 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:43:47 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:43:47 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:43:47 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:43:47 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:43:47 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:43:47 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:43:47 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:43:47 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:43:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:43:47 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:43:47 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:43:47 --> Upload Class Initialized
+INFO - 2021-04-13 18:43:47 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:43:47 --> Email Class Initialized
+INFO - 2021-04-13 18:43:47 --> Model Class Initialized
+INFO - 2021-04-13 18:43:47 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:43:47 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/models/Dashboard_model.php
+INFO - 2021-04-13 18:43:47 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:47 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:43:47 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:47 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:43:47 --> Model Class Initialized
+ERROR - 2021-04-13 18:43:47 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:43:47 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:43:47 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 49
+ERROR - 2021-04-13 18:43:47 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 55
+ERROR - 2021-04-13 18:43:47 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 61
+DEBUG - 2021-04-13 18:43:47 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/views/manage.php
+INFO - 2021-04-13 18:43:47 --> Final output sent to browser
+DEBUG - 2021-04-13 18:43:47 --> Total execution time: 0.2155
+INFO - 2021-04-13 18:43:48 --> Config Class Initialized
+INFO - 2021-04-13 18:43:48 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:43:48 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:43:48 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:43:48 --> URI Class Initialized
+INFO - 2021-04-13 18:43:48 --> Router Class Initialized
+INFO - 2021-04-13 18:43:48 --> Output Class Initialized
+INFO - 2021-04-13 18:43:48 --> Security Class Initialized
+DEBUG - 2021-04-13 18:43:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:43:48 --> Input Class Initialized
+INFO - 2021-04-13 18:43:48 --> Language Class Initialized
+INFO - 2021-04-13 18:43:48 --> Language Class Initialized
+INFO - 2021-04-13 18:43:48 --> Config Class Initialized
+INFO - 2021-04-13 18:43:48 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:43:48 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:43:48 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:43:48 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:43:48 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:43:48 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:43:48 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:43:48 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:43:48 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:43:48 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:43:48 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:43:48 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:43:48 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:43:48 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:43:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:43:48 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:43:48 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:43:48 --> Upload Class Initialized
+INFO - 2021-04-13 18:43:48 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:43:48 --> Email Class Initialized
+INFO - 2021-04-13 18:43:48 --> Model Class Initialized
+INFO - 2021-04-13 18:43:48 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:43:48 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/membership.member/models/Membership_model.php
+INFO - 2021-04-13 18:43:48 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:48 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:43:48 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:48 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:43:48 --> Model Class Initialized
+ERROR - 2021-04-13 18:43:48 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 42
+ERROR - 2021-04-13 18:43:48 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 42
+ERROR - 2021-04-13 18:43:48 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 55
+ERROR - 2021-04-13 18:43:48 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 61
+ERROR - 2021-04-13 18:43:48 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 67
+ERROR - 2021-04-13 18:43:48 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 49
+ERROR - 2021-04-13 18:43:48 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 73
+DEBUG - 2021-04-13 18:43:48 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/membership.member/views/manage.php
+INFO - 2021-04-13 18:43:48 --> Final output sent to browser
+DEBUG - 2021-04-13 18:43:48 --> Total execution time: 0.1301
+INFO - 2021-04-13 18:43:49 --> Config Class Initialized
+INFO - 2021-04-13 18:43:49 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:43:49 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:43:49 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:43:49 --> URI Class Initialized
+INFO - 2021-04-13 18:43:49 --> Router Class Initialized
+INFO - 2021-04-13 18:43:49 --> Output Class Initialized
+INFO - 2021-04-13 18:43:49 --> Security Class Initialized
+DEBUG - 2021-04-13 18:43:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:43:49 --> Input Class Initialized
+INFO - 2021-04-13 18:43:49 --> Language Class Initialized
+INFO - 2021-04-13 18:43:49 --> Language Class Initialized
+INFO - 2021-04-13 18:43:49 --> Config Class Initialized
+INFO - 2021-04-13 18:43:49 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:43:49 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:43:49 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:43:49 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:43:49 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:43:49 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:43:49 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:43:49 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:43:49 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:43:49 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:43:49 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:43:49 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:43:49 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:43:49 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:43:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:43:49 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:43:49 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:43:49 --> Upload Class Initialized
+INFO - 2021-04-13 18:43:49 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:43:49 --> Email Class Initialized
+INFO - 2021-04-13 18:43:49 --> Model Class Initialized
+INFO - 2021-04-13 18:43:49 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:43:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/membership.member/models/Membership_model.php
+INFO - 2021-04-13 18:43:49 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:43:49 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:43:49 --> Model Class Initialized
+ERROR - 2021-04-13 18:43:49 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 42
+ERROR - 2021-04-13 18:43:49 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 42
+ERROR - 2021-04-13 18:43:49 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 55
+ERROR - 2021-04-13 18:43:49 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 61
+ERROR - 2021-04-13 18:43:49 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 67
+ERROR - 2021-04-13 18:43:49 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 49
+ERROR - 2021-04-13 18:43:49 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 73
+DEBUG - 2021-04-13 18:43:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/membership.member/views/manage.php
+INFO - 2021-04-13 18:43:49 --> Final output sent to browser
+DEBUG - 2021-04-13 18:43:49 --> Total execution time: 0.1509
+INFO - 2021-04-13 18:43:50 --> Config Class Initialized
+INFO - 2021-04-13 18:43:50 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:43:50 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:43:50 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:43:50 --> URI Class Initialized
+INFO - 2021-04-13 18:43:50 --> Router Class Initialized
+INFO - 2021-04-13 18:43:50 --> Output Class Initialized
+INFO - 2021-04-13 18:43:50 --> Security Class Initialized
+DEBUG - 2021-04-13 18:43:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:43:50 --> Input Class Initialized
+INFO - 2021-04-13 18:43:50 --> Language Class Initialized
+INFO - 2021-04-13 18:43:50 --> Language Class Initialized
+INFO - 2021-04-13 18:43:50 --> Config Class Initialized
+INFO - 2021-04-13 18:43:50 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:43:50 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:43:50 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:43:50 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:43:50 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:43:50 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:43:50 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:43:50 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:43:50 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:43:50 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:43:50 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:43:50 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:43:50 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:43:50 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:43:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:43:50 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:43:50 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:43:50 --> Upload Class Initialized
+INFO - 2021-04-13 18:43:50 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:43:50 --> Email Class Initialized
+INFO - 2021-04-13 18:43:50 --> Model Class Initialized
+INFO - 2021-04-13 18:43:50 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:43:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/membership.member/models/Membership_model.php
+INFO - 2021-04-13 18:43:50 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:43:50 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:43:50 --> Model Class Initialized
+ERROR - 2021-04-13 18:43:50 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 42
+ERROR - 2021-04-13 18:43:50 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 42
+ERROR - 2021-04-13 18:43:50 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 55
+ERROR - 2021-04-13 18:43:50 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 61
+ERROR - 2021-04-13 18:43:50 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 67
+ERROR - 2021-04-13 18:43:50 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 49
+ERROR - 2021-04-13 18:43:50 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 73
+DEBUG - 2021-04-13 18:43:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/membership.member/views/manage.php
+INFO - 2021-04-13 18:43:50 --> Final output sent to browser
+DEBUG - 2021-04-13 18:43:50 --> Total execution time: 0.1571
+INFO - 2021-04-13 18:43:50 --> Config Class Initialized
+INFO - 2021-04-13 18:43:50 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:43:50 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:43:50 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:43:50 --> URI Class Initialized
+INFO - 2021-04-13 18:43:50 --> Router Class Initialized
+INFO - 2021-04-13 18:43:50 --> Output Class Initialized
+INFO - 2021-04-13 18:43:50 --> Security Class Initialized
+DEBUG - 2021-04-13 18:43:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:43:50 --> Input Class Initialized
+INFO - 2021-04-13 18:43:50 --> Language Class Initialized
+INFO - 2021-04-13 18:43:50 --> Language Class Initialized
+INFO - 2021-04-13 18:43:50 --> Config Class Initialized
+INFO - 2021-04-13 18:43:50 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:43:50 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:43:50 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:43:50 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:43:50 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:43:50 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:43:50 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:43:50 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:43:50 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:43:50 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:43:50 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:43:50 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:43:50 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:43:50 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:43:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:43:50 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:43:50 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:43:50 --> Upload Class Initialized
+INFO - 2021-04-13 18:43:50 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:43:50 --> Email Class Initialized
+INFO - 2021-04-13 18:43:50 --> Model Class Initialized
+INFO - 2021-04-13 18:43:50 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:43:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/membership.member/models/Membership_model.php
+INFO - 2021-04-13 18:43:50 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:43:50 --> Model Class Initialized
+DEBUG - 2021-04-13 18:43:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:43:50 --> Model Class Initialized
+ERROR - 2021-04-13 18:43:50 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 42
+ERROR - 2021-04-13 18:43:50 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 42
+ERROR - 2021-04-13 18:43:50 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 55
+ERROR - 2021-04-13 18:43:50 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 61
+ERROR - 2021-04-13 18:43:50 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 67
+ERROR - 2021-04-13 18:43:50 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 49
+ERROR - 2021-04-13 18:43:50 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 73
+DEBUG - 2021-04-13 18:43:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/membership.member/views/manage.php
+INFO - 2021-04-13 18:43:50 --> Final output sent to browser
+DEBUG - 2021-04-13 18:43:50 --> Total execution time: 0.1366
+INFO - 2021-04-13 18:44:43 --> Config Class Initialized
+INFO - 2021-04-13 18:44:43 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:44:43 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:44:43 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:44:43 --> URI Class Initialized
+INFO - 2021-04-13 18:44:43 --> Router Class Initialized
+INFO - 2021-04-13 18:44:43 --> Output Class Initialized
+INFO - 2021-04-13 18:44:43 --> Security Class Initialized
+DEBUG - 2021-04-13 18:44:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:44:43 --> Input Class Initialized
+INFO - 2021-04-13 18:44:43 --> Language Class Initialized
+INFO - 2021-04-13 18:44:43 --> Language Class Initialized
+INFO - 2021-04-13 18:44:43 --> Config Class Initialized
+INFO - 2021-04-13 18:44:43 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:44:43 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:44:43 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:44:43 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:44:43 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:44:43 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:44:43 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:44:43 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:44:43 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:44:43 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:44:43 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:44:43 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:44:43 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:44:43 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:44:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:44:43 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:44:43 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:44:43 --> Upload Class Initialized
+INFO - 2021-04-13 18:44:43 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:44:43 --> Email Class Initialized
+INFO - 2021-04-13 18:44:43 --> Model Class Initialized
+INFO - 2021-04-13 18:44:43 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:44:43 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:44:43 --> Model Class Initialized
+DEBUG - 2021-04-13 18:44:43 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:44:43 --> Model Class Initialized
+ERROR - 2021-04-13 18:44:44 --> Severity: Warning --> Undefined variable $paging C:\xampp\htdocs\member_madad-master\application\modules\leads.member\views\manage.php 24
+DEBUG - 2021-04-13 18:44:44 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/manage.php
+INFO - 2021-04-13 18:44:44 --> Final output sent to browser
+DEBUG - 2021-04-13 18:44:44 --> Total execution time: 1.2277
+INFO - 2021-04-13 18:44:44 --> Config Class Initialized
+INFO - 2021-04-13 18:44:44 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:44:44 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:44:44 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:44:44 --> URI Class Initialized
+INFO - 2021-04-13 18:44:44 --> Config Class Initialized
+INFO - 2021-04-13 18:44:44 --> Router Class Initialized
+INFO - 2021-04-13 18:44:44 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:44:44 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:44:44 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:44:44 --> Output Class Initialized
+INFO - 2021-04-13 18:44:44 --> URI Class Initialized
+INFO - 2021-04-13 18:44:44 --> Security Class Initialized
+INFO - 2021-04-13 18:44:44 --> Router Class Initialized
+DEBUG - 2021-04-13 18:44:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:44:44 --> Input Class Initialized
+INFO - 2021-04-13 18:44:44 --> Language Class Initialized
+INFO - 2021-04-13 18:44:44 --> Output Class Initialized
+INFO - 2021-04-13 18:44:44 --> Security Class Initialized
+DEBUG - 2021-04-13 18:44:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:44:44 --> Input Class Initialized
+INFO - 2021-04-13 18:44:44 --> Language Class Initialized
+INFO - 2021-04-13 18:44:44 --> Language Class Initialized
+INFO - 2021-04-13 18:44:44 --> Config Class Initialized
+INFO - 2021-04-13 18:44:44 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:44:44 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:44:44 --> Language Class Initialized
+INFO - 2021-04-13 18:44:44 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:44:44 --> Config Class Initialized
+INFO - 2021-04-13 18:44:44 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:44:44 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:44:44 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:44:44 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:44:44 --> Database Driver Class Initialized
+INFO - 2021-04-13 18:44:44 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:44:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:44:44 --> Session: Class initialized using 'files' driver.
+DEBUG - 2021-04-13 18:44:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+ERROR - 2021-04-13 18:44:44 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:44:44 --> Upload Class Initialized
+INFO - 2021-04-13 18:44:44 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:44:44 --> Email Class Initialized
+INFO - 2021-04-13 18:44:44 --> Model Class Initialized
+INFO - 2021-04-13 18:44:44 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:44:44 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:44:44 --> Model Class Initialized
+DEBUG - 2021-04-13 18:44:44 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:44:44 --> Model Class Initialized
+ERROR - 2021-04-13 18:44:44 --> Severity: Warning --> Undefined variable $filterNama C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 47
+ERROR - 2021-04-13 18:44:44 --> Severity: Warning --> Undefined variable $levelMember C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 48
+ERROR - 2021-04-13 18:44:44 --> Severity: Warning --> Undefined variable $jumlahData C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 50
+DEBUG - 2021-04-13 18:44:44 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/filter.php
+DEBUG - 2021-04-13 18:44:44 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/filter.php
+INFO - 2021-04-13 18:44:44 --> Final output sent to browser
+DEBUG - 2021-04-13 18:44:44 --> Total execution time: 0.1370
+INFO - 2021-04-13 18:44:44 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:44:44 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:44:44 --> Upload Class Initialized
+INFO - 2021-04-13 18:44:44 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:44:44 --> Email Class Initialized
+INFO - 2021-04-13 18:44:44 --> Model Class Initialized
+INFO - 2021-04-13 18:44:44 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:44:44 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:44:44 --> Model Class Initialized
+DEBUG - 2021-04-13 18:44:44 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:44:44 --> Model Class Initialized
+ERROR - 2021-04-13 18:44:44 --> Severity: Warning --> Undefined variable $dataPaggingContent C:\xampp\htdocs\member_madad-master\application\core\MY_Controller.php 109
+DEBUG - 2021-04-13 18:44:44 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/paging.php
+DEBUG - 2021-04-13 18:44:44 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/paging.php
+INFO - 2021-04-13 18:44:44 --> Final output sent to browser
+DEBUG - 2021-04-13 18:44:44 --> Total execution time: 0.1603
+INFO - 2021-04-13 18:44:44 --> Config Class Initialized
+INFO - 2021-04-13 18:44:44 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:44:44 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:44:44 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:44:44 --> URI Class Initialized
+INFO - 2021-04-13 18:44:44 --> Router Class Initialized
+INFO - 2021-04-13 18:44:44 --> Output Class Initialized
+INFO - 2021-04-13 18:44:44 --> Security Class Initialized
+DEBUG - 2021-04-13 18:44:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:44:44 --> Input Class Initialized
+INFO - 2021-04-13 18:44:44 --> Language Class Initialized
+INFO - 2021-04-13 18:44:44 --> Language Class Initialized
+INFO - 2021-04-13 18:44:44 --> Config Class Initialized
+INFO - 2021-04-13 18:44:44 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:44:44 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:44:44 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:44:44 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:44:45 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:44:45 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:44:45 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:44:45 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:44:45 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:44:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:44:45 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:44:45 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:44:45 --> Upload Class Initialized
+INFO - 2021-04-13 18:44:45 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:44:45 --> Email Class Initialized
+INFO - 2021-04-13 18:44:45 --> Model Class Initialized
+INFO - 2021-04-13 18:44:45 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:44:45 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:44:45 --> Model Class Initialized
+DEBUG - 2021-04-13 18:44:45 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:44:45 --> Model Class Initialized
+DEBUG - 2021-04-13 18:44:45 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/daftar.php
+DEBUG - 2021-04-13 18:44:45 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/daftar.php
+INFO - 2021-04-13 18:44:45 --> Final output sent to browser
+DEBUG - 2021-04-13 18:44:45 --> Total execution time: 0.4914
+INFO - 2021-04-13 18:44:46 --> Config Class Initialized
+INFO - 2021-04-13 18:44:46 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:44:46 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:44:46 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:44:46 --> URI Class Initialized
+INFO - 2021-04-13 18:44:46 --> Router Class Initialized
+INFO - 2021-04-13 18:44:46 --> Output Class Initialized
+INFO - 2021-04-13 18:44:46 --> Security Class Initialized
+DEBUG - 2021-04-13 18:44:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:44:46 --> Input Class Initialized
+INFO - 2021-04-13 18:44:46 --> Language Class Initialized
+INFO - 2021-04-13 18:44:46 --> Language Class Initialized
+INFO - 2021-04-13 18:44:46 --> Config Class Initialized
+INFO - 2021-04-13 18:44:46 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:44:46 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:44:46 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:44:46 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:44:46 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:44:46 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:44:46 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:44:46 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:44:46 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:44:46 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:44:46 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:44:46 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:44:46 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:44:46 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:44:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:44:46 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:44:46 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:44:46 --> Upload Class Initialized
+INFO - 2021-04-13 18:44:46 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:44:46 --> Email Class Initialized
+INFO - 2021-04-13 18:44:46 --> Model Class Initialized
+INFO - 2021-04-13 18:44:46 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:44:46 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Cart_model.php
+INFO - 2021-04-13 18:44:46 --> Model Class Initialized
+DEBUG - 2021-04-13 18:44:46 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:44:46 --> Model Class Initialized
+ERROR - 2021-04-13 18:44:46 --> Severity: Warning --> Undefined variable $totalCart C:\xampp\htdocs\member_madad-master\application\modules\member\controllers\Member.php 39
+DEBUG - 2021-04-13 18:44:46 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/member/views/tpl_sidebar_member.php
+DEBUG - 2021-04-13 18:44:46 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/member/views/tpl_member.php
+INFO - 2021-04-13 18:44:46 --> Final output sent to browser
+DEBUG - 2021-04-13 18:44:46 --> Total execution time: 0.1001
+INFO - 2021-04-13 18:44:47 --> Config Class Initialized
+INFO - 2021-04-13 18:44:47 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:44:47 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:44:47 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:44:47 --> URI Class Initialized
+INFO - 2021-04-13 18:44:47 --> Router Class Initialized
+INFO - 2021-04-13 18:44:47 --> Output Class Initialized
+INFO - 2021-04-13 18:44:47 --> Security Class Initialized
+DEBUG - 2021-04-13 18:44:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:44:47 --> Input Class Initialized
+INFO - 2021-04-13 18:44:47 --> Language Class Initialized
+INFO - 2021-04-13 18:44:47 --> Language Class Initialized
+INFO - 2021-04-13 18:44:47 --> Config Class Initialized
+INFO - 2021-04-13 18:44:47 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:44:47 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:44:48 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:44:48 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:44:48 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:44:48 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:44:48 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:44:48 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:44:48 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:44:48 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:44:48 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:44:48 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:44:48 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:44:48 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:44:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:44:48 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:44:48 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:44:48 --> Upload Class Initialized
+INFO - 2021-04-13 18:44:48 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:44:48 --> Email Class Initialized
+INFO - 2021-04-13 18:44:48 --> Model Class Initialized
+INFO - 2021-04-13 18:44:48 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:44:48 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/models/Dashboard_model.php
+INFO - 2021-04-13 18:44:48 --> Model Class Initialized
+DEBUG - 2021-04-13 18:44:48 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:44:48 --> Model Class Initialized
+DEBUG - 2021-04-13 18:44:48 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:44:48 --> Model Class Initialized
+ERROR - 2021-04-13 18:44:48 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:44:48 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:44:48 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 49
+ERROR - 2021-04-13 18:44:48 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 55
+ERROR - 2021-04-13 18:44:48 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 61
+DEBUG - 2021-04-13 18:44:48 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/views/manage.php
+INFO - 2021-04-13 18:44:48 --> Final output sent to browser
+DEBUG - 2021-04-13 18:44:48 --> Total execution time: 0.1560
+INFO - 2021-04-13 18:44:49 --> Config Class Initialized
+INFO - 2021-04-13 18:44:49 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:44:49 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:44:49 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:44:49 --> URI Class Initialized
+INFO - 2021-04-13 18:44:49 --> Router Class Initialized
+INFO - 2021-04-13 18:44:49 --> Output Class Initialized
+INFO - 2021-04-13 18:44:49 --> Security Class Initialized
+DEBUG - 2021-04-13 18:44:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:44:49 --> Input Class Initialized
+INFO - 2021-04-13 18:44:49 --> Language Class Initialized
+INFO - 2021-04-13 18:44:49 --> Language Class Initialized
+INFO - 2021-04-13 18:44:49 --> Config Class Initialized
+INFO - 2021-04-13 18:44:49 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:44:49 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:44:49 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:44:49 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:44:49 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:44:49 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:44:49 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:44:49 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:44:49 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:44:49 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:44:49 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:44:49 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:44:49 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:44:49 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:44:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:44:49 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:44:49 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:44:49 --> Upload Class Initialized
+INFO - 2021-04-13 18:44:49 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:44:49 --> Email Class Initialized
+INFO - 2021-04-13 18:44:49 --> Model Class Initialized
+INFO - 2021-04-13 18:44:49 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:44:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/membership.member/models/Membership_model.php
+INFO - 2021-04-13 18:44:49 --> Model Class Initialized
+DEBUG - 2021-04-13 18:44:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:44:49 --> Model Class Initialized
+DEBUG - 2021-04-13 18:44:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:44:49 --> Model Class Initialized
+ERROR - 2021-04-13 18:44:49 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 42
+ERROR - 2021-04-13 18:44:49 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 42
+ERROR - 2021-04-13 18:44:49 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 55
+ERROR - 2021-04-13 18:44:49 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 61
+ERROR - 2021-04-13 18:44:49 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 67
+ERROR - 2021-04-13 18:44:49 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 49
+ERROR - 2021-04-13 18:44:49 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 73
+DEBUG - 2021-04-13 18:44:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/membership.member/views/manage.php
+INFO - 2021-04-13 18:44:49 --> Final output sent to browser
+DEBUG - 2021-04-13 18:44:49 --> Total execution time: 0.1559
+INFO - 2021-04-13 18:44:50 --> Config Class Initialized
+INFO - 2021-04-13 18:44:50 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:44:50 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:44:50 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:44:50 --> URI Class Initialized
+INFO - 2021-04-13 18:44:50 --> Router Class Initialized
+INFO - 2021-04-13 18:44:50 --> Output Class Initialized
+INFO - 2021-04-13 18:44:50 --> Security Class Initialized
+DEBUG - 2021-04-13 18:44:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:44:50 --> Input Class Initialized
+INFO - 2021-04-13 18:44:50 --> Language Class Initialized
+INFO - 2021-04-13 18:44:50 --> Language Class Initialized
+INFO - 2021-04-13 18:44:50 --> Config Class Initialized
+INFO - 2021-04-13 18:44:50 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:44:50 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:44:50 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:44:50 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:44:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:44:50 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:44:50 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:44:50 --> Upload Class Initialized
+INFO - 2021-04-13 18:44:50 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:44:50 --> Email Class Initialized
+INFO - 2021-04-13 18:44:50 --> Model Class Initialized
+INFO - 2021-04-13 18:44:50 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:44:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:44:50 --> Model Class Initialized
+DEBUG - 2021-04-13 18:44:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:44:50 --> Model Class Initialized
+ERROR - 2021-04-13 18:44:50 --> Severity: Warning --> Undefined variable $paging C:\xampp\htdocs\member_madad-master\application\modules\leads.member\views\manage.php 24
+DEBUG - 2021-04-13 18:44:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/manage.php
+INFO - 2021-04-13 18:44:50 --> Final output sent to browser
+DEBUG - 2021-04-13 18:44:50 --> Total execution time: 0.7109
+INFO - 2021-04-13 18:44:50 --> Config Class Initialized
+INFO - 2021-04-13 18:44:50 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:44:50 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:44:50 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:44:50 --> URI Class Initialized
+INFO - 2021-04-13 18:44:50 --> Config Class Initialized
+INFO - 2021-04-13 18:44:50 --> Router Class Initialized
+INFO - 2021-04-13 18:44:50 --> Hooks Class Initialized
+INFO - 2021-04-13 18:44:50 --> Output Class Initialized
+INFO - 2021-04-13 18:44:50 --> Security Class Initialized
+DEBUG - 2021-04-13 18:44:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:44:50 --> Input Class Initialized
+DEBUG - 2021-04-13 18:44:50 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:44:50 --> Language Class Initialized
+INFO - 2021-04-13 18:44:50 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:44:50 --> URI Class Initialized
+INFO - 2021-04-13 18:44:50 --> Router Class Initialized
+INFO - 2021-04-13 18:44:50 --> Output Class Initialized
+INFO - 2021-04-13 18:44:50 --> Security Class Initialized
+DEBUG - 2021-04-13 18:44:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:44:50 --> Input Class Initialized
+INFO - 2021-04-13 18:44:50 --> Language Class Initialized
+INFO - 2021-04-13 18:44:50 --> Language Class Initialized
+INFO - 2021-04-13 18:44:50 --> Config Class Initialized
+INFO - 2021-04-13 18:44:50 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:44:50 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:44:50 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:44:50 --> Language Class Initialized
+INFO - 2021-04-13 18:44:50 --> Config Class Initialized
+INFO - 2021-04-13 18:44:50 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:44:50 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:44:50 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:44:50 --> Database Driver Class Initialized
+INFO - 2021-04-13 18:44:50 --> Helper loaded: date_helper
+DEBUG - 2021-04-13 18:44:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:44:50 --> Session: Class initialized using 'files' driver.
+INFO - 2021-04-13 18:44:50 --> Helper loaded: general_helper
+ERROR - 2021-04-13 18:44:50 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:44:50 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:44:50 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:44:50 --> Upload Class Initialized
+INFO - 2021-04-13 18:44:50 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:44:50 --> Email Class Initialized
+INFO - 2021-04-13 18:44:50 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:44:50 --> Model Class Initialized
+INFO - 2021-04-13 18:44:50 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:44:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:44:50 --> Model Class Initialized
+DEBUG - 2021-04-13 18:44:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:44:50 --> Model Class Initialized
+ERROR - 2021-04-13 18:44:50 --> Severity: Warning --> Undefined variable $filterNama C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 47
+ERROR - 2021-04-13 18:44:50 --> Severity: Warning --> Undefined variable $levelMember C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 48
+ERROR - 2021-04-13 18:44:50 --> Severity: Warning --> Undefined variable $jumlahData C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 50
+DEBUG - 2021-04-13 18:44:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/filter.php
+DEBUG - 2021-04-13 18:44:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/filter.php
+INFO - 2021-04-13 18:44:50 --> Final output sent to browser
+DEBUG - 2021-04-13 18:44:50 --> Total execution time: 0.1352
+INFO - 2021-04-13 18:44:50 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:44:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:44:51 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:44:51 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:44:51 --> Upload Class Initialized
+INFO - 2021-04-13 18:44:51 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:44:51 --> Email Class Initialized
+INFO - 2021-04-13 18:44:51 --> Model Class Initialized
+INFO - 2021-04-13 18:44:51 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:44:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:44:51 --> Model Class Initialized
+DEBUG - 2021-04-13 18:44:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:44:51 --> Model Class Initialized
+ERROR - 2021-04-13 18:44:51 --> Severity: Warning --> Undefined variable $dataPaggingContent C:\xampp\htdocs\member_madad-master\application\core\MY_Controller.php 109
+DEBUG - 2021-04-13 18:44:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/paging.php
+DEBUG - 2021-04-13 18:44:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/paging.php
+INFO - 2021-04-13 18:44:51 --> Final output sent to browser
+DEBUG - 2021-04-13 18:44:51 --> Total execution time: 0.1750
+INFO - 2021-04-13 18:44:51 --> Config Class Initialized
+INFO - 2021-04-13 18:44:51 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:44:51 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:44:51 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:44:51 --> URI Class Initialized
+INFO - 2021-04-13 18:44:51 --> Router Class Initialized
+INFO - 2021-04-13 18:44:51 --> Output Class Initialized
+INFO - 2021-04-13 18:44:51 --> Security Class Initialized
+DEBUG - 2021-04-13 18:44:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:44:51 --> Input Class Initialized
+INFO - 2021-04-13 18:44:51 --> Language Class Initialized
+INFO - 2021-04-13 18:44:51 --> Language Class Initialized
+INFO - 2021-04-13 18:44:51 --> Config Class Initialized
+INFO - 2021-04-13 18:44:51 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:44:51 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:44:51 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:44:51 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:44:51 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:44:51 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:44:51 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:44:51 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:44:51 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:44:51 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:44:51 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:44:51 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:44:51 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:44:51 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:44:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:44:51 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:44:51 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:44:51 --> Upload Class Initialized
+INFO - 2021-04-13 18:44:51 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:44:51 --> Email Class Initialized
+INFO - 2021-04-13 18:44:51 --> Model Class Initialized
+INFO - 2021-04-13 18:44:51 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:44:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:44:51 --> Model Class Initialized
+DEBUG - 2021-04-13 18:44:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:44:51 --> Model Class Initialized
+DEBUG - 2021-04-13 18:44:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/daftar.php
+DEBUG - 2021-04-13 18:44:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/daftar.php
+INFO - 2021-04-13 18:44:51 --> Final output sent to browser
+DEBUG - 2021-04-13 18:44:51 --> Total execution time: 0.4237
+INFO - 2021-04-13 18:44:51 --> Config Class Initialized
+INFO - 2021-04-13 18:44:51 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:44:51 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:44:51 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:44:51 --> URI Class Initialized
+INFO - 2021-04-13 18:44:51 --> Router Class Initialized
+INFO - 2021-04-13 18:44:51 --> Output Class Initialized
+INFO - 2021-04-13 18:44:51 --> Security Class Initialized
+DEBUG - 2021-04-13 18:44:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:44:51 --> Input Class Initialized
+INFO - 2021-04-13 18:44:51 --> Language Class Initialized
+INFO - 2021-04-13 18:44:51 --> Language Class Initialized
+INFO - 2021-04-13 18:44:51 --> Config Class Initialized
+INFO - 2021-04-13 18:44:51 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:44:51 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:44:51 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:44:51 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:44:51 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:44:51 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:44:51 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:44:51 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:44:51 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:44:51 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:44:51 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:44:51 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:44:51 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:44:51 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:44:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:44:51 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:44:51 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:44:51 --> Upload Class Initialized
+INFO - 2021-04-13 18:44:51 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:44:51 --> Email Class Initialized
+INFO - 2021-04-13 18:44:51 --> Model Class Initialized
+INFO - 2021-04-13 18:44:51 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:44:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/models/Team_model.php
+INFO - 2021-04-13 18:44:51 --> Model Class Initialized
+DEBUG - 2021-04-13 18:44:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:44:51 --> Model Class Initialized
+ERROR - 2021-04-13 18:44:51 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined variable $paging C:\xampp\htdocs\member_madad-master\application\modules\team.member\views\manage.php 21
+DEBUG - 2021-04-13 18:44:52 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/manage.php
+INFO - 2021-04-13 18:44:52 --> Final output sent to browser
+DEBUG - 2021-04-13 18:44:52 --> Total execution time: 0.6249
+INFO - 2021-04-13 18:44:52 --> Config Class Initialized
+INFO - 2021-04-13 18:44:52 --> Config Class Initialized
+INFO - 2021-04-13 18:44:52 --> Hooks Class Initialized
+INFO - 2021-04-13 18:44:52 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:44:52 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:44:52 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:44:52 --> URI Class Initialized
+DEBUG - 2021-04-13 18:44:52 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:44:52 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:44:52 --> URI Class Initialized
+INFO - 2021-04-13 18:44:52 --> Router Class Initialized
+INFO - 2021-04-13 18:44:52 --> Router Class Initialized
+INFO - 2021-04-13 18:44:52 --> Output Class Initialized
+INFO - 2021-04-13 18:44:52 --> Output Class Initialized
+INFO - 2021-04-13 18:44:52 --> Security Class Initialized
+DEBUG - 2021-04-13 18:44:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:44:52 --> Input Class Initialized
+INFO - 2021-04-13 18:44:52 --> Security Class Initialized
+INFO - 2021-04-13 18:44:52 --> Language Class Initialized
+DEBUG - 2021-04-13 18:44:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:44:52 --> Input Class Initialized
+INFO - 2021-04-13 18:44:52 --> Language Class Initialized
+INFO - 2021-04-13 18:44:52 --> Language Class Initialized
+INFO - 2021-04-13 18:44:52 --> Config Class Initialized
+INFO - 2021-04-13 18:44:52 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:44:52 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:44:52 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:44:52 --> Language Class Initialized
+INFO - 2021-04-13 18:44:52 --> Config Class Initialized
+INFO - 2021-04-13 18:44:52 --> Loader Class Initialized
+INFO - 2021-04-13 18:44:52 --> Helper loaded: file_helper
+DEBUG - 2021-04-13 18:44:52 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:44:52 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:44:52 --> Database Driver Class Initialized
+INFO - 2021-04-13 18:44:52 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:44:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2021-04-13 18:44:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:44:52 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:44:52 --> Upload Class Initialized
+INFO - 2021-04-13 18:44:52 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:44:52 --> Email Class Initialized
+INFO - 2021-04-13 18:44:52 --> Model Class Initialized
+INFO - 2021-04-13 18:44:52 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:44:52 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/models/Team_model.php
+INFO - 2021-04-13 18:44:52 --> Model Class Initialized
+DEBUG - 2021-04-13 18:44:52 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:44:52 --> Model Class Initialized
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined variable $dataPaggingContent C:\xampp\htdocs\member_madad-master\application\core\MY_Controller.php 109
+DEBUG - 2021-04-13 18:44:52 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/paging.php
+DEBUG - 2021-04-13 18:44:52 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/paging.php
+INFO - 2021-04-13 18:44:52 --> Final output sent to browser
+DEBUG - 2021-04-13 18:44:52 --> Total execution time: 0.1473
+INFO - 2021-04-13 18:44:52 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:44:52 --> Upload Class Initialized
+INFO - 2021-04-13 18:44:52 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:44:52 --> Email Class Initialized
+INFO - 2021-04-13 18:44:52 --> Model Class Initialized
+INFO - 2021-04-13 18:44:52 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:44:52 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/models/Team_model.php
+INFO - 2021-04-13 18:44:52 --> Model Class Initialized
+DEBUG - 2021-04-13 18:44:52 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:44:52 --> Model Class Initialized
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined variable $filterNama C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 47
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined variable $levelMember C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 48
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Undefined variable $jumlahData C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 50
+DEBUG - 2021-04-13 18:44:52 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/filter.php
+DEBUG - 2021-04-13 18:44:52 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/filter.php
+INFO - 2021-04-13 18:44:52 --> Final output sent to browser
+DEBUG - 2021-04-13 18:44:52 --> Total execution time: 0.1785
+INFO - 2021-04-13 18:44:52 --> Config Class Initialized
+INFO - 2021-04-13 18:44:52 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:44:52 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:44:52 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:44:52 --> URI Class Initialized
+INFO - 2021-04-13 18:44:52 --> Router Class Initialized
+INFO - 2021-04-13 18:44:52 --> Output Class Initialized
+INFO - 2021-04-13 18:44:52 --> Security Class Initialized
+DEBUG - 2021-04-13 18:44:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:44:52 --> Input Class Initialized
+INFO - 2021-04-13 18:44:52 --> Language Class Initialized
+INFO - 2021-04-13 18:44:52 --> Language Class Initialized
+INFO - 2021-04-13 18:44:52 --> Config Class Initialized
+INFO - 2021-04-13 18:44:52 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:44:52 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:44:52 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:44:52 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:44:52 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:44:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:44:52 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:44:52 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:44:52 --> Upload Class Initialized
+INFO - 2021-04-13 18:44:52 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:44:52 --> Email Class Initialized
+INFO - 2021-04-13 18:44:52 --> Model Class Initialized
+INFO - 2021-04-13 18:44:52 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:44:52 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/models/Team_model.php
+INFO - 2021-04-13 18:44:52 --> Model Class Initialized
+DEBUG - 2021-04-13 18:44:52 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:44:52 --> Model Class Initialized
+DEBUG - 2021-04-13 18:44:52 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/daftar.php
+DEBUG - 2021-04-13 18:44:52 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/daftar.php
+INFO - 2021-04-13 18:44:52 --> Final output sent to browser
+DEBUG - 2021-04-13 18:44:52 --> Total execution time: 0.3103
+INFO - 2021-04-13 18:44:53 --> Config Class Initialized
+INFO - 2021-04-13 18:44:53 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:44:53 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:44:53 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:44:53 --> URI Class Initialized
+INFO - 2021-04-13 18:44:53 --> Router Class Initialized
+INFO - 2021-04-13 18:44:53 --> Output Class Initialized
+INFO - 2021-04-13 18:44:53 --> Security Class Initialized
+DEBUG - 2021-04-13 18:44:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:44:53 --> Input Class Initialized
+INFO - 2021-04-13 18:44:53 --> Language Class Initialized
+INFO - 2021-04-13 18:44:53 --> Language Class Initialized
+INFO - 2021-04-13 18:44:53 --> Config Class Initialized
+INFO - 2021-04-13 18:44:53 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:44:53 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:44:53 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:44:53 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:44:53 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:44:53 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:44:53 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:44:53 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:44:53 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:44:53 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:44:53 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:44:53 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:44:53 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:44:53 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:44:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:44:53 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:44:53 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:44:53 --> Upload Class Initialized
+INFO - 2021-04-13 18:44:53 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:44:53 --> Email Class Initialized
+INFO - 2021-04-13 18:44:53 --> Model Class Initialized
+INFO - 2021-04-13 18:44:53 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:44:53 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/training.member/models/Training_model.php
+INFO - 2021-04-13 18:44:53 --> Model Class Initialized
+DEBUG - 2021-04-13 18:44:53 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/training.member/models/Modul_model.php
+INFO - 2021-04-13 18:44:53 --> Model Class Initialized
+ERROR - 2021-04-13 18:44:53 --> Severity: Warning --> Undefined variable $dataKategori C:\xampp\htdocs\member_madad-master\application\modules\training.member\controllers\Manage.php 44
+DEBUG - 2021-04-13 18:44:53 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/training.member/views/manage.php
+INFO - 2021-04-13 18:44:53 --> Final output sent to browser
+DEBUG - 2021-04-13 18:44:53 --> Total execution time: 0.1323
+INFO - 2021-04-13 18:44:55 --> Config Class Initialized
+INFO - 2021-04-13 18:44:55 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:44:55 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:44:55 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:44:55 --> URI Class Initialized
+INFO - 2021-04-13 18:44:55 --> Router Class Initialized
+INFO - 2021-04-13 18:44:55 --> Output Class Initialized
+INFO - 2021-04-13 18:44:55 --> Security Class Initialized
+DEBUG - 2021-04-13 18:44:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:44:55 --> Input Class Initialized
+INFO - 2021-04-13 18:44:55 --> Language Class Initialized
+INFO - 2021-04-13 18:44:55 --> Language Class Initialized
+INFO - 2021-04-13 18:44:55 --> Config Class Initialized
+INFO - 2021-04-13 18:44:55 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:44:55 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:44:55 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:44:55 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:44:55 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:44:55 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:44:55 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:44:55 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:44:55 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:44:55 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:44:55 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:44:55 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:44:55 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:44:55 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:44:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:44:55 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:44:55 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:44:55 --> Upload Class Initialized
+INFO - 2021-04-13 18:44:55 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:44:55 --> Email Class Initialized
+INFO - 2021-04-13 18:44:55 --> Model Class Initialized
+INFO - 2021-04-13 18:44:55 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:44:55 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/models/Dashboard_model.php
+INFO - 2021-04-13 18:44:55 --> Model Class Initialized
+DEBUG - 2021-04-13 18:44:55 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:44:55 --> Model Class Initialized
+DEBUG - 2021-04-13 18:44:55 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:44:55 --> Model Class Initialized
+ERROR - 2021-04-13 18:44:55 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:44:55 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:44:55 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 49
+ERROR - 2021-04-13 18:44:55 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 55
+ERROR - 2021-04-13 18:44:55 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 61
+DEBUG - 2021-04-13 18:44:55 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/views/manage.php
+INFO - 2021-04-13 18:44:55 --> Final output sent to browser
+DEBUG - 2021-04-13 18:44:55 --> Total execution time: 0.1287
+INFO - 2021-04-13 18:45:46 --> Config Class Initialized
+INFO - 2021-04-13 18:45:46 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:45:46 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:45:46 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:45:46 --> URI Class Initialized
+INFO - 2021-04-13 18:45:46 --> Router Class Initialized
+INFO - 2021-04-13 18:45:46 --> Output Class Initialized
+INFO - 2021-04-13 18:45:46 --> Security Class Initialized
+DEBUG - 2021-04-13 18:45:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:45:46 --> Input Class Initialized
+INFO - 2021-04-13 18:45:46 --> Language Class Initialized
+INFO - 2021-04-13 18:45:46 --> Language Class Initialized
+INFO - 2021-04-13 18:45:46 --> Config Class Initialized
+INFO - 2021-04-13 18:45:46 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:45:46 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:45:46 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:45:46 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:45:46 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:45:46 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:45:46 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:45:46 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:45:46 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:45:46 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:45:46 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:45:46 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:45:46 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:45:46 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:45:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:45:46 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:45:46 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:45:46 --> Upload Class Initialized
+INFO - 2021-04-13 18:45:46 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:45:46 --> Email Class Initialized
+INFO - 2021-04-13 18:45:46 --> Model Class Initialized
+INFO - 2021-04-13 18:45:46 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:45:46 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Cart_model.php
+INFO - 2021-04-13 18:45:46 --> Model Class Initialized
+DEBUG - 2021-04-13 18:45:46 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:45:46 --> Model Class Initialized
+ERROR - 2021-04-13 18:45:46 --> Severity: Warning --> Undefined variable $totalCart C:\xampp\htdocs\member_madad-master\application\modules\member\controllers\Member.php 39
+DEBUG - 2021-04-13 18:45:46 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/member/views/tpl_sidebar_member.php
+DEBUG - 2021-04-13 18:45:46 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/member/views/tpl_member.php
+INFO - 2021-04-13 18:45:46 --> Final output sent to browser
+DEBUG - 2021-04-13 18:45:46 --> Total execution time: 0.1072
+INFO - 2021-04-13 18:45:47 --> Config Class Initialized
+INFO - 2021-04-13 18:45:47 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:45:47 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:45:47 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:45:47 --> URI Class Initialized
+INFO - 2021-04-13 18:45:47 --> Router Class Initialized
+INFO - 2021-04-13 18:45:47 --> Output Class Initialized
+INFO - 2021-04-13 18:45:47 --> Security Class Initialized
+DEBUG - 2021-04-13 18:45:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:45:47 --> Input Class Initialized
+INFO - 2021-04-13 18:45:47 --> Language Class Initialized
+INFO - 2021-04-13 18:45:47 --> Language Class Initialized
+INFO - 2021-04-13 18:45:47 --> Config Class Initialized
+INFO - 2021-04-13 18:45:47 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:45:47 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:45:47 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:45:47 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:45:47 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:45:47 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:45:47 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:45:47 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:45:47 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:45:47 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:45:47 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:45:47 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:45:47 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:45:47 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:45:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:45:47 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:45:47 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:45:47 --> Upload Class Initialized
+INFO - 2021-04-13 18:45:47 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:45:47 --> Email Class Initialized
+INFO - 2021-04-13 18:45:47 --> Model Class Initialized
+INFO - 2021-04-13 18:45:47 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:45:47 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/models/Dashboard_model.php
+INFO - 2021-04-13 18:45:47 --> Model Class Initialized
+DEBUG - 2021-04-13 18:45:47 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:45:47 --> Model Class Initialized
+DEBUG - 2021-04-13 18:45:47 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:45:47 --> Model Class Initialized
+ERROR - 2021-04-13 18:45:47 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:45:47 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:45:47 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 49
+ERROR - 2021-04-13 18:45:47 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 55
+ERROR - 2021-04-13 18:45:47 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 61
+DEBUG - 2021-04-13 18:45:47 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/views/manage.php
+INFO - 2021-04-13 18:45:47 --> Final output sent to browser
+DEBUG - 2021-04-13 18:45:47 --> Total execution time: 0.1522
+INFO - 2021-04-13 18:45:48 --> Config Class Initialized
+INFO - 2021-04-13 18:45:48 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:45:48 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:45:48 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:45:48 --> URI Class Initialized
+INFO - 2021-04-13 18:45:48 --> Router Class Initialized
+INFO - 2021-04-13 18:45:48 --> Output Class Initialized
+INFO - 2021-04-13 18:45:48 --> Security Class Initialized
+DEBUG - 2021-04-13 18:45:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:45:48 --> Input Class Initialized
+INFO - 2021-04-13 18:45:48 --> Language Class Initialized
+INFO - 2021-04-13 18:45:48 --> Language Class Initialized
+INFO - 2021-04-13 18:45:48 --> Config Class Initialized
+INFO - 2021-04-13 18:45:48 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:45:48 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:45:48 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:45:48 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:45:48 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:45:48 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:45:48 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:45:48 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:45:48 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:45:48 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:45:48 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:45:48 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:45:48 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:45:48 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:45:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:45:48 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:45:48 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:45:48 --> Upload Class Initialized
+INFO - 2021-04-13 18:45:48 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:45:49 --> Email Class Initialized
+INFO - 2021-04-13 18:45:49 --> Model Class Initialized
+INFO - 2021-04-13 18:45:49 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:45:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/membership.member/models/Membership_model.php
+INFO - 2021-04-13 18:45:49 --> Model Class Initialized
+DEBUG - 2021-04-13 18:45:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:45:49 --> Model Class Initialized
+DEBUG - 2021-04-13 18:45:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:45:49 --> Model Class Initialized
+ERROR - 2021-04-13 18:45:49 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 42
+ERROR - 2021-04-13 18:45:49 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 42
+ERROR - 2021-04-13 18:45:49 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 55
+ERROR - 2021-04-13 18:45:49 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 61
+ERROR - 2021-04-13 18:45:49 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 67
+ERROR - 2021-04-13 18:45:49 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 49
+ERROR - 2021-04-13 18:45:49 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 73
+DEBUG - 2021-04-13 18:45:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/membership.member/views/manage.php
+INFO - 2021-04-13 18:45:49 --> Final output sent to browser
+DEBUG - 2021-04-13 18:45:49 --> Total execution time: 0.1786
+INFO - 2021-04-13 18:45:49 --> Config Class Initialized
+INFO - 2021-04-13 18:45:49 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:45:49 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:45:49 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:45:49 --> URI Class Initialized
+INFO - 2021-04-13 18:45:49 --> Router Class Initialized
+INFO - 2021-04-13 18:45:49 --> Output Class Initialized
+INFO - 2021-04-13 18:45:49 --> Security Class Initialized
+DEBUG - 2021-04-13 18:45:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:45:49 --> Input Class Initialized
+INFO - 2021-04-13 18:45:49 --> Language Class Initialized
+INFO - 2021-04-13 18:45:49 --> Language Class Initialized
+INFO - 2021-04-13 18:45:49 --> Config Class Initialized
+INFO - 2021-04-13 18:45:49 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:45:49 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:45:49 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:45:49 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:45:49 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:45:49 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:45:49 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:45:49 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:45:49 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:45:49 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:45:49 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:45:49 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:45:49 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:45:49 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:45:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:45:49 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:45:49 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:45:49 --> Upload Class Initialized
+INFO - 2021-04-13 18:45:49 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:45:49 --> Email Class Initialized
+INFO - 2021-04-13 18:45:49 --> Model Class Initialized
+INFO - 2021-04-13 18:45:49 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:45:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:45:49 --> Model Class Initialized
+DEBUG - 2021-04-13 18:45:49 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:45:49 --> Model Class Initialized
+ERROR - 2021-04-13 18:45:50 --> Severity: Warning --> Undefined variable $paging C:\xampp\htdocs\member_madad-master\application\modules\leads.member\views\manage.php 24
+DEBUG - 2021-04-13 18:45:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/manage.php
+INFO - 2021-04-13 18:45:50 --> Final output sent to browser
+DEBUG - 2021-04-13 18:45:50 --> Total execution time: 0.8529
+INFO - 2021-04-13 18:45:50 --> Config Class Initialized
+INFO - 2021-04-13 18:45:50 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:45:50 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:45:50 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:45:50 --> URI Class Initialized
+INFO - 2021-04-13 18:45:50 --> Router Class Initialized
+INFO - 2021-04-13 18:45:50 --> Output Class Initialized
+INFO - 2021-04-13 18:45:50 --> Security Class Initialized
+DEBUG - 2021-04-13 18:45:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:45:50 --> Input Class Initialized
+INFO - 2021-04-13 18:45:50 --> Config Class Initialized
+INFO - 2021-04-13 18:45:50 --> Language Class Initialized
+INFO - 2021-04-13 18:45:50 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:45:50 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:45:50 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:45:50 --> URI Class Initialized
+INFO - 2021-04-13 18:45:50 --> Router Class Initialized
+INFO - 2021-04-13 18:45:50 --> Output Class Initialized
+INFO - 2021-04-13 18:45:50 --> Security Class Initialized
+DEBUG - 2021-04-13 18:45:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:45:50 --> Input Class Initialized
+INFO - 2021-04-13 18:45:50 --> Language Class Initialized
+INFO - 2021-04-13 18:45:50 --> Language Class Initialized
+INFO - 2021-04-13 18:45:50 --> Config Class Initialized
+INFO - 2021-04-13 18:45:50 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:45:50 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:45:50 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:45:50 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:45:50 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:45:50 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:45:50 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:45:50 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:45:50 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:45:50 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:45:50 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:45:50 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:45:50 --> Language Class Initialized
+INFO - 2021-04-13 18:45:50 --> Config Class Initialized
+INFO - 2021-04-13 18:45:50 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:45:50 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:45:50 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:45:50 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:45:50 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:45:50 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:45:50 --> Database Driver Class Initialized
+INFO - 2021-04-13 18:45:50 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:45:50 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:45:50 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:45:50 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:45:50 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:45:50 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:45:50 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:45:50 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:45:50 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:45:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:45:50 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:45:50 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:45:50 --> Upload Class Initialized
+DEBUG - 2021-04-13 18:45:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:45:50 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:45:50 --> Email Class Initialized
+INFO - 2021-04-13 18:45:50 --> Model Class Initialized
+INFO - 2021-04-13 18:45:50 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:45:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:45:50 --> Model Class Initialized
+DEBUG - 2021-04-13 18:45:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:45:50 --> Model Class Initialized
+ERROR - 2021-04-13 18:45:50 --> Severity: Warning --> Undefined variable $filterNama C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 47
+ERROR - 2021-04-13 18:45:50 --> Severity: Warning --> Undefined variable $levelMember C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 48
+ERROR - 2021-04-13 18:45:50 --> Severity: Warning --> Undefined variable $jumlahData C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 50
+DEBUG - 2021-04-13 18:45:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/filter.php
+DEBUG - 2021-04-13 18:45:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/filter.php
+INFO - 2021-04-13 18:45:50 --> Final output sent to browser
+DEBUG - 2021-04-13 18:45:50 --> Total execution time: 0.1625
+INFO - 2021-04-13 18:45:50 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:45:50 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:45:50 --> Upload Class Initialized
+INFO - 2021-04-13 18:45:50 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:45:50 --> Email Class Initialized
+INFO - 2021-04-13 18:45:50 --> Model Class Initialized
+INFO - 2021-04-13 18:45:50 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:45:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:45:50 --> Model Class Initialized
+DEBUG - 2021-04-13 18:45:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:45:50 --> Model Class Initialized
+ERROR - 2021-04-13 18:45:50 --> Severity: Warning --> Undefined variable $dataPaggingContent C:\xampp\htdocs\member_madad-master\application\core\MY_Controller.php 109
+DEBUG - 2021-04-13 18:45:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/paging.php
+DEBUG - 2021-04-13 18:45:50 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/paging.php
+INFO - 2021-04-13 18:45:50 --> Final output sent to browser
+DEBUG - 2021-04-13 18:45:50 --> Total execution time: 0.1657
+INFO - 2021-04-13 18:45:50 --> Config Class Initialized
+INFO - 2021-04-13 18:45:50 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:45:50 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:45:50 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:45:50 --> URI Class Initialized
+INFO - 2021-04-13 18:45:50 --> Router Class Initialized
+INFO - 2021-04-13 18:45:50 --> Output Class Initialized
+INFO - 2021-04-13 18:45:50 --> Security Class Initialized
+DEBUG - 2021-04-13 18:45:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:45:50 --> Input Class Initialized
+INFO - 2021-04-13 18:45:50 --> Language Class Initialized
+INFO - 2021-04-13 18:45:50 --> Language Class Initialized
+INFO - 2021-04-13 18:45:50 --> Config Class Initialized
+INFO - 2021-04-13 18:45:50 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:45:50 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:45:50 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:45:50 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:45:50 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:45:51 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:45:51 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:45:51 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:45:51 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:45:51 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:45:51 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:45:51 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:45:51 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:45:51 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:45:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:45:51 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:45:51 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:45:51 --> Upload Class Initialized
+INFO - 2021-04-13 18:45:51 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:45:51 --> Email Class Initialized
+INFO - 2021-04-13 18:45:51 --> Model Class Initialized
+INFO - 2021-04-13 18:45:51 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:45:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:45:51 --> Model Class Initialized
+DEBUG - 2021-04-13 18:45:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:45:51 --> Model Class Initialized
+DEBUG - 2021-04-13 18:45:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/daftar.php
+DEBUG - 2021-04-13 18:45:51 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/daftar.php
+INFO - 2021-04-13 18:45:51 --> Final output sent to browser
+DEBUG - 2021-04-13 18:45:51 --> Total execution time: 0.5343
+INFO - 2021-04-13 18:46:12 --> Config Class Initialized
+INFO - 2021-04-13 18:46:12 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:46:12 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:46:12 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:46:12 --> URI Class Initialized
+INFO - 2021-04-13 18:46:12 --> Router Class Initialized
+INFO - 2021-04-13 18:46:12 --> Output Class Initialized
+INFO - 2021-04-13 18:46:12 --> Security Class Initialized
+DEBUG - 2021-04-13 18:46:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:46:12 --> Input Class Initialized
+INFO - 2021-04-13 18:46:12 --> Language Class Initialized
+INFO - 2021-04-13 18:46:12 --> Language Class Initialized
+INFO - 2021-04-13 18:46:12 --> Config Class Initialized
+INFO - 2021-04-13 18:46:12 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:46:12 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:46:12 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:46:12 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:46:12 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:46:12 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:46:12 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:46:12 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:46:12 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:46:12 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:46:12 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:46:12 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:46:12 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:46:12 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:46:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:46:12 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:46:12 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:46:12 --> Upload Class Initialized
+INFO - 2021-04-13 18:46:12 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:46:12 --> Email Class Initialized
+INFO - 2021-04-13 18:46:12 --> Model Class Initialized
+INFO - 2021-04-13 18:46:12 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:46:12 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Cart_model.php
+INFO - 2021-04-13 18:46:12 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:12 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:46:12 --> Model Class Initialized
+ERROR - 2021-04-13 18:46:12 --> Severity: Warning --> Undefined variable $totalCart C:\xampp\htdocs\member_madad-master\application\modules\member\controllers\Member.php 39
+DEBUG - 2021-04-13 18:46:12 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/member/views/tpl_sidebar_member.php
+DEBUG - 2021-04-13 18:46:12 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/member/views/tpl_member.php
+INFO - 2021-04-13 18:46:12 --> Final output sent to browser
+DEBUG - 2021-04-13 18:46:12 --> Total execution time: 0.1038
+INFO - 2021-04-13 18:46:13 --> Config Class Initialized
+INFO - 2021-04-13 18:46:13 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:46:13 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:46:13 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:46:13 --> URI Class Initialized
+INFO - 2021-04-13 18:46:13 --> Router Class Initialized
+INFO - 2021-04-13 18:46:13 --> Output Class Initialized
+INFO - 2021-04-13 18:46:13 --> Security Class Initialized
+DEBUG - 2021-04-13 18:46:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:46:13 --> Input Class Initialized
+INFO - 2021-04-13 18:46:13 --> Language Class Initialized
+INFO - 2021-04-13 18:46:13 --> Language Class Initialized
+INFO - 2021-04-13 18:46:13 --> Config Class Initialized
+INFO - 2021-04-13 18:46:13 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:46:13 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:46:13 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:46:13 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:46:13 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:46:13 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:46:13 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:46:13 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:46:13 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:46:13 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:46:13 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:46:13 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:46:13 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:46:13 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:46:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:46:13 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:46:13 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:46:13 --> Upload Class Initialized
+INFO - 2021-04-13 18:46:13 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:46:13 --> Email Class Initialized
+INFO - 2021-04-13 18:46:13 --> Model Class Initialized
+INFO - 2021-04-13 18:46:13 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:46:13 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/models/Dashboard_model.php
+INFO - 2021-04-13 18:46:13 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:13 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:46:13 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:13 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:46:13 --> Model Class Initialized
+ERROR - 2021-04-13 18:46:13 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:46:13 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:46:13 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 49
+ERROR - 2021-04-13 18:46:13 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 55
+ERROR - 2021-04-13 18:46:13 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 61
+DEBUG - 2021-04-13 18:46:13 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/views/manage.php
+INFO - 2021-04-13 18:46:13 --> Final output sent to browser
+DEBUG - 2021-04-13 18:46:13 --> Total execution time: 0.2011
+INFO - 2021-04-13 18:46:19 --> Config Class Initialized
+INFO - 2021-04-13 18:46:19 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:46:19 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:46:19 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:46:19 --> URI Class Initialized
+INFO - 2021-04-13 18:46:19 --> Router Class Initialized
+INFO - 2021-04-13 18:46:20 --> Output Class Initialized
+INFO - 2021-04-13 18:46:20 --> Security Class Initialized
+DEBUG - 2021-04-13 18:46:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:46:20 --> Input Class Initialized
+INFO - 2021-04-13 18:46:20 --> Language Class Initialized
+INFO - 2021-04-13 18:46:20 --> Language Class Initialized
+INFO - 2021-04-13 18:46:20 --> Config Class Initialized
+INFO - 2021-04-13 18:46:20 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:46:20 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:46:20 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:46:20 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:46:20 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:46:20 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:46:20 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:46:20 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:46:20 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:46:20 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:46:20 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:46:20 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:46:20 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:46:20 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:46:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:46:20 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:46:20 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:46:20 --> Upload Class Initialized
+INFO - 2021-04-13 18:46:20 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:46:20 --> Email Class Initialized
+INFO - 2021-04-13 18:46:20 --> Model Class Initialized
+INFO - 2021-04-13 18:46:20 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:46:20 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:46:20 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:20 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:46:20 --> Model Class Initialized
+ERROR - 2021-04-13 18:46:21 --> Severity: Warning --> Undefined variable $paging C:\xampp\htdocs\member_madad-master\application\modules\leads.member\views\manage.php 24
+DEBUG - 2021-04-13 18:46:21 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/manage.php
+INFO - 2021-04-13 18:46:21 --> Final output sent to browser
+DEBUG - 2021-04-13 18:46:21 --> Total execution time: 1.0607
+INFO - 2021-04-13 18:46:21 --> Config Class Initialized
+INFO - 2021-04-13 18:46:21 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:46:21 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:46:21 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:46:21 --> URI Class Initialized
+INFO - 2021-04-13 18:46:21 --> Router Class Initialized
+INFO - 2021-04-13 18:46:21 --> Output Class Initialized
+INFO - 2021-04-13 18:46:21 --> Security Class Initialized
+DEBUG - 2021-04-13 18:46:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:46:21 --> Input Class Initialized
+INFO - 2021-04-13 18:46:21 --> Language Class Initialized
+INFO - 2021-04-13 18:46:21 --> Language Class Initialized
+INFO - 2021-04-13 18:46:21 --> Config Class Initialized
+INFO - 2021-04-13 18:46:21 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:46:21 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:46:21 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:46:21 --> Config Class Initialized
+INFO - 2021-04-13 18:46:21 --> Hooks Class Initialized
+INFO - 2021-04-13 18:46:21 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:46:21 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:46:21 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:46:21 --> URI Class Initialized
+INFO - 2021-04-13 18:46:21 --> Router Class Initialized
+DEBUG - 2021-04-13 18:46:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:46:21 --> Output Class Initialized
+INFO - 2021-04-13 18:46:21 --> Session: Class initialized using 'files' driver.
+INFO - 2021-04-13 18:46:21 --> Security Class Initialized
+ERROR - 2021-04-13 18:46:21 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+DEBUG - 2021-04-13 18:46:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:46:21 --> Upload Class Initialized
+INFO - 2021-04-13 18:46:21 --> Input Class Initialized
+INFO - 2021-04-13 18:46:21 --> Language Class Initialized
+INFO - 2021-04-13 18:46:21 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:46:21 --> Email Class Initialized
+INFO - 2021-04-13 18:46:21 --> Model Class Initialized
+INFO - 2021-04-13 18:46:21 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:46:21 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:46:21 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:21 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:46:21 --> Model Class Initialized
+ERROR - 2021-04-13 18:46:21 --> Severity: Warning --> Undefined variable $filterNama C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 47
+ERROR - 2021-04-13 18:46:21 --> Severity: Warning --> Undefined variable $levelMember C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 48
+ERROR - 2021-04-13 18:46:21 --> Severity: Warning --> Undefined variable $jumlahData C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 50
+DEBUG - 2021-04-13 18:46:21 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/filter.php
+DEBUG - 2021-04-13 18:46:21 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/filter.php
+INFO - 2021-04-13 18:46:21 --> Final output sent to browser
+DEBUG - 2021-04-13 18:46:21 --> Total execution time: 0.1147
+INFO - 2021-04-13 18:46:21 --> Language Class Initialized
+INFO - 2021-04-13 18:46:21 --> Config Class Initialized
+INFO - 2021-04-13 18:46:21 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:46:21 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:46:21 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:46:21 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:46:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:46:21 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:46:21 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:46:21 --> Upload Class Initialized
+INFO - 2021-04-13 18:46:21 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:46:21 --> Email Class Initialized
+INFO - 2021-04-13 18:46:21 --> Model Class Initialized
+INFO - 2021-04-13 18:46:21 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:46:21 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:46:21 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:21 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:46:21 --> Model Class Initialized
+ERROR - 2021-04-13 18:46:21 --> Severity: Warning --> Undefined variable $dataPaggingContent C:\xampp\htdocs\member_madad-master\application\core\MY_Controller.php 109
+DEBUG - 2021-04-13 18:46:21 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/paging.php
+DEBUG - 2021-04-13 18:46:21 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/paging.php
+INFO - 2021-04-13 18:46:21 --> Final output sent to browser
+DEBUG - 2021-04-13 18:46:21 --> Total execution time: 0.1813
+INFO - 2021-04-13 18:46:21 --> Config Class Initialized
+INFO - 2021-04-13 18:46:21 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:46:21 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:46:21 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:46:21 --> URI Class Initialized
+INFO - 2021-04-13 18:46:21 --> Router Class Initialized
+INFO - 2021-04-13 18:46:21 --> Output Class Initialized
+INFO - 2021-04-13 18:46:21 --> Security Class Initialized
+DEBUG - 2021-04-13 18:46:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:46:21 --> Input Class Initialized
+INFO - 2021-04-13 18:46:21 --> Language Class Initialized
+INFO - 2021-04-13 18:46:21 --> Language Class Initialized
+INFO - 2021-04-13 18:46:21 --> Config Class Initialized
+INFO - 2021-04-13 18:46:21 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:46:21 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:46:21 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:46:21 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:46:21 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:46:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:46:21 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:46:21 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:46:21 --> Upload Class Initialized
+INFO - 2021-04-13 18:46:21 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:46:21 --> Email Class Initialized
+INFO - 2021-04-13 18:46:21 --> Model Class Initialized
+INFO - 2021-04-13 18:46:21 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:46:21 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:46:21 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:21 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:46:21 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:21 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/daftar.php
+DEBUG - 2021-04-13 18:46:21 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/daftar.php
+INFO - 2021-04-13 18:46:21 --> Final output sent to browser
+DEBUG - 2021-04-13 18:46:21 --> Total execution time: 0.4788
+INFO - 2021-04-13 18:46:22 --> Config Class Initialized
+INFO - 2021-04-13 18:46:22 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:46:22 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:46:22 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:46:22 --> URI Class Initialized
+INFO - 2021-04-13 18:46:22 --> Router Class Initialized
+INFO - 2021-04-13 18:46:22 --> Output Class Initialized
+INFO - 2021-04-13 18:46:22 --> Security Class Initialized
+DEBUG - 2021-04-13 18:46:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:46:22 --> Input Class Initialized
+INFO - 2021-04-13 18:46:22 --> Language Class Initialized
+INFO - 2021-04-13 18:46:22 --> Language Class Initialized
+INFO - 2021-04-13 18:46:22 --> Config Class Initialized
+INFO - 2021-04-13 18:46:22 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:46:22 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:46:22 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:46:22 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:46:22 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:46:22 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:46:22 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:46:22 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:46:22 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:46:22 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:46:22 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:46:22 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:46:22 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:46:22 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:46:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:46:22 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:46:22 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:46:22 --> Upload Class Initialized
+INFO - 2021-04-13 18:46:22 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:46:22 --> Email Class Initialized
+INFO - 2021-04-13 18:46:22 --> Model Class Initialized
+INFO - 2021-04-13 18:46:22 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:46:22 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Cart_model.php
+INFO - 2021-04-13 18:46:22 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:22 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:46:22 --> Model Class Initialized
+ERROR - 2021-04-13 18:46:22 --> Severity: Warning --> Undefined variable $totalCart C:\xampp\htdocs\member_madad-master\application\modules\member\controllers\Member.php 39
+DEBUG - 2021-04-13 18:46:22 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/member/views/tpl_sidebar_member.php
+DEBUG - 2021-04-13 18:46:22 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/member/views/tpl_member.php
+INFO - 2021-04-13 18:46:22 --> Final output sent to browser
+DEBUG - 2021-04-13 18:46:22 --> Total execution time: 0.1003
+INFO - 2021-04-13 18:46:23 --> Config Class Initialized
+INFO - 2021-04-13 18:46:23 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:46:23 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:46:23 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:46:23 --> URI Class Initialized
+INFO - 2021-04-13 18:46:23 --> Router Class Initialized
+INFO - 2021-04-13 18:46:23 --> Output Class Initialized
+INFO - 2021-04-13 18:46:23 --> Security Class Initialized
+DEBUG - 2021-04-13 18:46:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:46:23 --> Input Class Initialized
+INFO - 2021-04-13 18:46:23 --> Language Class Initialized
+INFO - 2021-04-13 18:46:23 --> Language Class Initialized
+INFO - 2021-04-13 18:46:23 --> Config Class Initialized
+INFO - 2021-04-13 18:46:23 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:46:23 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:46:23 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:46:23 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:46:23 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:46:23 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:46:23 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:46:23 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:46:23 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:46:23 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:46:23 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:46:23 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:46:23 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:46:23 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:46:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:46:23 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:46:24 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:46:24 --> Upload Class Initialized
+INFO - 2021-04-13 18:46:24 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:46:24 --> Email Class Initialized
+INFO - 2021-04-13 18:46:24 --> Model Class Initialized
+INFO - 2021-04-13 18:46:24 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:46:24 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/models/Dashboard_model.php
+INFO - 2021-04-13 18:46:24 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:24 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:46:24 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:24 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:46:24 --> Model Class Initialized
+ERROR - 2021-04-13 18:46:24 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:46:24 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:46:24 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 49
+ERROR - 2021-04-13 18:46:24 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 55
+ERROR - 2021-04-13 18:46:24 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 61
+DEBUG - 2021-04-13 18:46:24 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/views/manage.php
+INFO - 2021-04-13 18:46:24 --> Final output sent to browser
+DEBUG - 2021-04-13 18:46:24 --> Total execution time: 0.3013
+INFO - 2021-04-13 18:46:25 --> Config Class Initialized
+INFO - 2021-04-13 18:46:25 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:46:25 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:46:25 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:46:25 --> URI Class Initialized
+INFO - 2021-04-13 18:46:25 --> Router Class Initialized
+INFO - 2021-04-13 18:46:25 --> Output Class Initialized
+INFO - 2021-04-13 18:46:25 --> Security Class Initialized
+DEBUG - 2021-04-13 18:46:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:46:25 --> Input Class Initialized
+INFO - 2021-04-13 18:46:25 --> Language Class Initialized
+INFO - 2021-04-13 18:46:25 --> Language Class Initialized
+INFO - 2021-04-13 18:46:25 --> Config Class Initialized
+INFO - 2021-04-13 18:46:25 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:46:25 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:46:25 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:46:25 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:46:25 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:46:25 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:46:25 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:46:25 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:46:25 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:46:25 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:46:25 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:46:25 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:46:25 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:46:25 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:46:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:46:25 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:46:25 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:46:25 --> Upload Class Initialized
+INFO - 2021-04-13 18:46:25 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:46:25 --> Email Class Initialized
+INFO - 2021-04-13 18:46:25 --> Model Class Initialized
+INFO - 2021-04-13 18:46:25 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:46:25 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/membership.member/models/Membership_model.php
+INFO - 2021-04-13 18:46:25 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:25 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:46:25 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:25 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:46:25 --> Model Class Initialized
+ERROR - 2021-04-13 18:46:25 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 42
+ERROR - 2021-04-13 18:46:25 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 42
+ERROR - 2021-04-13 18:46:25 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 55
+ERROR - 2021-04-13 18:46:25 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 61
+ERROR - 2021-04-13 18:46:25 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 67
+ERROR - 2021-04-13 18:46:25 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 49
+ERROR - 2021-04-13 18:46:25 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 73
+DEBUG - 2021-04-13 18:46:25 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/membership.member/views/manage.php
+INFO - 2021-04-13 18:46:25 --> Final output sent to browser
+DEBUG - 2021-04-13 18:46:25 --> Total execution time: 0.1726
+INFO - 2021-04-13 18:46:26 --> Config Class Initialized
+INFO - 2021-04-13 18:46:26 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:46:26 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:46:26 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:46:26 --> URI Class Initialized
+INFO - 2021-04-13 18:46:26 --> Router Class Initialized
+INFO - 2021-04-13 18:46:26 --> Output Class Initialized
+INFO - 2021-04-13 18:46:26 --> Security Class Initialized
+DEBUG - 2021-04-13 18:46:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:46:26 --> Input Class Initialized
+INFO - 2021-04-13 18:46:26 --> Language Class Initialized
+INFO - 2021-04-13 18:46:26 --> Language Class Initialized
+INFO - 2021-04-13 18:46:26 --> Config Class Initialized
+INFO - 2021-04-13 18:46:26 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:46:26 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:46:26 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:46:26 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:46:26 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:46:26 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:46:26 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:46:26 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:46:26 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:46:26 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:46:26 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:46:26 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:46:26 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:46:26 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:46:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:46:26 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:46:26 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:46:26 --> Upload Class Initialized
+INFO - 2021-04-13 18:46:26 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:46:26 --> Email Class Initialized
+INFO - 2021-04-13 18:46:26 --> Model Class Initialized
+INFO - 2021-04-13 18:46:26 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:46:26 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:46:26 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:26 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:46:26 --> Model Class Initialized
+ERROR - 2021-04-13 18:46:27 --> Severity: Warning --> Undefined variable $paging C:\xampp\htdocs\member_madad-master\application\modules\leads.member\views\manage.php 24
+DEBUG - 2021-04-13 18:46:27 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/manage.php
+INFO - 2021-04-13 18:46:27 --> Final output sent to browser
+DEBUG - 2021-04-13 18:46:27 --> Total execution time: 0.9643
+INFO - 2021-04-13 18:46:27 --> Config Class Initialized
+INFO - 2021-04-13 18:46:27 --> Hooks Class Initialized
+INFO - 2021-04-13 18:46:27 --> Config Class Initialized
+INFO - 2021-04-13 18:46:27 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:46:27 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:46:27 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:46:27 --> URI Class Initialized
+DEBUG - 2021-04-13 18:46:27 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:46:27 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:46:27 --> URI Class Initialized
+INFO - 2021-04-13 18:46:27 --> Router Class Initialized
+INFO - 2021-04-13 18:46:27 --> Router Class Initialized
+INFO - 2021-04-13 18:46:27 --> Output Class Initialized
+INFO - 2021-04-13 18:46:27 --> Output Class Initialized
+INFO - 2021-04-13 18:46:27 --> Security Class Initialized
+INFO - 2021-04-13 18:46:27 --> Security Class Initialized
+DEBUG - 2021-04-13 18:46:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:46:27 --> Input Class Initialized
+DEBUG - 2021-04-13 18:46:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:46:27 --> Input Class Initialized
+INFO - 2021-04-13 18:46:27 --> Language Class Initialized
+INFO - 2021-04-13 18:46:27 --> Language Class Initialized
+INFO - 2021-04-13 18:46:27 --> Language Class Initialized
+INFO - 2021-04-13 18:46:27 --> Config Class Initialized
+INFO - 2021-04-13 18:46:27 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:46:27 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:46:27 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:46:27 --> Language Class Initialized
+INFO - 2021-04-13 18:46:27 --> Config Class Initialized
+INFO - 2021-04-13 18:46:27 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:46:27 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:46:27 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:46:27 --> Database Driver Class Initialized
+INFO - 2021-04-13 18:46:27 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: typography_helper
+DEBUG - 2021-04-13 18:46:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:46:27 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:46:27 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:46:27 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:46:27 --> Upload Class Initialized
+INFO - 2021-04-13 18:46:27 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:46:27 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:46:27 --> Email Class Initialized
+INFO - 2021-04-13 18:46:27 --> Model Class Initialized
+INFO - 2021-04-13 18:46:27 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:46:27 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:46:27 --> Database Driver Class Initialized
+INFO - 2021-04-13 18:46:27 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2021-04-13 18:46:27 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:46:27 --> Model Class Initialized
+ERROR - 2021-04-13 18:46:27 --> Severity: Warning --> Undefined variable $dataPaggingContent C:\xampp\htdocs\member_madad-master\application\core\MY_Controller.php 109
+DEBUG - 2021-04-13 18:46:27 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/paging.php
+DEBUG - 2021-04-13 18:46:27 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/paging.php
+INFO - 2021-04-13 18:46:27 --> Final output sent to browser
+DEBUG - 2021-04-13 18:46:27 --> Total execution time: 0.1132
+INFO - 2021-04-13 18:46:27 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:46:27 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:46:27 --> Upload Class Initialized
+INFO - 2021-04-13 18:46:27 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:46:27 --> Email Class Initialized
+INFO - 2021-04-13 18:46:27 --> Model Class Initialized
+INFO - 2021-04-13 18:46:27 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:46:27 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:46:27 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:27 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:46:27 --> Model Class Initialized
+ERROR - 2021-04-13 18:46:27 --> Severity: Warning --> Undefined variable $filterNama C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 47
+ERROR - 2021-04-13 18:46:27 --> Severity: Warning --> Undefined variable $levelMember C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 48
+ERROR - 2021-04-13 18:46:27 --> Severity: Warning --> Undefined variable $jumlahData C:\xampp\htdocs\member_madad-master\application\modules\leads.member\controllers\Manage.php 50
+DEBUG - 2021-04-13 18:46:27 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/filter.php
+DEBUG - 2021-04-13 18:46:27 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/filter.php
+INFO - 2021-04-13 18:46:27 --> Final output sent to browser
+DEBUG - 2021-04-13 18:46:27 --> Total execution time: 0.1437
+INFO - 2021-04-13 18:46:27 --> Config Class Initialized
+INFO - 2021-04-13 18:46:27 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:46:27 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:46:27 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:46:27 --> URI Class Initialized
+INFO - 2021-04-13 18:46:27 --> Router Class Initialized
+INFO - 2021-04-13 18:46:27 --> Output Class Initialized
+INFO - 2021-04-13 18:46:27 --> Security Class Initialized
+DEBUG - 2021-04-13 18:46:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:46:27 --> Input Class Initialized
+INFO - 2021-04-13 18:46:27 --> Language Class Initialized
+INFO - 2021-04-13 18:46:27 --> Language Class Initialized
+INFO - 2021-04-13 18:46:27 --> Config Class Initialized
+INFO - 2021-04-13 18:46:27 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:46:27 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:46:27 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:46:27 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:46:27 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:46:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:46:27 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:46:27 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:46:27 --> Upload Class Initialized
+INFO - 2021-04-13 18:46:27 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:46:27 --> Email Class Initialized
+INFO - 2021-04-13 18:46:27 --> Model Class Initialized
+INFO - 2021-04-13 18:46:27 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:46:27 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/models/Leads_model.php
+INFO - 2021-04-13 18:46:27 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:27 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:46:27 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:27 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/daftar.php
+DEBUG - 2021-04-13 18:46:27 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/leads.member/views/daftar.php
+INFO - 2021-04-13 18:46:27 --> Final output sent to browser
+DEBUG - 2021-04-13 18:46:27 --> Total execution time: 0.4098
+INFO - 2021-04-13 18:46:29 --> Config Class Initialized
+INFO - 2021-04-13 18:46:29 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:46:29 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:46:29 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:46:29 --> URI Class Initialized
+INFO - 2021-04-13 18:46:29 --> Router Class Initialized
+INFO - 2021-04-13 18:46:29 --> Output Class Initialized
+INFO - 2021-04-13 18:46:29 --> Security Class Initialized
+DEBUG - 2021-04-13 18:46:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:46:29 --> Input Class Initialized
+INFO - 2021-04-13 18:46:29 --> Language Class Initialized
+INFO - 2021-04-13 18:46:29 --> Language Class Initialized
+INFO - 2021-04-13 18:46:29 --> Config Class Initialized
+INFO - 2021-04-13 18:46:29 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:46:29 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:46:29 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:46:29 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:46:29 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:46:29 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:46:29 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:46:29 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:46:29 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:46:29 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:46:29 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:46:29 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:46:29 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:46:30 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:46:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:46:30 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:46:30 --> Upload Class Initialized
+INFO - 2021-04-13 18:46:30 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:46:30 --> Email Class Initialized
+INFO - 2021-04-13 18:46:30 --> Model Class Initialized
+INFO - 2021-04-13 18:46:30 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:46:30 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/models/Team_model.php
+INFO - 2021-04-13 18:46:30 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:30 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:46:30 --> Model Class Initialized
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined variable $paging C:\xampp\htdocs\member_madad-master\application\modules\team.member\views\manage.php 21
+DEBUG - 2021-04-13 18:46:30 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/manage.php
+INFO - 2021-04-13 18:46:30 --> Final output sent to browser
+DEBUG - 2021-04-13 18:46:30 --> Total execution time: 0.7014
+INFO - 2021-04-13 18:46:30 --> Config Class Initialized
+INFO - 2021-04-13 18:46:30 --> Hooks Class Initialized
+INFO - 2021-04-13 18:46:30 --> Config Class Initialized
+INFO - 2021-04-13 18:46:30 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:46:30 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:46:30 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:46:30 --> URI Class Initialized
+INFO - 2021-04-13 18:46:30 --> Router Class Initialized
+INFO - 2021-04-13 18:46:30 --> Output Class Initialized
+INFO - 2021-04-13 18:46:30 --> Security Class Initialized
+DEBUG - 2021-04-13 18:46:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:46:30 --> Input Class Initialized
+INFO - 2021-04-13 18:46:30 --> Language Class Initialized
+DEBUG - 2021-04-13 18:46:30 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:46:30 --> Language Class Initialized
+INFO - 2021-04-13 18:46:30 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:46:30 --> Config Class Initialized
+INFO - 2021-04-13 18:46:30 --> Loader Class Initialized
+INFO - 2021-04-13 18:46:30 --> URI Class Initialized
+DEBUG - 2021-04-13 18:46:30 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:46:30 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:46:30 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:46:30 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:46:30 --> Router Class Initialized
+INFO - 2021-04-13 18:46:30 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:46:30 --> Output Class Initialized
+INFO - 2021-04-13 18:46:30 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:46:30 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:46:30 --> Security Class Initialized
+INFO - 2021-04-13 18:46:30 --> Helper loaded: date_helper
+DEBUG - 2021-04-13 18:46:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:46:30 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:46:30 --> Input Class Initialized
+INFO - 2021-04-13 18:46:30 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:46:30 --> Language Class Initialized
+INFO - 2021-04-13 18:46:30 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:46:30 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:46:30 --> Language Class Initialized
+INFO - 2021-04-13 18:46:30 --> Config Class Initialized
+INFO - 2021-04-13 18:46:30 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:46:30 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:46:30 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:46:30 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:46:30 --> Database Driver Class Initialized
+INFO - 2021-04-13 18:46:30 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:46:30 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:46:30 --> Helper loaded: html_helper
+DEBUG - 2021-04-13 18:46:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:46:30 --> Session: Class initialized using 'files' driver.
+INFO - 2021-04-13 18:46:30 --> Helper loaded: typography_helper
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:46:30 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:46:30 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:46:30 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:46:30 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:46:30 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:46:30 --> Upload Class Initialized
+INFO - 2021-04-13 18:46:30 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:46:30 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:46:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:46:30 --> Email Class Initialized
+INFO - 2021-04-13 18:46:30 --> Model Class Initialized
+INFO - 2021-04-13 18:46:30 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:46:30 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/models/Team_model.php
+INFO - 2021-04-13 18:46:30 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:30 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:46:30 --> Model Class Initialized
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined variable $filterNama C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 47
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined variable $levelMember C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 48
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined variable $jumlahData C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 50
+DEBUG - 2021-04-13 18:46:30 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/filter.php
+DEBUG - 2021-04-13 18:46:30 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/filter.php
+INFO - 2021-04-13 18:46:30 --> Final output sent to browser
+DEBUG - 2021-04-13 18:46:30 --> Total execution time: 0.1331
+INFO - 2021-04-13 18:46:30 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:46:30 --> Upload Class Initialized
+INFO - 2021-04-13 18:46:30 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:46:30 --> Email Class Initialized
+INFO - 2021-04-13 18:46:30 --> Model Class Initialized
+INFO - 2021-04-13 18:46:30 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:46:30 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/models/Team_model.php
+INFO - 2021-04-13 18:46:30 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:30 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:46:30 --> Model Class Initialized
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Undefined variable $dataPaggingContent C:\xampp\htdocs\member_madad-master\application\core\MY_Controller.php 109
+DEBUG - 2021-04-13 18:46:30 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/paging.php
+DEBUG - 2021-04-13 18:46:30 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/paging.php
+INFO - 2021-04-13 18:46:30 --> Final output sent to browser
+DEBUG - 2021-04-13 18:46:30 --> Total execution time: 0.1616
+INFO - 2021-04-13 18:46:30 --> Config Class Initialized
+INFO - 2021-04-13 18:46:30 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:46:30 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:46:30 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:46:30 --> URI Class Initialized
+INFO - 2021-04-13 18:46:30 --> Router Class Initialized
+INFO - 2021-04-13 18:46:30 --> Output Class Initialized
+INFO - 2021-04-13 18:46:30 --> Security Class Initialized
+DEBUG - 2021-04-13 18:46:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:46:30 --> Input Class Initialized
+INFO - 2021-04-13 18:46:30 --> Language Class Initialized
+INFO - 2021-04-13 18:46:30 --> Language Class Initialized
+INFO - 2021-04-13 18:46:30 --> Config Class Initialized
+INFO - 2021-04-13 18:46:30 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:46:30 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:46:30 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:46:30 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:46:30 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:46:30 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:46:30 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:46:30 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:46:30 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:46:30 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:46:30 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:46:30 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:46:30 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:46:30 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:46:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:46:30 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:46:30 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:46:30 --> Upload Class Initialized
+INFO - 2021-04-13 18:46:30 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:46:30 --> Email Class Initialized
+INFO - 2021-04-13 18:46:30 --> Model Class Initialized
+INFO - 2021-04-13 18:46:30 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:46:30 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/models/Team_model.php
+INFO - 2021-04-13 18:46:30 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:30 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 18:46:30 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:31 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/daftar.php
+DEBUG - 2021-04-13 18:46:31 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/daftar.php
+INFO - 2021-04-13 18:46:31 --> Final output sent to browser
+DEBUG - 2021-04-13 18:46:31 --> Total execution time: 0.3635
+INFO - 2021-04-13 18:46:40 --> Config Class Initialized
+INFO - 2021-04-13 18:46:40 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:46:40 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:46:40 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:46:40 --> URI Class Initialized
+INFO - 2021-04-13 18:46:40 --> Router Class Initialized
+INFO - 2021-04-13 18:46:40 --> Output Class Initialized
+INFO - 2021-04-13 18:46:40 --> Security Class Initialized
+DEBUG - 2021-04-13 18:46:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:46:40 --> Input Class Initialized
+INFO - 2021-04-13 18:46:40 --> Language Class Initialized
+INFO - 2021-04-13 18:46:40 --> Language Class Initialized
+INFO - 2021-04-13 18:46:40 --> Config Class Initialized
+INFO - 2021-04-13 18:46:40 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:46:40 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:46:40 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:46:40 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:46:40 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:46:40 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:46:40 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:46:40 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:46:40 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:46:40 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:46:40 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:46:40 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:46:40 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:46:40 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:46:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:46:40 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:46:40 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:46:40 --> Upload Class Initialized
+INFO - 2021-04-13 18:46:40 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:46:40 --> Email Class Initialized
+INFO - 2021-04-13 18:46:40 --> Model Class Initialized
+INFO - 2021-04-13 18:46:40 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:46:40 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/training.member/models/Training_model.php
+INFO - 2021-04-13 18:46:40 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:40 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/training.member/models/Modul_model.php
+INFO - 2021-04-13 18:46:40 --> Model Class Initialized
+ERROR - 2021-04-13 18:46:40 --> Severity: Warning --> Undefined variable $dataKategori C:\xampp\htdocs\member_madad-master\application\modules\training.member\controllers\Manage.php 44
+DEBUG - 2021-04-13 18:46:40 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/training.member/views/manage.php
+INFO - 2021-04-13 18:46:40 --> Final output sent to browser
+DEBUG - 2021-04-13 18:46:40 --> Total execution time: 0.2516
+INFO - 2021-04-13 18:46:41 --> Config Class Initialized
+INFO - 2021-04-13 18:46:41 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:46:41 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:46:41 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:46:41 --> URI Class Initialized
+INFO - 2021-04-13 18:46:41 --> Router Class Initialized
+INFO - 2021-04-13 18:46:41 --> Output Class Initialized
+INFO - 2021-04-13 18:46:41 --> Security Class Initialized
+DEBUG - 2021-04-13 18:46:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:46:41 --> Input Class Initialized
+INFO - 2021-04-13 18:46:41 --> Language Class Initialized
+INFO - 2021-04-13 18:46:41 --> Language Class Initialized
+INFO - 2021-04-13 18:46:41 --> Config Class Initialized
+INFO - 2021-04-13 18:46:41 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:46:41 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:46:41 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:46:41 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:46:41 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:46:41 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:46:41 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:46:41 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:46:41 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:46:41 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:46:41 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:46:41 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:46:41 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:46:41 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:46:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:46:41 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:46:41 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:46:41 --> Upload Class Initialized
+INFO - 2021-04-13 18:46:41 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:46:41 --> Email Class Initialized
+INFO - 2021-04-13 18:46:41 --> Model Class Initialized
+INFO - 2021-04-13 18:46:41 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:46:41 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/membership.member/models/Membership_model.php
+INFO - 2021-04-13 18:46:41 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:41 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:46:41 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:41 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:46:41 --> Model Class Initialized
+ERROR - 2021-04-13 18:46:41 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 42
+ERROR - 2021-04-13 18:46:41 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 42
+ERROR - 2021-04-13 18:46:41 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 55
+ERROR - 2021-04-13 18:46:41 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 61
+ERROR - 2021-04-13 18:46:41 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 67
+ERROR - 2021-04-13 18:46:41 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 49
+ERROR - 2021-04-13 18:46:41 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\membership.member\models\Membership_model.php 73
+DEBUG - 2021-04-13 18:46:41 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/membership.member/views/manage.php
+INFO - 2021-04-13 18:46:41 --> Final output sent to browser
+DEBUG - 2021-04-13 18:46:41 --> Total execution time: 0.1455
+INFO - 2021-04-13 18:46:42 --> Config Class Initialized
+INFO - 2021-04-13 18:46:42 --> Hooks Class Initialized
+DEBUG - 2021-04-13 18:46:42 --> UTF-8 Support Enabled
+INFO - 2021-04-13 18:46:42 --> Utf8 Class Initialized
+INFO - 2021-04-13 18:46:42 --> URI Class Initialized
+INFO - 2021-04-13 18:46:42 --> Router Class Initialized
+INFO - 2021-04-13 18:46:42 --> Output Class Initialized
+INFO - 2021-04-13 18:46:42 --> Security Class Initialized
+DEBUG - 2021-04-13 18:46:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 18:46:42 --> Input Class Initialized
+INFO - 2021-04-13 18:46:42 --> Language Class Initialized
+INFO - 2021-04-13 18:46:42 --> Language Class Initialized
+INFO - 2021-04-13 18:46:42 --> Config Class Initialized
+INFO - 2021-04-13 18:46:42 --> Loader Class Initialized
+DEBUG - 2021-04-13 18:46:42 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 18:46:42 --> Helper loaded: language_helper
+INFO - 2021-04-13 18:46:42 --> Helper loaded: file_helper
+INFO - 2021-04-13 18:46:42 --> Helper loaded: url_helper
+INFO - 2021-04-13 18:46:42 --> Helper loaded: form_helper
+INFO - 2021-04-13 18:46:42 --> Helper loaded: html_helper
+INFO - 2021-04-13 18:46:42 --> Helper loaded: typography_helper
+INFO - 2021-04-13 18:46:42 --> Helper loaded: date_helper
+INFO - 2021-04-13 18:46:42 --> Helper loaded: general_helper
+INFO - 2021-04-13 18:46:42 --> Helper loaded: app_helper
+INFO - 2021-04-13 18:46:42 --> Helper loaded: security_helper
+INFO - 2021-04-13 18:46:42 --> Helper loaded: files_helper
+INFO - 2021-04-13 18:46:42 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 18:46:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 18:46:42 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 18:46:42 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 18:46:42 --> Upload Class Initialized
+INFO - 2021-04-13 18:46:42 --> Form Validation Class Initialized
+INFO - 2021-04-13 18:46:42 --> Email Class Initialized
+INFO - 2021-04-13 18:46:42 --> Model Class Initialized
+INFO - 2021-04-13 18:46:42 --> Controller Class Initialized
+DEBUG - 2021-04-13 18:46:42 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/models/Dashboard_model.php
+INFO - 2021-04-13 18:46:42 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:42 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/users.login/models/Member_model.php
+INFO - 2021-04-13 18:46:42 --> Model Class Initialized
+DEBUG - 2021-04-13 18:46:42 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/withdraw.member/models/Withdraw_model.php
+INFO - 2021-04-13 18:46:42 --> Model Class Initialized
+ERROR - 2021-04-13 18:46:42 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:46:42 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 42
+ERROR - 2021-04-13 18:46:42 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 49
+ERROR - 2021-04-13 18:46:42 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 55
+ERROR - 2021-04-13 18:46:42 --> Severity: Warning --> Undefined variable $Limit C:\xampp\htdocs\member_madad-master\application\modules\dashboard.member\models\Dashboard_model.php 61
+DEBUG - 2021-04-13 18:46:42 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/dashboard.member/views/manage.php
+INFO - 2021-04-13 18:46:42 --> Final output sent to browser
+DEBUG - 2021-04-13 18:46:42 --> Total execution time: 0.1393

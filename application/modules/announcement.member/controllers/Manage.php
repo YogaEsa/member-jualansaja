@@ -46,6 +46,11 @@ class Manage extends MY_Controller {
 		$this->load->view($data['content'],$data);
 	}
 
+	public function viewDetail(){
+		$data['content'] = 'view_detail';
+		$this->load('view_detail',$data['content']);
+	}
+
 
 
 

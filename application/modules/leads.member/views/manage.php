@@ -19,10 +19,10 @@
       </div>
     </div>
     <div class="col-lg-12 mt-4 ">
-        <div id="daftarTable"></div>
-        <div id='pagingTable'>
-          <?=$paging;?>
-        </div>
+      <div id="daftarTable"></div>
+      <div id='pagingTable'>
+        <?=$paging;?>
+      </div>
     </div>
   </div>
 </div>
@@ -36,7 +36,7 @@
 
   });
 
-  function viewDetail(){
+  function viewDetail() {
     loadMainContentMember("/leads.member/manage/viewDetail");
   }
 
