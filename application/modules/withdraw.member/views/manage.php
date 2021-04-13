@@ -1,43 +1,45 @@
-<div class="container mb-5">
+<div class="container mt-4">
+  <h4 class="fs-4 fw-bolder mb-1">
+    Withraw
+  </h4>
+  <p>
+    History, Withdraw Anda
+  </p>
   <div class="row mt-4">
-    <div class="col-lg-12">
-      <div class="card">
-        <div class="card-body">
-          <div class="d-flex align-items-center mb-4 pb-0 border-bottom">
-            <h4 class="card-title">Withdraw</h4>
-          </div>
-          <div class="table-responsive-md">
-            <table class="table table-striped table-bordered table-hover" id='daftarTable'>
-              <thead class="bg-light">
-                <tr>
-                  <th class="text-center align-middle" style="width: 1%;">NO</th>
-                  <th class="align-middle">TANGGAL</th>
-                  <th class="align-middle">JAM</th>
-                  <th class="align-middle">JUMLAH</th>
-                  <th class="align-middle">STATUS</th>
-                </tr>
-              </thead>
-              <tbody>
-                <?php
-                for ($iDaftar=0; $iDaftar < sizeof($arrayDaftar) ; $iDaftar++) {
-                  echo "
-                  <tr>
-                    <td style='text-align:center;'>".$arrayDaftar[$iDaftar]['nomor_daftar']."</td>
-                    <td>".$arrayDaftar[$iDaftar]['tanggal']."</td>
-                    <td>".$arrayDaftar[$iDaftar]['jam']."</td>
-                    <td style='text-align:right;'>".$arrayDaftar[$iDaftar]['total']."</td>
-                    <td>".$arrayDaftar[$iDaftar]['status']."</td>
-                  </tr>
-                  ";
-                }
-              ?>
-              </tbody>
-            </table>
-          </div>
-        </div>
-      </div>
-    </div>
+    <?php
+        for ($iDaftar=0; $iDaftar < sizeof($arrayDaftar) ; $iDaftar++) {
+          if ($arrayDaftar[$iDaftar]['status'] == "COMPLETE") {
+            $status = "<div class='fs-6 mt-2 badge badge-outline-success'>".$arrayDaftar[$iDaftar]['status']."</div>";
+          }else{
+             $status = "<div class='fs-6 mt-2 badge badge-outline-warning'>".$arrayDaftar[$iDaftar]['status']."</div>";
+          }
+          echo "
+              <div class='col-lg-6'>
+                <div class='card stl-card mb-3'>
+                    <div class='card-body py-1'>
+                        <div class='d-flex flex-row'>
+                            <div class='p-2 align-self-center'>
+                                <h4 class='px-2 py-2 bg-main white-text' style='border-radius: 100px;'>#".$arrayDaftar[$iDaftar]['nomor_daftar']."</h4>
+                            </div>
+                            <div class='p-2 align-self-center mt-2'>
+                                <p class='card-description mb-2'><i
+                                        class='icon icon-calendar  icon-sm text-primary mr-2'></i>".$arrayDaftar[$iDaftar]['tanggal']."</p>
+                                <p class='card-description mb-2'><i
+                                        class='icon icon-clock  icon-sm text-primary mr-2'></i>".$arrayDaftar[$iDaftar]['jam']."</p>
+                            </div>
+                            <div class='p-2  align-self-center ml-auto'>
+                                <div class='fs-6 fw-bolder'>Rp ".$arrayDaftar[$iDaftar]['total']."</div>
+                                ".$status."
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>";
+        }?>
   </div>
+</div>
+
+
 
   <script type="text/javascript">
     $('#daftarTable').cardtable();
