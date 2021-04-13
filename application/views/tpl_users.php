@@ -9,8 +9,6 @@
     <link href="<?= base_url();?>assets/ui-login/css/common.css" rel="stylesheet">
     <link href="<?= base_url();?>assets/ui-member/css/stacktable.css" rel="stylesheet">
     <link rel="shortcut icon"  sizes="123x46" href="<?= base_url();?>assets/images/logo_jualan.png" />
-
-
     <link href="https://fonts.googleapis.com/css?family=Poppins:400,600,700&amp;display=swap" rel="stylesheet">
     <link rel="stylesheet" href="<?= base_url();?>assets/ui-member/vendors/jquery-toast-plugin/jquery.toast.min.css">
     <link href="<?= base_url();?>assets/ui-login/css/theme-03.css" rel="stylesheet">

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <div id='loading'
-  style='position: fixed !important; left: 0 !important; top: 0 !important; right: 0 !important; bottom: 0 !important; background: rgba(0, 0, 0, 0.5); z-index: 999999; display: none!important;'>
+  style='position: fixed !important; left: 0 !important; top: 0 !important; right: 0 !important; bottom: 0 !important; background: rgba(255, 255, 255, 0.8); z-index: 999999; display: none!important;'>
   <img src='assets/images/svg/index.svg' class='my-auto mx-auto my-auto' style="position: fixed; left: 40% !important; top:30% !important ">
 </div>
 

@@ -9,56 +9,54 @@
             <a href="javascript:void(0)" onclick="loadMainContentMember('/shop.member/manage');"
               class="btn btn-sm btn-success pull-right" style="margin-right: 1%;"> Tambah Produk </a>
           </h4>
-          <div class="mt-2 mb-3 border-bottom"></div>
+          <div class="mt-2 mb-5 border-bottom"></div>
 
-          <div class="col-md-12">
-            <div class="table-with-scrollbar" id="chart" style='width: 100%;'>
-              <table class="table table-bordered table-hover menu">
-                <thead>
-                  <tr>
-                    <th style="width: 1%; font-weight: bold;">No </th>
-                    <th style="font-weight: bold;">Nama</th>
-                    <th style="font-weight: bold;">Harga</th>
-                    <th style="font-weight: bold; width: 13%">Jumlah</th>
-                    <th style="font-weight: bold;">Total</th>
-                    <th style="width: 15%; font-weight: bold;">#</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <?php
+          <div class="col-md-12 mt-5">
+            <?php
                 		$no = 0;
                 		foreach($list->result_array() as $row)
                 		{
                 			$no++;
                       $totalCart+= $row['total'];
                 		?>
-                  <tr>
-                    <td><?= $no?></td>
-                    <td><?=$row['nama_produk']?></td>
-                    <td style="text-align:right;"><?= number_format($row['harga_produk']);?></td>
-                    <td><input type="number" min='1' name="jumlahProduk<?= $no; ?>" id="jumlahProduk<?= $no; ?>"
-                        class="form-control" readonly value="<?=$row['qty']?>"></td>
-                    <td style="text-align:right;"><?= number_format($row['total']);?></td>
-                    <td>
-                      <a style="display: none;" id="btnSave<?= $row['id']; ?>" class="btn btn-success btn-xs"
-                        href="javascript:void(0)" onclick="saveProduk('<?= $row['id']; ?>','<?= $no; ?>')">
-                        <i class="  icon-doc menu-icon"></i>
+            <div class='row mx-auto list-cart'>
+              <div class='col-lg-3 col-md-5'>
+                <a href='#'>
+                  <img class='img-fluid rounded mb-3 mb-md-0' alt='' src='http://placehold.it/200x100'>
+                </a>
+              </div>
+              <div class='col-lg-9 col-md-7'>
+                <div class='row'>
+                  <div class='col-lg-6'>
+                    <h3 class='fs-6 fw-bolder'><?=$row['nama_produk']?></h3>
+                    <p><b>Harga</b> Rp <?= number_format($row['harga_produk']);?>
+                      <br class='mb-1'>
+                      <b>Total</b> Rp <?= number_format($row['total']);?>
+                    </p>
+                  </div>
+                  <div class='col-lg-6'>
+                    <div class='float-md-right'>
+                      <input type='number' min='1' name="jumlahProduk<?= $no; ?>" id="jumlahProduk<?= $no; ?>" readonly
+                        value="<?=$row['qty']?>" style='max-width: 85px;' class='form-control  mb-2'>
+                      <a style='display: none;' id='btnSave14' class='btn btn-success btn-xs' href='javascript:void(0)'
+                        onclick='saveProduk(' 14','1')'>
+                        <i class='  icon-doc menu-icon'></i>
                       </a>
-                      <a id="btnEdit<?= $no; ?>" class="btn btn-warning btn-xs"
-                        onclick="editProduk(<?= $row['id_produk']; ?>)">
-                        <i class=" icon-note menu-icon"></i>
+                      <a id='btnEdit1' class='btn btn-warning btn-xs' onclick='editProduk(2)'>
+                        <i class=' icon-note menu-icon'></i>
                       </a>
-                      <a class="btn btn-danger btn-xs" href="javascript:void(0)"
-                        onclick="deleteCart(<?= $row['id']; ?>)">
-                        <i class="icon-trash menu-icon"></i>
+                      <a class='btn btn-danger btn-xs' href='javascript:void(0)' onclick='deleteCart(14)'>
+                        <i class='icon-trash menu-icon'></i>
                       </a>
-                    </td>
-                  </tr>
-                  <?php }?>
-                  <td colspan="4"></td>
-                  <td style="text-align:right;"><?= number_format($totalCart);?></td>
-                </tbody>
-              </table>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <hr>
+            <?php }?>
+            <div class="float-right fw-bolder fs-5 mr-3">
+              Rp. <?= number_format($totalCart);?>
             </div>
           </div>
         </div>
