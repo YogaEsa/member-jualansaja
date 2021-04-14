@@ -9,7 +9,7 @@
        for ($i=0; $i < sizeof($dataJSON) ; $i++) {
              $no++;
         ?>
-     <div class="col-sm-12 col-md-6 col-lg-4 d-flex align-items-stretch">
+     <div class="col-sm-12 col-md-6 col-lg-4 d-flex align-items-stretch mb-4">
        <div class="card yellow-border">
          <img class="card-img-top" src="<?=$dataJSON[$i]['thumbnail'];?>" style="min-height: 334px;">
          <div class="card-body text-center py-1">

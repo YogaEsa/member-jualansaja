@@ -2,8 +2,10 @@
 <html>
 <div id='loading'
   style='position: fixed !important; left: 0 !important; top: 0 !important; right: 0 !important; bottom: 0 !important; background: rgba(255, 255, 255, 0.8); z-index: 999999; display: none!important;'>
-  <img src='assets/images/svg/index.svg' class='my-auto mx-auto my-auto' style="position: fixed; left: 40% !important; top:30% !important ">
+  <img src='assets/images/svg/index.svg' class='my-auto mx-auto my-auto' style="position: fixed; left: 50%; top: 30%; transform: translate(-50%, 0); ">
 </div>
+
+
 
 <head>
   <meta charset="utf-8">

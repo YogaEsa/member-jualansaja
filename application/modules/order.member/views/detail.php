@@ -298,7 +298,7 @@
      <div class="d-block d-sm-none text-center">
            <h5 class="font-weight-bold fs-5 text-capitalize text-main mb-4 mt-4">Metode Transfer</h5>
       </div>
-      <div class="row bg-secondary px-2 py-2">
+      <div class="row bg-secondary px-2 py-2 pt-5">
         <div class="col-md-4 text-center mb-4">
           <img src="https://i.ibb.co/51bmB77/BCA.png" style="max-width: 120px" />
           <div class="mt-3 fw-bolder fs-6">BCA : 777.246.1529</div>
