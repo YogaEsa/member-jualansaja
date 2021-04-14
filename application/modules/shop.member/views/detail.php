@@ -26,6 +26,8 @@
   #sync2 .synced .item {
     border: 4px solid #0c83e7;
   }
+
+  
 </style>
 <link rel="stylesheet" href="<?=base_url()."assets/ui-member/vendors/owl-carousel/";?>owl.carousel.min.css">
 <link rel="stylesheet" href="<?=base_url()."assets/ui-member/vendors/owl-carousel/";?>owl.theme.default.min.css">

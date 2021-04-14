@@ -116,7 +116,7 @@
               <div class="form-group row">
                 <label class="col-sm-2  col-form-label"></label>
                 <div class="col-sm-10">
-                  <a onclick="submitCheckOut();" class="btn btn-md btn-primary pull-right" style="margin-right: 1%;"
+                  <a onclick="submitCheckOut();" class="btn btn-md btn-primary pull-right text-white" style="margin-right: 1%;"
                     id="btnCheckOut">
                     CheckOut </a>
                 </div>

@@ -37,16 +37,16 @@
                   <div class='col-lg-6'>
                     <div class='float-md-right'>
                       <input type='number' min='1' name="jumlahProduk<?= $no; ?>" id="jumlahProduk<?= $no; ?>" readonly
-                        value="<?=$row['qty']?>" style='max-width: 85px;' class='form-control  mb-2'>
+                        value="<?=$row['qty']?>" style='max-width: 128px;' class='form-control  mb-2'>
                       <a style='display: none;' id='btnSave14' class='btn btn-success btn-xs' href='javascript:void(0)'
                         onclick='saveProduk(' 14','1')'>
                         <i class='  icon-doc menu-icon'></i>
                       </a>
-                      <a id='btnEdit1' class='btn btn-warning btn-xs' onclick='editProduk(2)'>
-                        <i class=' icon-note menu-icon'></i>
+                      <a id='btnEdit1' class='btn btn-warning btn-md' onclick='editProduk(2)'>
+                        <i class='fa fa-pencil text-white'></i>
                       </a>
-                      <a class='btn btn-danger btn-xs' href='javascript:void(0)' onclick='deleteCart(14)'>
-                        <i class='icon-trash menu-icon'></i>
+                      <a class='btn btn-danger btn-md' href='javascript:void(0)' onclick='deleteCart(14)'>
+                        <i class='fa fa-trash-o '></i>
                       </a>
                     </div>
                   </div>

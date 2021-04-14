@@ -39845,3 +39845,341 @@ ERROR - 2021-04-13 23:26:52 --> Severity: Warning --> Undefined variable $totalC
 DEBUG - 2021-04-13 23:26:52 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/views/cart.php
 INFO - 2021-04-13 23:26:52 --> Final output sent to browser
 DEBUG - 2021-04-13 23:26:52 --> Total execution time: 0.1277
+INFO - 2021-04-13 23:47:00 --> Config Class Initialized
+INFO - 2021-04-13 23:47:00 --> Hooks Class Initialized
+DEBUG - 2021-04-13 23:47:00 --> UTF-8 Support Enabled
+INFO - 2021-04-13 23:47:00 --> Utf8 Class Initialized
+INFO - 2021-04-13 23:47:00 --> URI Class Initialized
+INFO - 2021-04-13 23:47:00 --> Router Class Initialized
+INFO - 2021-04-13 23:47:00 --> Output Class Initialized
+INFO - 2021-04-13 23:47:00 --> Security Class Initialized
+DEBUG - 2021-04-13 23:47:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 23:47:00 --> Input Class Initialized
+INFO - 2021-04-13 23:47:00 --> Language Class Initialized
+INFO - 2021-04-13 23:47:00 --> Language Class Initialized
+INFO - 2021-04-13 23:47:00 --> Config Class Initialized
+INFO - 2021-04-13 23:47:00 --> Loader Class Initialized
+DEBUG - 2021-04-13 23:47:00 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 23:47:00 --> Helper loaded: language_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: file_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: url_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: form_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: html_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: typography_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: date_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: general_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: app_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: security_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: files_helper
+INFO - 2021-04-13 23:47:00 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 23:47:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 23:47:00 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 23:47:00 --> Upload Class Initialized
+INFO - 2021-04-13 23:47:00 --> Form Validation Class Initialized
+INFO - 2021-04-13 23:47:00 --> Email Class Initialized
+INFO - 2021-04-13 23:47:00 --> Model Class Initialized
+INFO - 2021-04-13 23:47:00 --> Controller Class Initialized
+DEBUG - 2021-04-13 23:47:00 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/models/Team_model.php
+INFO - 2021-04-13 23:47:00 --> Model Class Initialized
+DEBUG - 2021-04-13 23:47:00 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 23:47:00 --> Model Class Initialized
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 23
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "provinsi" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "kota" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 24
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "waktu" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 28
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "username" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 33
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined array key "status" C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 34
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined variable $paging C:\xampp\htdocs\member_madad-master\application\modules\team.member\views\manage.php 21
+DEBUG - 2021-04-13 23:47:00 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/manage.php
+INFO - 2021-04-13 23:47:00 --> Final output sent to browser
+DEBUG - 2021-04-13 23:47:00 --> Total execution time: 0.2687
+INFO - 2021-04-13 23:47:00 --> Config Class Initialized
+INFO - 2021-04-13 23:47:00 --> Config Class Initialized
+INFO - 2021-04-13 23:47:00 --> Hooks Class Initialized
+INFO - 2021-04-13 23:47:00 --> Hooks Class Initialized
+DEBUG - 2021-04-13 23:47:00 --> UTF-8 Support Enabled
+DEBUG - 2021-04-13 23:47:00 --> UTF-8 Support Enabled
+INFO - 2021-04-13 23:47:00 --> Utf8 Class Initialized
+INFO - 2021-04-13 23:47:00 --> Utf8 Class Initialized
+INFO - 2021-04-13 23:47:00 --> URI Class Initialized
+INFO - 2021-04-13 23:47:00 --> URI Class Initialized
+INFO - 2021-04-13 23:47:00 --> Router Class Initialized
+INFO - 2021-04-13 23:47:00 --> Router Class Initialized
+INFO - 2021-04-13 23:47:00 --> Output Class Initialized
+INFO - 2021-04-13 23:47:00 --> Output Class Initialized
+INFO - 2021-04-13 23:47:00 --> Security Class Initialized
+INFO - 2021-04-13 23:47:00 --> Security Class Initialized
+DEBUG - 2021-04-13 23:47:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 23:47:00 --> Input Class Initialized
+INFO - 2021-04-13 23:47:00 --> Language Class Initialized
+DEBUG - 2021-04-13 23:47:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 23:47:00 --> Input Class Initialized
+INFO - 2021-04-13 23:47:00 --> Language Class Initialized
+INFO - 2021-04-13 23:47:00 --> Language Class Initialized
+INFO - 2021-04-13 23:47:00 --> Config Class Initialized
+INFO - 2021-04-13 23:47:00 --> Loader Class Initialized
+DEBUG - 2021-04-13 23:47:00 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 23:47:00 --> Helper loaded: language_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: file_helper
+INFO - 2021-04-13 23:47:00 --> Language Class Initialized
+INFO - 2021-04-13 23:47:00 --> Config Class Initialized
+INFO - 2021-04-13 23:47:00 --> Loader Class Initialized
+INFO - 2021-04-13 23:47:00 --> Helper loaded: url_helper
+DEBUG - 2021-04-13 23:47:00 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 23:47:00 --> Helper loaded: language_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: form_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: file_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: html_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: typography_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: url_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: date_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: general_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: form_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: app_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: html_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: typography_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: security_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: files_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: date_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: general_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: app_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: security_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: files_helper
+INFO - 2021-04-13 23:47:00 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 23:47:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 23:47:00 --> Session: Class initialized using 'files' driver.
+INFO - 2021-04-13 23:47:00 --> Database Driver Class Initialized
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 23:47:00 --> Upload Class Initialized
+DEBUG - 2021-04-13 23:47:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 23:47:00 --> Form Validation Class Initialized
+INFO - 2021-04-13 23:47:00 --> Email Class Initialized
+INFO - 2021-04-13 23:47:00 --> Model Class Initialized
+INFO - 2021-04-13 23:47:00 --> Controller Class Initialized
+DEBUG - 2021-04-13 23:47:00 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/models/Team_model.php
+INFO - 2021-04-13 23:47:00 --> Model Class Initialized
+DEBUG - 2021-04-13 23:47:00 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 23:47:00 --> Model Class Initialized
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined variable $filterNama C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 47
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined variable $levelMember C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 48
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined variable $jumlahData C:\xampp\htdocs\member_madad-master\application\modules\team.member\controllers\Manage.php 50
+DEBUG - 2021-04-13 23:47:00 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/filter.php
+DEBUG - 2021-04-13 23:47:00 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/filter.php
+INFO - 2021-04-13 23:47:00 --> Final output sent to browser
+DEBUG - 2021-04-13 23:47:00 --> Total execution time: 0.1165
+INFO - 2021-04-13 23:47:00 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 23:47:00 --> Upload Class Initialized
+INFO - 2021-04-13 23:47:00 --> Form Validation Class Initialized
+INFO - 2021-04-13 23:47:00 --> Email Class Initialized
+INFO - 2021-04-13 23:47:00 --> Model Class Initialized
+INFO - 2021-04-13 23:47:00 --> Controller Class Initialized
+DEBUG - 2021-04-13 23:47:00 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/models/Team_model.php
+INFO - 2021-04-13 23:47:00 --> Model Class Initialized
+DEBUG - 2021-04-13 23:47:00 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 23:47:00 --> Model Class Initialized
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Undefined variable $dataPaggingContent C:\xampp\htdocs\member_madad-master\application\core\MY_Controller.php 109
+DEBUG - 2021-04-13 23:47:00 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/paging.php
+DEBUG - 2021-04-13 23:47:00 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/paging.php
+INFO - 2021-04-13 23:47:00 --> Final output sent to browser
+DEBUG - 2021-04-13 23:47:00 --> Total execution time: 0.1391
+INFO - 2021-04-13 23:47:00 --> Config Class Initialized
+INFO - 2021-04-13 23:47:00 --> Hooks Class Initialized
+DEBUG - 2021-04-13 23:47:00 --> UTF-8 Support Enabled
+INFO - 2021-04-13 23:47:00 --> Utf8 Class Initialized
+INFO - 2021-04-13 23:47:00 --> URI Class Initialized
+INFO - 2021-04-13 23:47:00 --> Router Class Initialized
+INFO - 2021-04-13 23:47:00 --> Output Class Initialized
+INFO - 2021-04-13 23:47:00 --> Security Class Initialized
+DEBUG - 2021-04-13 23:47:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-13 23:47:00 --> Input Class Initialized
+INFO - 2021-04-13 23:47:00 --> Language Class Initialized
+INFO - 2021-04-13 23:47:00 --> Language Class Initialized
+INFO - 2021-04-13 23:47:00 --> Config Class Initialized
+INFO - 2021-04-13 23:47:00 --> Loader Class Initialized
+DEBUG - 2021-04-13 23:47:00 --> Config file loaded: C:\xampp\htdocs\member_madad-master\application\config/myconfig.php
+INFO - 2021-04-13 23:47:00 --> Helper loaded: language_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: file_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: url_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: form_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: html_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: typography_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: date_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: general_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: app_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: security_helper
+INFO - 2021-04-13 23:47:00 --> Helper loaded: files_helper
+INFO - 2021-04-13 23:47:00 --> Database Driver Class Initialized
+DEBUG - 2021-04-13 23:47:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-04-13 23:47:00 --> Session: Class initialized using 'files' driver.
+ERROR - 2021-04-13 23:47:00 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\member_madad-master\application\libraries\Menu.php 12
+INFO - 2021-04-13 23:47:00 --> Upload Class Initialized
+INFO - 2021-04-13 23:47:00 --> Form Validation Class Initialized
+INFO - 2021-04-13 23:47:00 --> Email Class Initialized
+INFO - 2021-04-13 23:47:00 --> Model Class Initialized
+INFO - 2021-04-13 23:47:00 --> Controller Class Initialized
+DEBUG - 2021-04-13 23:47:00 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/models/Team_model.php
+INFO - 2021-04-13 23:47:00 --> Model Class Initialized
+DEBUG - 2021-04-13 23:47:00 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/shop.member/models/Wilayah_model.php
+INFO - 2021-04-13 23:47:00 --> Model Class Initialized
+DEBUG - 2021-04-13 23:47:01 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/daftar.php
+DEBUG - 2021-04-13 23:47:01 --> File loaded: C:\xampp\htdocs\member_madad-master\application\modules/team.member/views/daftar.php
+INFO - 2021-04-13 23:47:01 --> Final output sent to browser
+DEBUG - 2021-04-13 23:47:01 --> Total execution time: 0.2229
